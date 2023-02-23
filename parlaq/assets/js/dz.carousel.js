@@ -218,7 +218,7 @@ jQuery(window).on('load', function() {
 		var swiper = new Swiper( '.swiper-two', {
 			slidesPerView: 5,
 			spaceBetween: 30,
-			loop: true,
+			loop: false,
 			autoplay: {
 				delay: 2500,
 			},
@@ -256,7 +256,7 @@ jQuery(window).on('load', function() {
 			spaceBetween: 30,
 			slidesPerGroup: 1,
             // loopFillGroupWithBlank: true,
-			loop: true,
+			loop: false,
 				pagination: {
 				el: ".swiper-pagination-two",
 			},

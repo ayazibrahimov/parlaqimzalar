@@ -26,7 +26,7 @@
 						<div class="col-xl-8 col-lg-8">
 							<div class="dz-blog style-1 bg-white m-b30">
 								<div class="dz-media dz-img-effect zoom">
-								<a href="blog-detail.php"><img src="assets/images/booksimage/blog-4.jpg" alt=""></a>
+								<a href="blog-detail.php"><img src="assets/images/booksimage/blog-2.png" alt=""></a>
 								</div>
 								<div class="dz-info">
 									<h4 class="dz-title">
@@ -45,7 +45,7 @@
 							</div>
 							<div class="dz-blog style-1 bg-white m-b30">
 								<div class="dz-media dz-img-effect zoom">
-								<a href="blog-detail.php"><img src="assets/images/booksimage/blog-4.jpg" alt=""></a>
+								<a href="blog-detail.php"><img src="assets/images/booksimage/blog-3.png" alt=""></a>
 								</div>
 								<div class="dz-info">
 									<h4 class="dz-title">
@@ -64,7 +64,7 @@
 							</div>
 							<div class="dz-blog style-1 bg-white m-b30">
 								<div class="dz-media dz-img-effect zoom">
-								<a href="blog-detail.php"><img src="assets/images/booksimage/blog-4.jpg" alt=""></a>	
+								<a href="blog-detail.php"><img src="assets/images/booksimage/blog-5.jpg" alt=""></a>	
 								</div>
 								<div class="dz-info">
 									<h4 class="dz-title">

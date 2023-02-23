@@ -7,7 +7,7 @@
 		<section class="content-inner border-bottom">
 			<div class="container">
 				<div class="d-flex justify-content-between align-items-center">
-					<h4 class="title">Books</h4>
+					<h4 class="title">Endirim</h4>
 				</div>
 				<div class="filter-area m-b30">
 					<!-- <div class="grid-area">
@@ -221,7 +221,7 @@
 					<div class="col-md-12 col-sm-12">
 						<div class="dz-shop-card style-2">
 							<div class="dz-media">
-								<img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book">									
+							<a href="books-detail.php"><img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>							
 							</div>
 							<div class="dz-content">
 								<div class="dz-header">
@@ -264,17 +264,16 @@
 									</div>
 									<div class="rate">
 										<ul class="book-info">
-											<li><span>Müəllif</span>Xaliq Hüseyn</li>
+											<li><span>Müəllif</span><a href="author.php" class="author__info">Xaliq Hüseyn</a></li>
 											<li><span>Çap</span>Parlaq İmzalar</li>
 											<li><span>İl</span>2020</li>
 										</ul>
 										<div class="d-flex">
 											<a href="shop-cart.html" class="btn btn-secondary btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
 											<div class="bookmark-btn style-1">
-												<input class="form-check-input" type="checkbox" id="flexCheckDefault1">
-												<label class="form-check-label" for="flexCheckDefault1">
-													<i class="flaticon-heart"></i>
-												</label>
+											 <div class="bestseller">
+	                                           <i class="far fa-heart js-heart heart bestseller__heart"></i>
+                                             </div>
 											</div>
 										</div>
 									</div>
@@ -285,7 +284,7 @@
 					<div class="col-md-12 col-sm-12">
 						<div class="dz-shop-card style-2">
 							<div class="dz-media">
-								<img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book">									
+							<a href="books-detail.php"><img src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>									
 							</div>
 							<div class="dz-content">
 								<div class="dz-header">
@@ -309,7 +308,7 @@
 											<p class="dz-para">
 											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə, vətəndaş müharibəsi və miqrasiya kimi mövzulara bədii baxış bucağı gətirir. Bundan əlavə, müəllif xatirələr, aydınlaşdırma, cinsi münasibətlər kimi qavrayışlara da toxunur. Kitab sözün əsl mənasında dostluq, sədaqət, xəyanət, günahlardan təmizlənmə haqqındadır.
 											<div>
-											<span class="badge">Bu gün üçün 10% endirim</span>
+												<span class="badge">Bu gün üçün 10% endirim</span>
 												<span class="badge">50% endirim</span>
 										
 											</div>
@@ -328,17 +327,16 @@
 									</div>
 									<div class="rate">
 										<ul class="book-info">
-											<li><span>Müəllif</span>Xaliq Hüseyn</li>
+											<li><span>Müəllif</span><a href="author.php" class="author__info">Xaliq Hüseyn</a></li>
 											<li><span>Çap</span>Parlaq İmzalar</li>
 											<li><span>İl</span>2020</li>
 										</ul>
 										<div class="d-flex">
 											<a href="shop-cart.html" class="btn btn-secondary btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
 											<div class="bookmark-btn style-1">
-												<input class="form-check-input" type="checkbox" id="flexCheckDefault2">
-												<label class="form-check-label" for="flexCheckDefault2">
-													<i class="flaticon-heart"></i>
-												</label>
+											 <div class="bestseller">
+	                                           <i class="far fa-heart js-heart heart bestseller__heart"></i>
+                                             </div>
 											</div>
 										</div>
 									</div>
@@ -349,7 +347,7 @@
 					<div class="col-md-12 col-sm-12">
 						<div class="dz-shop-card style-2">
 							<div class="dz-media">
-								<img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book">									
+							<a href="books-detail.php"><img src="assets/images/booksimage/sehra-ciceyi.jpg" alt="book"></a>										
 							</div>
 							<div class="dz-content">
 								<div class="dz-header">
@@ -373,7 +371,7 @@
 											<p class="dz-para">
 											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə, vətəndaş müharibəsi və miqrasiya kimi mövzulara bədii baxış bucağı gətirir. Bundan əlavə, müəllif xatirələr, aydınlaşdırma, cinsi münasibətlər kimi qavrayışlara da toxunur. Kitab sözün əsl mənasında dostluq, sədaqət, xəyanət, günahlardan təmizlənmə haqqındadır.
 											<div>
-											<span class="badge">Bu gün üçün 10% endirim</span>
+												<span class="badge">Bu gün üçün 10% endirim</span>
 												<span class="badge">50% endirim</span>
 										
 											</div>
@@ -392,17 +390,16 @@
 									</div>
 									<div class="rate">
 										<ul class="book-info">
-											<li><span>Müəllif</span>Xaliq Hüseyn</li>
+											<li><span>Müəllif</span><a href="author.php" class="author__info">Xaliq Hüseyn</a></li>
 											<li><span>Çap</span>Parlaq İmzalar</li>
 											<li><span>İl</span>2020</li>
 										</ul>
 										<div class="d-flex">
 											<a href="shop-cart.html" class="btn btn-secondary btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
 											<div class="bookmark-btn style-1">
-												<input class="form-check-input" type="checkbox" id="flexCheckDefault3">
-												<label class="form-check-label" for="flexCheckDefault3">
-													<i class="flaticon-heart"></i>
-												</label>
+											 <div class="bestseller">
+	                                           <i class="far fa-heart js-heart heart bestseller__heart"></i>
+                                             </div>
 											</div>
 										</div>
 									</div>
@@ -410,134 +407,7 @@
 							</div>
 						</div>
 					</div>
-					<div class="col-md-12 col-sm-12">
-						<div class="dz-shop-card style-2">
-							<div class="dz-media">
-								<img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book">									
-							</div>
-							<div class="dz-content">
-								<div class="dz-header">
-									<div>
-										<ul class="dz-tags">
-											<li><a href="books-detail.php">Dram</a></li>
-											<!-- <li><a href="books-detail.php">SCIENCE,</a></li>
-											<li><a href="books-detail.php">COMEDY</a></li> -->
-										</ul>
-										<h4 class="title mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
-									</div>
-									<div class="price">
-										<span class="price-num text-primary"> ₼10.00</span>
-										<del> ₼15.00</del>
-									</div>
-								</div>
-								
-								<div class="dz-body">
-									<div class="dz-rating-box">
-										<div>
-											<p class="dz-para">
-											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə, vətəndaş müharibəsi və miqrasiya kimi mövzulara bədii baxış bucağı gətirir. Bundan əlavə, müəllif xatirələr, aydınlaşdırma, cinsi münasibətlər kimi qavrayışlara da toxunur. Kitab sözün əsl mənasında dostluq, sədaqət, xəyanət, günahlardan təmizlənmə haqqındadır.
-											<div>
-											    <span class="badge">Bu gün üçün 10% endirim</span>
-												<span class="badge">50% endirim</span>
-										
-											</div>
-										</div>
-										<div class="review-num">
-											<h4>4.0</h4>
-											<ul class="dz-rating">
-												<li><i class="flaticon-star text-yellow"></i></li>	
-												<li><i class="flaticon-star text-yellow"></i></li>	
-												<li><i class="flaticon-star text-yellow"></i></li>	
-												<li><i class="flaticon-star text-yellow"></i></li>		
-												<li><i class="flaticon-star text-muted"></i></li>		
-											</ul>
-											<span><a href="javascript:void(0);"> 235 Baxış</a></span>
-										</div>
-									</div>
-									<div class="rate">
-										<ul class="book-info">
-											<li><span>Müəllif</span>Xaliq Hüseyn</li>
-											<li><span>Çap</span>Parlaq İmzalar</li>
-											<li><span>İl</span>2020</li>
-										</ul>
-										<div class="d-flex">
-											<a href="shop-cart.html" class="btn btn-secondary btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
-											<div class="bookmark-btn style-1">
-												<input class="form-check-input" type="checkbox" id="flexCheckDefault4">
-												<label class="form-check-label" for="flexCheckDefault4">
-													<i class="flaticon-heart"></i>
-												</label>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-12 col-sm-12">
-						<div class="dz-shop-card style-2">
-							<div class="dz-media">
-								<img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book">									
-							</div>
-							<div class="dz-content">
-								<div class="dz-header">
-									<div>
-										<ul class="dz-tags">
-											<li><a href="books-detail.php">Dram</a></li>
-											<!-- <li><a href="books-detail.php">SCIENCE,</a></li>
-											<li><a href="books-detail.php">COMEDY</a></li> -->
-										</ul>
-										<h4 class="title mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
-									</div>
-									<div class="price">
-										<span class="price-num text-primary"> ₼10.00</span>
-										<del> ₼15.00</del>
-									</div>
-								</div>
-								
-								<div class="dz-body">
-									<div class="dz-rating-box">
-										<div>
-											<p class="dz-para">
-											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə, vətəndaş müharibəsi və miqrasiya kimi mövzulara bədii baxış bucağı gətirir. Bundan əlavə, müəllif xatirələr, aydınlaşdırma, cinsi münasibətlər kimi qavrayışlara da toxunur. Kitab sözün əsl mənasında dostluq, sədaqət, xəyanət, günahlardan təmizlənmə haqqındadır.
-											<div>
-										     	<span class="badge">Bu gün üçün 10% endirim</span>
-												<span class="badge">50% endirim</span>
-										
-											</div>
-										</div>
-										<div class="review-num">
-											<h4>4.0</h4>
-											<ul class="dz-rating">
-												<li><i class="flaticon-star text-yellow"></i></li>	
-												<li><i class="flaticon-star text-yellow"></i></li>	
-												<li><i class="flaticon-star text-yellow"></i></li>	
-												<li><i class="flaticon-star text-yellow"></i></li>		
-												<li><i class="flaticon-star text-muted"></i></li>		
-											</ul>
-											<span><a href="javascript:void(0);"> 235 Baxış</a></span>
-										</div>
-									</div>
-									<div class="rate">
-										<ul class="book-info">
-											<li><span>Müəllif</span>Xaliq Hüseyn</li>
-											<li><span>Çap</span>Parlaq İmzalar</li>
-											<li><span>İl</span>2020</li>
-										</ul>
-										<div class="d-flex">
-											<a href="shop-cart.html" class="btn btn-secondary btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
-											<div class="bookmark-btn style-1">
-												<input class="form-check-input" type="checkbox" id="flexCheckDefault5">
-												<label class="form-check-label" for="flexCheckDefault5">
-													<i class="flaticon-heart"></i>
-												</label>
-											</div>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
+				
 				
 					
 				</div>

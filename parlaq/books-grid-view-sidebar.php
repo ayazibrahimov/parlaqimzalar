@@ -614,11 +614,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -650,11 +648,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -686,11 +682,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -722,11 +716,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -758,11 +750,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -794,11 +784,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -830,11 +818,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -866,11 +852,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -902,11 +886,9 @@
 										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
-										<input class="form-check-input" type="checkbox" id="flexCheckDefault12">
-										<label class="heart__lavel-icon" for="flexCheckDefault12">
-										<i class="fa-regular fa-heart fa-xl heart__solid"></i>
-										<i style='color:red;' class="fa-solid fa-heart fa-xl heart__red unShown"></i>
-										</label>
+									<div class="heart__icon--boxed">
+	                                 <i class="far fa-heart js-heart heart"></i>
+                                    </div>
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
@@ -932,6 +914,7 @@
 									</div>
 								</div>
 							</div>
+							
 							
 							
 							

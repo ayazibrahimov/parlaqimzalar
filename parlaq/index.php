@@ -194,11 +194,11 @@
 									<div class="price">
 										<span class="price-num">₼8.00</span>
 										<del>₼10.00</del>
-										<span class="badge">20% OFF</span>
+										<span class="badge">20% ENDİRİM</span>
 									</div>
 									<div class="bookcard-footer">
-										<a href="shop-cart.php" class="btn btn-primary btnhover m-t15 m-r10">İndi al</a>
-										<a href="books-detail.php" class="btn btn-outline-secondary btnhover m-t15">Ətraflı bax</a>
+										<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+										<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı bax</a>
 									</div>
 								</div>
 							</div>
@@ -219,11 +219,11 @@
 									<div class="price">
 										<span class="price-num">₼8.00</span>
 										<del>₼10.00</del>
-										<span class="badge">20% OFF</span>
+										<span class="badge">20% ENDİRİM</span>
 									</div>
 									<div class="bookcard-footer">
-										<a href="shop-cart.php" class="btn btn-primary btnhover m-t15 m-r10">İndi al</a>
-										<a href="books-detail.php" class="btn btn-outline-secondary btnhover m-t15">Ətraflı bax</a>
+										<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+										<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı bax</a>
 									</div>
 								</div>
 							</div>
@@ -244,11 +244,11 @@
 									<div class="price">
 										<span class="price-num">₼8.00</span>
 										<del>₼10.00</del>
-										<span class="badge">20% OFF</span>
+										<span class="badge">20% ENDİRİM</span>
 									</div>
 									<div class="bookcard-footer">
-										<a href="shop-cart.php" class="btn btn-primary btnhover m-t15 m-r10">İndi al</a>
-										<a href="books-detail.php" class="btn btn-outline-secondary btnhover m-t15">Ətraflı bax</a>
+										<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+										<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı bax</a>
 									</div>
 								</div>
 							</div>
@@ -269,40 +269,16 @@
 									<div class="price">
 										<span class="price-num">₼8.00</span>
 										<del>₼10.00</del>
-										<span class="badge">20% OFF</span>
+										<span class="badge">20% ENDİRİM</span>
 									</div>
 									<div class="bookcard-footer">
-										<a href="shop-cart.php" class="btn btn-primary btnhover m-t15 m-r10">İndi al</a>
-										<a href="books-detail.php" class="btn btn-outline-secondary btnhover m-t15">Ətraflı bax</a>
+										<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+										<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı bax</a>
 									</div>
 								</div>
 							</div>
 						</div>
-						<div class="swiper-slide">
-							<div class="books-card style-2">
-								<div class="dz-media">
-									<img src="assets/images/booksimage/Babil-yanarkən.png" alt="book">									
-								</div>
-								<div class="dz-content">
-									<h6 class="sub-title">Babil Yanarkən</h6>
-									<h2 class="title">Babil Yanarkən</h2>
-									<ul class="dz-tags">
-										<li>Yunus Şən</li>
-										<li>Business & Strategy</li>
-									</ul>
-									<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən yaşananlar jurnalist obyektlivliyi ilə “Babil yanarkən“nin səhifələrində yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi xalqın həyatından heyrətamiz hissələr verilir</p>
-									<div class="price">
-										<span class="price-num">₼8.00</span>
-										<del>₼10.00</del>
-										<span class="badge">20% OFF</span>
-									</div>
-									<div class="bookcard-footer">
-										<a href="shop-cart.php" class="btn btn-primary btnhover m-t15 m-r10">İndi al</a>
-										<a href="books-detail.php" class="btn btn-outline-secondary btnhover m-t15">Ətraflı bax</a>
-									</div>
-								</div>
-							</div>
-						</div>
+						
 					
 					</div>
 					<div class="pagination-align style-2">
@@ -315,7 +291,7 @@
 		</section>
 		<!-- Feature Product End -->
 		
-		<!-- Special Offer-->
+		<!-- Special ENDİRİMer-->
 		<section class="content-inner-2">
 			<div class="container">
 				<div class="section-head book-align">
@@ -464,7 +440,7 @@
 				</div>
 			</div>
 		</section>
-		<!-- Special Offer End -->
+		<!-- Special ENDİRİMer End -->
 		
 		<!-- Testimonial -->
 		<section class="content-inner-2 testimonial-wrapper">

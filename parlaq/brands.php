@@ -8,7 +8,7 @@
 		<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm" style="background-image:url(assets/images/booksimage/bg3.jpg);">
 			<div class="container">
 				<div class="dz-bnr-inr-entry">
-					<h1>FAQ's</h1>
+					<h1>Markalar</h1>
 					<nav aria-label="breadcrumb" class="breadcrumb-row">
 						<ul class="breadcrumb">
 							<li class="breadcrumb-item"><a href="index.php">Ana Səhifə</a></li>
@@ -23,10 +23,12 @@
 		<section class="main-faq-content content-inner">
 			<div class="container">
 				<div class="row">
+					<div class="col-12">
+					<h2 class="title">Parlaq İmzalar</h2>
+					</div>
 					<div class="col-lg-9 col-sm-8  align-self-center mb-4">
 						<div class="faq-content-box">
 							<div class="section-head">
-								<h2 class="title">Parlaq İmzalar</h2>
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus necessitatibus voluptate eaque, quos quidem quod itaque, aperiam nulla iusto autem ad maxime perferendis sed iste ullam vero doloremque, ipsum hic animi? Soluta, officia harum nesciunt sapiente tempore assumenda, reiciendis ipsam ipsum voluptatibus voluptas animi exercitationem. Molestias eius quia non laborum?</p>
 							</div>
 						
@@ -44,6 +46,9 @@
 		<section class="main-faq-content bg-light content-inner">
 			<div class="container">
 				<div class="row">
+				<div class="col-12">
+					<h2 class="title">Simurq</h2>
+					</div>
 					<div class="col-lg-3 col-sm-4 mb-4">
 						<div class="faq-img-box rounded-md">
 							<img src="assets/images/booksimage/parlaqSimurq.svg" alt="FAQ Image">
@@ -52,7 +57,7 @@
 					<div class="col-lg-9 col-sm-8 align-self-center mb-4">
 						<div class="faq-content-box">
 							<div class="section-head">
-								<h2 class="title">Simurq</h2>
+								<!-- <h2 class="title">Simurq</h2> -->
 								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit nihil sed, voluptatum, nisi, porro recusandae nesciunt eos veniam eum aperiam blanditiis quasi ipsum libero officiis doloremque sunt? Modi temporibus enim voluptates placeat unde consectetur consequatur eligendi recusandae nulla. Cum eligendi doloribus ducimus accusamus, optio omnis consectetur saepe suscipit culpa cumque!</p>
 							</div>
 						
@@ -66,10 +71,13 @@
 		<section class="main-faq-content content-inner">
 			<div class="container">
 				<div class="row">
+					<div class="col-12">
+					<h2 class="title">Parlaq İmzalar</h2>
+					</div>
 					<div class="col-lg-9 col-sm-8 align-self-center mb-4">
 						<div class="faq-content-box">
 							<div class="section-head">
-								<h2 class="title">İrşad</h2>
+								<!-- <h2 class="title">İrşad</h2> -->
 								<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Omnis vitae vero eum nulla eveniet sapiente delectus libero, voluptatem ut possimus qui repellat nam maxime nisi dolores. Omnis, alias voluptates ullam maiores deleniti odio labore iste a libero asperiores numquam hic quidem nam deserunt nemo aliquid voluptate officiis velit temporibus. Quo!</p>
 							</div>
 						

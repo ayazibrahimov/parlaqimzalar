@@ -54,7 +54,7 @@
 												<div class="writer-info">
 													<img src="assets/images/booksimage/profile2 (1).jpg" alt="book">
 													<div>
-														<span>Yazar</span> Edouard Louis
+														<span>Yazar</span> <a href="author.php" class="author__info">Edouard Louis</a>
 													</div>
 												</div>
 											</li>
@@ -81,10 +81,9 @@
 											</div>
 											<a href="shop-cart.php" class="btn btn-primary btnhover2"><i class="flaticon-shopping-cart-1"></i> <span>Səbətə at</span></a>
 											<div class="bookmark-btn style-1 d-none d-sm-block">
-												<input class="form-check-input" type="checkbox" id="flexCheckDefault1">
-												<label class="form-check-label" for="flexCheckDefault1">
-													<i class="flaticon-heart"></i>
-												</label>
+											<div class="bestseller">
+	                                           <i class="far fa-heart js-heart heart bestseller__heart"></i>
+                                             </div>
 											</div>
 										</div>
 									</div>
@@ -270,7 +269,10 @@
 												<span class="price-num">₼9.99</span>
 												<del>₼10.00</del>
 											</div>
-											<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i class="flaticon-shopping-cart-1 me-2"></i> Səbətə at</a>
+											<div class="w-100">
+											  <a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i class="flaticon-shopping-cart-1 me-2"></i> Səbətə at</a>
+											</div>
+											
 										</div>
 									</div>
 								</div>

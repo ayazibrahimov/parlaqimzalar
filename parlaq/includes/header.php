@@ -13,6 +13,7 @@
 	<meta property="og:description" content="Parlaq İmzalar"/>
 	<meta property="og:image" content="https://makaanlelo.com/tf_products_007/bookland/xhtml/social-image.png"/>
 	<meta name="format-detection" content="telephone=no">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 	
 	<!-- FAVICONS ICON -->
 	<link rel="icon" type="assets/image/x-icon" href="assets/images/favicon.png"/>
@@ -247,11 +248,11 @@
 								</ul> -->
 							</li>
 							<!-- <li><a href="index.php"><span>Ana Səhifə</span></a></li> -->
-							<li class="sub-menu-down"><a href="books-grid-view-sidebar.php"><span>Markalar</span></a>
+							<li class="sub-menu-down"><a href="brands.php"><span>Markalar</span></a>
 								<ul class="sub-menu">
-									<li><a href="books-grid-view.html">Parlaq İmzalar</a></li>
-									<li><a href="books-grid-view-sidebar.html">Simurq</a></li>
-									<li><a href="books-grid-view-sidebar.html">İrşad</a></li>
+									<li><a href="brands.php">Parlaq İmzalar</a></li>
+									<li><a href="brands.php">Simurq</a></li>
+									<li><a href="brands.php">İrşad</a></li>
 									
 								</ul>
 							</li>
@@ -273,21 +274,21 @@
 							</li>
 							<li class="sub-menu-down"><a href="books-grid-view-sidebar.php"><span>Seriyalar</span></a>
 								<ul class="sub-menu">
-									<li><a href="books-grid-view.html">Klassika</a></li>
-									<li><a href="books-grid-view-sidebar.html">Yoldaş</a></li>
-									<li><a href="books-list.html">Azərbaycan klassikası</a></li>
+									<li><a href="books-grid-view-sidebar.php">Klassika</a></li>
+									<li><a href="books-grid-view-sidebar.php">Yoldaş</a></li>
+									<li><a href="books-grid-view-sidebar.php">Azərbaycan klassikası</a></li>
 								</ul>
 							</li>
-							<li class="sub-menu-down"><a href="books-list.php"><span>Best Seller</span></a>
+							<li class="sub-menu-down"><a href="books-grid-view-sidebar.php"><span>Best Seller</span></a>
 								
 							</li>
-							<li class="sub-menu-down"><a href="blog-large-sidebar.php"><span>Endirim</span></a>
+							<li class="sub-menu-down"><a href="books-list.php"><span>Endirim</span></a>
 							</li>
-							<li class="sub-menu-down"><a href="blog-large-sidebar.php"><span>Müəllif</span></a>
+							<li class="sub-menu-down"><a href=""><span>Müəllif</span></a>
 								<ul class="sub-menu">
-									<li><a href="blog-grid.html">Yerli</a></li>
-									<li><a href="blog-large-sidebar.html">Xarici</a></li>
-									<li><a href="blog-large-sidebar.html">Bir də təqdimat günləri</a></li>
+									<li><a href="">Yerli</a></li>
+									<li><a href="">Xarici</a></li>
+									<li><a href="">Bir də təqdimat günləri</a></li>
 
 								</ul>
 							</li>
