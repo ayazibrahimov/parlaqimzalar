@@ -216,19 +216,19 @@ jQuery(window).on('load', function() {
 
 	if(jQuery('.swiper-two').length > 0){
 		var swiper = new Swiper( '.swiper-two', {
-			slidesPerView: 5,
+			slidesPerView: 4,
 			spaceBetween: 30,
 			loop: false,
-			autoplay: {
-				delay: 2500,
-			},
+			// autoplay: {
+			// 	delay: 2500,
+			// },
 			pagination: {
 			  el: ".swiper-pagination",
 			  clickable: true,
 			},
 			breakpoints: {
 				1200: {
-					slidesPerView: 5,
+					slidesPerView: 4,
 				},
 				1024: {
 					slidesPerView: 4,
