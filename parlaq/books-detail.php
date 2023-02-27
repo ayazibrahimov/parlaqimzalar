@@ -42,13 +42,13 @@
 									</div>
 									<div class="social-area">
 										<ul class="dz-social-icon style-3">
-											<li><a href="https://www.facebook.com/dexignzone" target="_blank"><i
+											<li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank"><i
 														class="fa-brands fa-facebook-f"></i></a></li>
-											<li><a href="https://twitter.com/dexignzones" target="_blank"><i
+											<li><a href="https://www.telegram.com/sharer/sharer.php?u=example.org" target="_blank"><i
 														class="fa-brands fa-twitter"></i></a></li>
-											<li><a href="https://www.whatsapp.com/" target="_blank"><i
+											<li><a href="https://www.whatsapp.com/sharer/sharer.php?u=example.org" target="_blank"><i
 														class="fa-brands fa-whatsapp"></i></a></li>
-											<li><a href="https://www.google.com/intl/en-GB/gmail/about/"
+											<li><a href="https://www.mail.com/sharer/sharer.php?u=example.org"
 													target="_blank"><i class="fa-solid fa-envelope"></i></a></li>
 										</ul>
 									</div>
@@ -67,7 +67,7 @@
 											</div>
 										</li>
 										<li><span>Çap</span>Parlaq imza</li>
-										<li><span>İl</span>2020</li>
+										<li><span>Kitaba bax</span> <p><a class="book__pdf" href="assets/images/pdf/xaricetehsilsened.pdf">Göz at</a></p></li>
 									</ul>
 								</div>
 								<p class="text-1">2012, Paris. Édouard Louis arkadaşlarıyla yediği Noel yemeğinden sonra

@@ -687,6 +687,10 @@ var swiper = new Swiper(".mainMenuSwiper", {
     //     delay: 2000,
     //     disableOnInteraction: false,
     //   },
+	navigation: {
+        nextEl: ".swiper-button-next--arrow",
+        prevEl: ".swiper-button-prev--arrow",
+      },
 });
 
 

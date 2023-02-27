@@ -53,11 +53,13 @@
     					</a>
     				</div>
     				<!-- <div class="swiper-slide"><img src="assets/images/booksimage/mainImage2.webp" alt=""></div>
-                <div class="swiper-slide"><img src="assets/images/booksimage/mainImage3.webp" alt=""></div>
-                <div class="swiper-slide"><img src="assets/images/booksimage/mainImage4.webp" alt=""></div>
-                <div class="swiper-slide"><img src="assets/images/booksimage/mainImage5.webp" alt=""></div>
-                <div class="swiper-slide"><img src="assets/images/booksimage/mainImage6.webp" alt=""></div> -->
+                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage3.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage4.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage5.webp" alt=""></div>
+                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage6.webp" alt=""></div> -->
     			</div>
+				<div class="swiper-button-next--arrow"></div>
+                <div class="swiper-button-prev--arrow"></div>
     		</div>
     	</div>
     	<!--Swiper Banner End-->
@@ -92,10 +94,18 @@
     				<h2 class="title">Yeni kitablar</h2>
     				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
     					labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    					laboris</p>
+    					laboris</p>	
     			</div>
+				<div class="w-100 d-flex justify-content-end pb-3">
+				    <div class="pagination-align style-1">
+    					<div class="swiper-button-prev swiper-button-prev--1"><i class="fa-solid fa-angle-left"></i></div>
+    					<div class="swiper-pagination-two"></div>
+    					<div class="swiper-button-next swiper-button-next--2"><i class="fa-solid fa-angle-right"></i></div>
+    				</div>
+				     
+				</div>
     			<!-- Swiper -->
-    			<div class="swiper-container swiper-two">
+    			<div class="swiper-container books-wrapper-3 swiper-four--double">
     				<?php include 'includes/cards.php' ?>
     			</div>
     		</div>

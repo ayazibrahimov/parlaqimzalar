@@ -261,7 +261,7 @@ jQuery(window).on('load', function() {
 				el: ".swiper-pagination-two",
 			},
 			autoplay: {
-				delay: 3500,
+				delay: 3000,
 			},
 			navigation: {
 				nextEl: ".swiper-button-next",
@@ -269,11 +269,46 @@ jQuery(window).on('load', function() {
 			},	
 			breakpoints: {
 				1200: {
-					slidesPerView: 5,
-				},
-				1191: {
 					slidesPerView: 4,
 				},
+				767: {
+					slidesPerView: 3,
+				},
+				591: {
+					slidesPerView: 2,
+					centeredSlides: true,
+				},
+				320: {
+					slidesPerView: 2,
+					spaceBetween: 15,
+					centeredSlides: true,
+				},
+			}
+		});
+	}
+	if(jQuery('.swiper-four--double').length > 0){
+		var swiper = new Swiper( '.swiper-four--double', {
+			slidesPerView: 4,
+			centeredSlides: false,
+			spaceBetween: 30,
+			slidesPerGroup: 1,
+            // loopFillGroupWithBlank: true,
+			loop: false,
+				pagination: {
+				el: ".swiper-pagination-two",
+			},
+			autoplay: {
+				delay: 3500,
+			},
+			navigation: {
+				nextEl: ".swiper-button-prev--1",
+				prevEl: ".swiper-button-next--2",
+			},	
+			breakpoints: {
+				1200: {
+					slidesPerView: 4,
+				},
+	
 				767: {
 					slidesPerView: 3,
 				},
