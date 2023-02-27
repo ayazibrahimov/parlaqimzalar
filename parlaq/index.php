@@ -151,7 +151,8 @@
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
-    									xalqın həyatından heyrətamiz hissələr verilir</p>
+    									xalqın həyatından heyrətamiz hissələr verilir.Cezayir’den kaçarak nasıl Fransa’ya 
+										geldiğini anlatır. Gecenin geri kalanını sohbet ederek, gülerek geçirirler.</p>
     								<div class="price">
     									<span class="price-num">₼8.00</span>
     									<del>₼10.00</del>
