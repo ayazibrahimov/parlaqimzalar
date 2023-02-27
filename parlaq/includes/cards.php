@@ -4,7 +4,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -35,7 +35,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -66,7 +66,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -97,7 +97,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -128,7 +128,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -159,7 +159,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -190,7 +190,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -221,7 +221,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -252,7 +252,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">
@@ -283,7 +283,7 @@
 						 <div class="col-book style-2">
 								<div class="dz-shop-card style-1">
 									<div class="dz-media dz-media--data">
-										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>								
+										<a href="books-detail.php"><img class="dz-media--data---img" src="assets/images/booksimage/c&c.jpg" alt="book"></a>								
 									</div>
 									<div class="bookmark-btn style-2">
 									<div class="heart__icon--boxed">

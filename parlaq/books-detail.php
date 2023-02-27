@@ -11,14 +11,14 @@
 							<div class="swiper bookSwiper">
 								<div class="swiper-wrapper">
 									<div class="swiper-slide"><a data-fancybox="gallery"
-											href="assets/images/booksimage/imageTest-1.webp"><img
-												src="assets/images/booksimage/imageTest-1.webp" alt=""></a></div>
+											href="assets/images/booksimage/c&c.jpg"><img
+												src="assets/images/booksimage/c&c.jpg" alt=""></a></div>
 									<div class="swiper-slide"><a data-fancybox="gallery"
-											href="assets/images/booksimage/imageTest-2.webp"><img
-												src="assets/images/booksimage/imageTest-2.webp" alt=""></a></div>
+											href="assets/images/booksimage/c&c-back.jpg"><img
+												src="assets/images/booksimage/c&c-back.jpg" alt=""></a></div>
 									<div class="swiper-slide"><a data-fancybox="gallery"
-											href="assets/images/booksimage/imageTest-3.webp"><img
-												src="assets/images/booksimage/imageTest-3.webp" alt=""></a></div>
+											href="assets/images/booksimage/c&c-link.jpg"><img
+												src="assets/images/booksimage/c&c-link.jpg" alt=""></a></div>
 
 								</div>
 								<div class="swiper-button-next"></div>

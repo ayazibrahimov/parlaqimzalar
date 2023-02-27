@@ -9,57 +9,22 @@
     			<div class="swiper-wrapper">
     				<div class="swiper-slide swiper-slide--1">
     					<a href="">
-    						<img src="assets/images/booksimage/imgBig-1.webp" alt="">
-    						<div class="swiper-slide--major">
+    						<img src="assets/images/booksimage/slide1.png" alt="">
+    						<!-- <div class="swiper-slide--major">
     							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
     							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
-    						</div>
+    						</div> -->
     					</a>
     				</div>
-    				<div class="swiper-slide swiper-slide--1">
-    					<a href="">
-    						<img src="assets/images/booksimage/imgBig-2.webp" alt="">
-    						<div class="swiper-slide--major">
-    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
-    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
-    						</div>
-    					</a>
-    				</div>
-    				<div class="swiper-slide swiper-slide--1">
-    					<a href="">
-    						<img src="assets/images/booksimage/imgBig-3.webp" alt="">
-    						<div class="swiper-slide--major">
-    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
-    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
-    						</div>
-    					</a>
-    				</div>
-    				<div class="swiper-slide swiper-slide--1">
-    					<a href="">
-    						<img src="assets/images/booksimage/imgBig-4.webp" alt="">
-    						<div class="swiper-slide--major">
-    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
-    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
-    						</div>
-    					</a>
-    				</div>
-    				<div class="swiper-slide swiper-slide--1">
-    					<a href="">
-    						<img src="assets/images/booksimage/imgBig-5.webp" alt="">
-    						<div class="swiper-slide--major">
-    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
-    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
-    						</div>
-    					</a>
-    				</div>
+    			
     				<!-- <div class="swiper-slide"><img src="assets/images/booksimage/mainImage2.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage3.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage4.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage5.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage6.webp" alt=""></div> -->
     			</div>
-				<div class="swiper-button-next--arrow"></div>
-                <div class="swiper-button-prev--arrow"></div>
+				<div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
     		</div>
     	</div>
     	<!--Swiper Banner End-->

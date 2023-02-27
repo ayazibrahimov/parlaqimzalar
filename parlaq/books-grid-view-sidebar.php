@@ -620,7 +620,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -654,7 +654,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -688,7 +688,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -722,7 +722,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -756,7 +756,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -790,7 +790,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -824,7 +824,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -858,7 +858,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>
@@ -892,7 +892,7 @@
 									</div>
 									<div class="dz-content">
 										<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-										<p class="title__author"><span class="autor__second">Yazar:</span><a href=""><span class="autor__first">Can Edip</span></a></p>
+										<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 										<ul class="dz-tags">
 											<li><a href="books-grid-view.html">ADVANTURE,</a></li>
 											<li><a href="books-grid-view.html">SCIENCE,</a></li>

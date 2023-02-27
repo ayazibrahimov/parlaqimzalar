@@ -682,15 +682,23 @@ jQuery(window).on('resize',function () {
 
 var swiper = new Swiper(".mainMenuSwiper", {
      
-	effect: "fade",
-	// autoplay: {
-    //     delay: 2000,
-    //     disableOnInteraction: false,
-    //   },
-	navigation: {
-        nextEl: ".swiper-button-next--arrow",
-        prevEl: ".swiper-button-prev--arrow",
+	// observer: true, 
+	// slidesPerView: 1,
+	// spaceBetween: 50,
+	loop: false,
+
+	preventClicksPropagation: false,
+	autoplay: {
+        delay: 2000,
+        // disableOnInteraction: false,
       },
+	  navigation: {
+        nextEl: ".swiper-button-next",
+        prevEl: ".swiper-button-prev",
+      },
+	 
+	  
+
 });
 
 

@@ -62,7 +62,9 @@ heartDOMS.forEach((heartDOM)=>{
 
 
 
-
+// function getData(e) {
+//     e.preventDefault();
+// }
 
 
 

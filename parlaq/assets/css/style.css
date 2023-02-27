@@ -18156,7 +18156,6 @@ ul a.rsswidget {
     margin-top: 0; }
     .pagination-align.style-1 .swiper-button-next:after, .pagination-align.style-1 .swiper-button-prev:after {
       content: 'none';
-      font-size: 30px !important;
      }
   .pagination-align.style-2 {
     justify-content: center;
@@ -18178,7 +18177,6 @@ ul a.rsswidget {
       border-radius: 50%; }
       .pagination-align.style-2 .swiper-button-next:after, .pagination-align.style-2 .swiper-button-prev:after {
         content: 'none';
-        font-size: 30px !important;
       }
     @media only screen and (max-width: 575px) {
       .pagination-align.style-2 {
@@ -18202,7 +18200,6 @@ ul a.rsswidget {
       color: var(--primary); }
     .pagination-align.style-3 .swiper-button-next:after, .pagination-align.style-3 .swiper-button-prev:after {
       content: 'none';
-      font-size: 30px !important;
     }
   @media screen and (max-width: 360px) {
     .pagination-align.style-3 {
@@ -24987,7 +24984,7 @@ footer {
 
 .main-slider--first .swiper-slide img{
   width: 100%;
-  object-fit: contain;
+  object-fit: cover;
   object-position: center;
 }
 
@@ -25012,8 +25009,7 @@ footer {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  /* left : 5%; */
-  padding-left: 20px;
+  left:8%;
   width: 100%;
 }
 
@@ -25127,7 +25123,15 @@ footer {
 
 
 
+.dz-media .bookSwiper .swiper-button-prev:after,.swiper-button-next:after{
+    font-size: 30px; 
+}
 
+
+
+.mainMenuSwiper.swiper-button-prev:after,.swiper-button-next:after{
+    font-size: 40px; 
+}
 
 
 

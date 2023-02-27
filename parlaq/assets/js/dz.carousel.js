@@ -301,8 +301,8 @@ jQuery(window).on('load', function() {
 				delay: 3500,
 			},
 			navigation: {
-				nextEl: ".swiper-button-prev--1",
-				prevEl: ".swiper-button-next--2",
+				prevEl: ".swiper-button-prev--1",
+				nextEl: ".swiper-button-next--2",
 			},	
 			breakpoints: {
 				1200: {
