@@ -16,6 +16,24 @@
     						</div> -->
     					</a>
     				</div>
+    				<div class="swiper-slide swiper-slide--1">
+    					<a href="">
+    						<img src="assets/images/booksimage/slide1.png" alt="">
+    						<!-- <div class="swiper-slide--major">
+    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
+    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
+    						</div> -->
+    					</a>
+    				</div>
+    				<div class="swiper-slide swiper-slide--1">
+    					<a href="">
+    						<img src="assets/images/booksimage/slide1.png" alt="">
+    						<!-- <div class="swiper-slide--major">
+    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
+    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
+    						</div> -->
+    					</a>
+    				</div>
     			
     				<!-- <div class="swiper-slide"><img src="assets/images/booksimage/mainImage2.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage3.webp" alt=""></div>
@@ -112,17 +130,17 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media">
-    								<img src="assets/images/booksimage/Babil-yanarkən.png" alt="book">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
-    								<h6 class="sub-title">Babil Yanarkən</h6>
-    								<h2 class="title">Babil Yanarkən</h2>
+    								<!-- <h6 class="sub-title">Babil Yanarkən</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
     								<ul class="dz-tags">
-    									<li>Yunus Şən</li>
-    									<li>Business & Strategy</li>
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
     								</ul>
     								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
-    									yaşananlar jurnalist obyektlivliyi ilə “Babil yanarkən“nin səhifələrində
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
@@ -145,17 +163,17 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media">
-    								<img src="assets/images/booksimage/Babil-yanarkən.png" alt="book">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
-    								<h6 class="sub-title">Babil Yanarkən</h6>
-    								<h2 class="title">Babil Yanarkən</h2>
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
     								<ul class="dz-tags">
-    									<li>Yunus Şən</li>
-    									<li>Business & Strategy</li>
+									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    								<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
     								</ul>
     								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
-    									yaşananlar jurnalist obyektlivliyi ilə “Babil yanarkən“nin səhifələrində
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
@@ -177,17 +195,17 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media">
-    								<img src="assets/images/booksimage/Babil-yanarkən.png" alt="book">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
-    								<h6 class="sub-title">Babil Yanarkən</h6>
-    								<h2 class="title">Babil Yanarkən</h2>
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
     								<ul class="dz-tags">
-    									<li>Yunus Şən</li>
-    									<li>Business & Strategy</li>
+									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
     								</ul>
     								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
-    									yaşananlar jurnalist obyektlivliyi ilə “Babil yanarkən“nin səhifələrində
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
@@ -209,17 +227,17 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media">
-    								<img src="assets/images/booksimage/Babil-yanarkən.png" alt="book">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
-    								<h6 class="sub-title">Babil Yanarkən</h6>
-    								<h2 class="title">Babil Yanarkən</h2>
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
     								<ul class="dz-tags">
-    									<li>Yunus Şən</li>
-    									<li>Business & Strategy</li>
+									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
     								</ul>
     								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
-    									yaşananlar jurnalist obyektlivliyi ilə “Babil yanarkən“nin səhifələrində
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi

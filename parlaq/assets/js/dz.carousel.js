@@ -129,7 +129,7 @@ jQuery(window).on('load', function() {
 	}
 	
 	if(jQuery('.swiper-three').length > 0){
-		var swiper = new Swiper( '.swiper-three', {
+		var swiperInfo = new Swiper( '.swiper-three', {
 			slidesPerView: 1,
 			centeredSlides: true,
 			spaceBetween: 90,
@@ -158,6 +158,12 @@ jQuery(window).on('load', function() {
 			}
 		});
 	}
+
+	swiperInfo.el.addEventListener("mouseenter", function( event ) {   
+		swiperInfo.autoplay.stop();
+	}, false);
+
+
 	if(jQuery('.testimonial-swiper-2').length > 0){
 		var swiperTestimonial2 = new Swiper( '.testimonial-swiper-2', {
 			slidesPerView: 1.5,
@@ -304,6 +310,42 @@ jQuery(window).on('load', function() {
 				prevEl: ".swiper-button-prev--1",
 				nextEl: ".swiper-button-next--2",
 			},	
+			breakpoints: {
+				1200: {
+					slidesPerView: 4,
+				},
+	
+				767: {
+					slidesPerView: 3,
+				},
+				591: {
+					slidesPerView: 2,
+					centeredSlides: true,
+				},
+				320: {
+					slidesPerView: 2,
+					spaceBetween: 15,
+					centeredSlides: true,
+				},
+			}
+		});
+	}
+	if(jQuery('.swiper-four--trible').length > 0){
+		var swiper = new Swiper( '.swiper-four--trible', {
+			slidesPerView: 4,
+			// centeredSlides: false,
+			spaceBetween: 30,
+			slidesPerGroup: 1,
+            // loopFillGroupWithBlank: true,
+
+
+			autoplay: {
+				delay: 3500,
+			},
+			// navigation: {
+			// 	prevEl: ".swiper-button-prev--1",
+			// 	nextEl: ".swiper-button-next--2",
+			// },	
 			breakpoints: {
 				1200: {
 					slidesPerView: 4,
