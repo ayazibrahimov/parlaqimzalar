@@ -17,7 +17,7 @@
 			<i class="fa-solid fa-quote-right test-quotes"></i>
 			<!-- <img src="images/testimonial/wave.png" class="pattern" alt="/"> -->
 			<div class="testimonial-pic">
-				<img src="assets/images/booksimage/ramiz-rovsen.jpg" alt="/">
+				<img src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt="/">
 			</div>
 			<div class="testimonial-info">
 				<p class="testimonial-text">
@@ -29,7 +29,7 @@
 				</p>
 				<div class="testimonial-detail">
 					<div class="clearfix">
-						<h5 class="testimonial-name m-t10 m-b5">Ramiz Rövşən</h5>
+						<h5 class="testimonial-name m-t10 m-b5">Fyodor Dostoyevski</h5>
 						<span class="testimonial-position">faculty of Economics 2022</span>
 					</div>
 					<div class="dz-rating-bar">

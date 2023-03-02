@@ -53,7 +53,7 @@
 					<div class="col-xl-3 col-lg-12 wow fadeInUp" data-wow-delay="0.1s">
 						<div class="widget widget_about">
 							<div class="footer-logo logo-white">
-								<a href="index.php"><img src="assets/images/logo.png" alt=""></a> 
+								<a href="index.php"><img src="assets/images/booksimage/parlaqLogo.svg" alt=""></a> 
 							</div>
 							<p class="text">Məqsədimiz kitabın bir dəyər olduğunu çatdırmaq, kitabsız bir insanın ruhsuz bədən olduğunu anlatmaq, ölkə kitabçılığına yeni bir nəfəs gətirməkdir.</p>
 							<div class="dz-social-icon style-1">
@@ -153,7 +153,8 @@
 <script src="assets/vendor/wnumb/wNumb.js"></script><!-- WNUMB -->
 <script src="assets/js/dz.carousel.js"></script><!-- DZ CAROUSEL JS -->
 <script src="assets/js/dz.ajax.js"></script><!-- AJAX -->
-<script src="assets/js/custom.js"></script><!-- CUSTOM JS -->
+<script src="assets/js/custom.js"></script><!-- CUSTOM JS -->'
+<script src='assets/js/text.js'></script>
 <script src='assets/js/heart.js'></script>
 
 </body>

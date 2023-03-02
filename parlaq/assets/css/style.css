@@ -16659,7 +16659,9 @@ ul a.rsswidget {
   overflow: hidden; }
   .dz-media img,
   .dz-post-media img {
-    width: 100%; }
+    width: 100%; 
+    object-fit: fill;
+  }
 
 .dz-box-bg {
   overflow: hidden;
@@ -17902,7 +17904,7 @@ ul a.rsswidget {
         font-weight: var(--headings-font-weight);
         color: #131045;
         background-color: #F0F0F0;
-        padding: 8px 12px; }
+        padding: 4px 12px; }
   @media only screen and (max-width: 1280px) {
     .books-card.style-2 .dz-content .title {
       font-size: 48px; } }
@@ -20992,11 +20994,11 @@ pre {
   .dz-shop-card.style-1 {
     background-color: #ffffff;
     padding: 22px;
-    margin-bottom: 30px;
+    margin-bottom: 64px;
     border: 1px solid rgba(0, 0, 0, 0.125);
-    -webkit-transition: all 0.2s;
-    -ms-transition: all 0.2s;
-    transition: all 0.2s;
+    -webkit-transition: all 0.6s;
+    -ms-transition: all 0.6s;
+    transition: all 0.6s;
     border-radius: 6px; }
     .dz-shop-card.style-1 .dz-content {
       padding-top: 16px;
@@ -21015,8 +21017,8 @@ pre {
         visibility: hidden;
         position: absolute;
         background: #ffffff;
-        bottom: -50px;
-        padding-bottom: 30px;
+        bottom: -35px;
+        padding-bottom: 20px;
         border-radius: 0 0 var(--border-radius-base) var(--border-radius-base);
         left: 0;
         width: 100%;
@@ -21197,7 +21199,9 @@ pre {
       min-height: 140px; }
       .dz-shop-card.style-5 .dz-media img {
         width: 100%;
-        border-radius: var(--border-radius-base); }
+        border-radius: var(--border-radius-base); 
+        object-fit: cover;
+      }
     .dz-shop-card.style-5 .dz-content {
       margin-left: 15px; }
       .dz-shop-card.style-5 .dz-content .dz-tags {
@@ -21248,12 +21252,20 @@ pre {
   .book-grid-row.style-4 .dz-box .dz-media {
     width: 150rem; 
     height: 30rem;
-  
   }
+
+  @media (max-width:769px){
+    .book-grid-row.style-4 .dz-box .dz-media {
+      width: auto; 
+    }
+  }
+
+
     .book-grid-row.style-4 .dz-box .dz-media img {
       border-radius: 10px; 
       width: 100%;
       height: 100%;
+      object-fit: fill;
     }
     @media only screen and (max-width: 1280px) {
       .book-grid-row.style-4 .dz-box .dz-media {
@@ -21422,7 +21434,7 @@ pre {
 
 .book-grid-row .col-book.style-2 {
   width: 33.33%;
-  margin-bottom: 30px; }
+  margin-bottom: 10px; }
   @media only screen and (max-width: 991px) {
     .book-grid-row .col-book.style-2 {
       width: 50%; } }
@@ -23163,10 +23175,10 @@ body.woo-variation-swatches .variable-items-wrapper .variable-item:not(.radio-va
         border-width: 0 0 0 1px;
         text-transform: capitalize;
         line-height: 1; }
-        @media only screen and (max-width: 1280px) {
+        @media only screen and (max-width: 1200px) {
           .header-nav .nav > li > a {
-            padding-left: 10px;
-            padding-right: 10px; } }
+            padding-left: 5px;
+            padding-right: 5px; } }
         @media only screen and (max-width: 991px) {
           .header-nav .nav > li > a {
             padding: 8px 0;
@@ -23918,7 +23930,7 @@ body.woo-variation-swatches .variable-items-wrapper .variable-item:not(.radio-va
       min-width: 145px;
       position: static;
       background-color: #f5f5f5;
-      padding: 0px 20px;
+      padding: 0px 10px;
       border-radius: 0;
       line-height: 48px;
       border: 0;
@@ -24378,7 +24390,7 @@ footer {
   footer .footer-logo {
     margin-bottom: 25px; }
     footer .footer-logo img {
-      max-width: 220px; }
+      max-width: 100px; }
   footer .footer-title {
     text-align: start;
     margin: 0;
@@ -24875,7 +24887,7 @@ footer {
 }
 
 .bookSwiper{
-  height: 100%;
+  height: 85%;
 }
 
 .bookSwiper__box{
@@ -24951,6 +24963,7 @@ footer {
 .dz-media--data---img{
   height: 100%;
   transition: all .6s;
+  object-fit: cover;
 }
 
 .dz-shop-card:hover .dz-media--data---img{
@@ -25076,13 +25089,26 @@ footer {
 .heart__icon--boxed{
   display: inline-block;
   position: absolute;
-  bottom: 18%;
+  bottom: 17.5%;
   right: 4%;
+  width: 2.2rem;
+    height: 2.2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* background: red; */
+    border-radius: 50%;
+    border: 1px solod;
+    border: 1px solid #cfc8c8;
 }
 
 
+/* .dz-shop-card:hover .heart__icon--boxed i{
+  color: ;
+}  */
+
 .heart__icon--boxed i{
-  font-size: 20px;
+  font-size: 19px;
 }
 
 .author__info{
@@ -25104,8 +25130,13 @@ footer {
   margin-top: 15px;
   margin-right: 10px;
 }
+
+.price__data {
+  /* margin-top: 10px; */
+}
+
 .price__data .price-num{
-  font-size: 20px;
+  font-size: 17px;
   color: var(--primary);
   font-weight: 700;
 }
@@ -25115,23 +25146,132 @@ footer {
   font-size: 17px;
 }
 
+.dz-header .book__title{
+  font-size: 27px;
+}
 
 
 .book__pdf{
   color: inherit;
+  font-size: 15px;
+  font-weight: 600;
 }
 
+.book__pdf img{
+  width: 20% !important;
+  margin-bottom: 3px;
+}
 
 
 .dz-media .bookSwiper .swiper-button-prev:after,.swiper-button-next:after{
     font-size: 30px; 
 }
 
-
-
 .mainMenuSwiper.swiper-button-prev:after,.swiper-button-next:after{
     font-size: 40px; 
 }
+
+
+.book__span{
+    background: #fff;
+    display: inline-block;
+    padding: 0px 10px;
+    border-radius: 6px;
+    border: 1px solid #b8b4b4;
+}
+
+.book__span:hover{
+  box-shadow: 0px 3px 8px (rgba(0, 0, 0, 0.1));
+}
+
+.swiper-button-next--book{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 3rem;
+   height: 3rem;
+}
+.swiper-button-prev--book{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  background: #EAA451;
+  border-radius: 50%;
+  top:92%;
+  left: 72%;
+  
+}
+
+@media (max-width:1200px){
+  .swiper-button-prev--book{
+    left: 60%;    
+  }
+}
+@media (max-width:769px){
+  .swiper-button-prev--book{
+    left: 76%;    
+  }
+}
+@media (max-width:450px){
+  .swiper-button-prev--book{
+    left: 68%;    
+  }
+}
+
+
+
+.swiper-button-next--book{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 2rem;
+  height: 2rem;
+  background: #EAA451;
+  border-radius: 50%;
+  top:92%;
+}
+
+.swiper-button-prev--book::after,
+.swiper-button-next--book::after{
+  font-size: 17px !important;
+  color:#fff;
+  font-weight: 600;
+}
+
+.title__width{
+  width: 80%;
+  height: auto;
+}
+
+
+.book__detail--text{
+  height: 13rem;
+  overflow: hidden;
+  text-align: justify;
+}
+
+
+.unShown{
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

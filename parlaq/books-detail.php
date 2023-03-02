@@ -7,6 +7,7 @@
 			<div class="row book-grid-row style-4 m-b60">
 				<div class="col">
 					<div class="dz-box">
+						
 						<div class="dz-media">
 							<div class="swiper bookSwiper">
 								<div class="swiper-wrapper">
@@ -21,14 +22,23 @@
 												src="assets/images/booksimage/c&c-link.jpg" alt=""></a></div>
 
 								</div>
-								<div class="swiper-button-next"></div>
+								<!-- <div class="swiper-button-next"></div>
 								<div class="swiper-button-prev"></div>
+								<div class="swiper-pagination"></div> -->
+							</div>
+							  
+
+							<div class="mt-3">
+								<span class="book__span"> </i><a class="book__pdf" target="_blank" href="assets/images/pdf/xaricetehsilsened.pdf"><img src="assets/images/booksimage/Filesdocument.svg" alt=""> Göz at</a></span>
+							    <div class="swiper-button-next swiper-button-next--book"></div>
+								<div class="swiper-button-prev swiper-button-prev--book"></div>
 								<div class="swiper-pagination"></div>
 							</div>
 						</div>
+
 						<div class="dz-content">
 							<div class="dz-header">
-								<h3 class="title">Şiddətin Tarixi</h3>
+								<h3 class="title book__title">Cinayət və cəza</h3>
 								<div class="shop-item-rating">
 									<div class="d-lg-flex d-sm-inline-flex d-flex align-items-center">
 										<ul class="dz-rating">
@@ -42,12 +52,12 @@
 									</div>
 									<div class="social-area">
 										<ul class="dz-social-icon style-3">
-											<li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org" target="_blank"><i
-														class="fa-brands fa-facebook-f"></i></a></li>
-											<li><a href="https://www.telegram.com/sharer/sharer.php?u=example.org" target="_blank"><i
-														class="fa-brands fa-twitter"></i></a></li>
-											<li><a href="https://www.whatsapp.com/sharer/sharer.php?u=example.org" target="_blank"><i
-														class="fa-brands fa-whatsapp"></i></a></li>
+											<li><a href="https://www.facebook.com/sharer/sharer.php?u=example.org"
+													target="_blank"><i class="fa-brands fa-facebook-f"></i></a></li>
+											<li><a href="https://www.telegram.com/sharer/sharer.php?u=example.org"
+													target="_blank"><i class="fa-brands fa-twitter"></i></a></li>
+											<li><a href="https://www.whatsapp.com/sharer/sharer.php?u=example.org"
+													target="_blank"><i class="fa-brands fa-whatsapp"></i></a></li>
 											<li><a href="https://www.mail.com/sharer/sharer.php?u=example.org"
 													target="_blank"><i class="fa-solid fa-envelope"></i></a></li>
 										</ul>
@@ -59,31 +69,22 @@
 									<ul class="book-info">
 										<li>
 											<div class="writer-info">
-												<img src="assets/images/booksimage/profile2 (1).jpg" alt="book">
+												<img src="assets/images/booksimage/fyodordostoyevskyy.jpg" alt="book">
 												<div>
-													<span>Yazar</span> <a href="author.php" class="author__info">Edouard
-														Louis</a>
+													<span>Yazar</span> <a href="author.php" class="author__info">Vyodor Dostoyevski</a>
 												</div>
 											</div>
 										</li>
-										<li><span>Çap</span>Parlaq imza</li>
-										<li><span>Kitaba bax</span> <p><a class="book__pdf" href="assets/images/pdf/xaricetehsilsened.pdf">Göz at</a></p></li>
+										<!-- <li><span>Çap</span>Parlaq imza</li>
+										<li><span>Kitaba bax</span> -->
+						
+										</li>
 									</ul>
 								</div>
-								<p class="text-1">2012, Paris. Édouard Louis arkadaşlarıyla yediği Noel yemeğinden sonra
-									gece yarısı evine dönerken,
-									yolda tanıştığı bir adamın ısrarına dayanamayıp onu evine davet eder. Reda ona
-									çocukluğunu ve babasının
-									Cezayir’den kaçarak nasıl Fransa’ya geldiğini anlatır. Gecenin geri kalanını sohbet
-									ederek, gülerek geçirirler.
-									Fakat bir süre sonra işler değişir: Reda bir anda tarifsiz bir şiddetin failine
-									dönüşürken, Édouard’ın payına
-									düşense seçmediği bir hikâyenin kurbanı, seçmediği bir acının taşıyıcısı olmaktırş
-									Şiddetin Tarihi, o gece
-									yaşananların izini sürerken, şiddetin kökenlerini, doğasını ve onu tırmandıran
-									dinamikleri, göçmenlik, ırkçılık,
-									eril şiddet ve travma üzerinden anlamlandırmaya çalışan bir araştırmaya girişiyor.
-								</p>
+								 <div class="book__detail--text">
+								 <p class="text-1">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində (1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai tarixinin mürəkkəb dövrlərindən birini əks etdirir. Bu elə bir dövr idi ki, Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək inkişaf yollarını dəqiq müəyyənləşdirməmişdi. Rusiya hansı yolla gedəcəkdi? O, Avropa kapitalist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrinə əsaslanaraq yeni, Avropa xalqlarından fərqli bir yolla gedəcəkdi? Bu sualların dəqiq və birmənalı cavabı yox idi və 60-cı illər rus ədəbiyyatı bu məsələ haqqında dərindən düşünürdü.  yoxsa öz milli ənənələrinə əsaslanaraq yeni, Avropa xalqlarından fərqli bir yolla.Bu sualların dəqiq və birmənalı cavabı yox idi və 60-cı illər rus ədəbiyyatı bu məsələ haqqında dərindən düşünürdü bu məsələ haqaqinda<a href="" class="click__look unShown">Ardini oxu ...</a> </p>
+								 <p class="text-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit praesentium alias mollitia officia, velit soluta molestiae nihil? Ducimus, reiciendis! Vel, hic iusto quia vitae accusamus, possimus voluptas mollitia inventore cum autem maxime ab amet minus. Numquam fugit autem cum iste facere. Sunt labore fugit aliquid vitae reprehenderit, accusantium impedit doloremque.</p>
+								</div>
 								<!-- <p class="text-2">Şiddetin Tarihi, o gece yaşananların izini sürerken, şiddetin kökenlerini, doğasını ve onu tırmandıran dinamikleri, göçmenlik, ırkçılık, eril şiddet ve travma üzerinden anlamlandırmaya çalışan bir araştırmaya girişiyor.“Çarpıcı bir suç hikâyesi, sonrasında gelen yorucu bir adalet arayışı... kırılgan fakat bütünüyle güçlü.” Kirkus Reviews“Yürek burkan bir roman... Édouard Louis’nin kitaplarına ve işlenmemiş, o saf dürüstlüğüne hayranım.” John Boyne, The Irish Times</p> -->
 								<div class="book-footer">
 									<div class="price">
@@ -96,11 +97,11 @@
 										</div>
 										<a href="shop-cart.php" class="btn btn-primary btnhover2"><i
 												class="flaticon-shopping-cart-1"></i> <span>Səbətə at</span></a>
-										<div class="bookmark-btn style-1 d-none d-sm-block">
+										<!-- <div class="bookmark-btn style-1 d-none d-sm-block">
 											<div class="bestseller">
 												<i class="far fa-heart js-heart heart bestseller__heart"></i>
 											</div>
-										</div>
+										</div> -->
 									</div>
 								</div>
 							</div>
@@ -113,19 +114,19 @@
 				<div class="col-xl-8">
 					<div class="product-description tabs-site-button">
 						<ul class="nav nav-tabs">
-							<li><a data-bs-toggle="tab" href="#graphic-design-1" class="active">Details Product</a></li>
-							<li><a data-bs-toggle="tab" href="#developement-1">Müştəri Rəyləri</a></li>
+							<li><a data-bs-toggle="tab" href="#graphic-design-1" class="active">Məluuatlar</a></li>
+							<li><a data-bs-toggle="tab" href="#developement-1">Oxucu rəyləri</a></li>
 						</ul>
 						<div class="tab-content">
 							<div id="graphic-design-1" class="tab-pane show active">
 								<table class="table border book-overview">
 									<tr>
 										<th>Kitabin Adı</th>
-										<td>Babil Yanarkən</td>
+										<td>Cinayət və cəza</td>
 									</tr>
 									<tr>
 										<th>Müəllif</th>
-										<td>Eyüp Coşkun</td>
+										<td>Fyodor Dostoyevski</td>
 									</tr>
 									<tr>
 										<th>ISBN</th>
@@ -305,7 +306,7 @@
 				</div>
 				<div class="col-xl-4 mt-5 mt-xl-0">
 					<div class="widget">
-						<h4 class="widget-title">Oxşar Kitablar</h4>
+						<h4 class="widget-title">MÜƏLLİFİN DİGƏR KİTABLARI</h4>
 						<div class="row">
 							<div class="col-xl-12 col-lg-6">
 								<div class="dz-shop-card style-5">
@@ -329,6 +330,7 @@
 										<div class="w-100">
 											<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
 													class="flaticon-shopping-cart-1 me-2"></i> Səbətə at</a>
+
 										</div>
 
 									</div>

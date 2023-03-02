@@ -34,15 +34,15 @@
     						</div> -->
     					</a>
     				</div>
-    			
+
     				<!-- <div class="swiper-slide"><img src="assets/images/booksimage/mainImage2.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage3.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage4.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage5.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage6.webp" alt=""></div> -->
     			</div>
-				<div class="swiper-button-next"></div>
-                <div class="swiper-button-prev"></div>
+    			<div class="swiper-button-next"></div>
+    			<div class="swiper-button-prev"></div>
     		</div>
     	</div>
     	<!--Swiper Banner End-->
@@ -58,11 +58,13 @@
     					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqMono.svg" alt="client"></div>
     					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqSimurq.svg" alt="client">
     					</div>
+    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqLogo.svg" alt="client"></div>
     					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqIrsad.svg" alt="client">
     					</div>
     					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqMono.svg" alt="client"></div>
     					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqSimurq.svg" alt="client">
     					</div>
+    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqLogo.svg" alt="client"></div>
     				</div>
     			</div>
     		</div>
@@ -77,16 +79,18 @@
     				<h2 class="title">Yeni kitablar</h2>
     				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
     					labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    					laboris</p>	
+    					laboris</p>
     			</div>
-				<div class="w-100 d-flex justify-content-end pb-3">
-				    <div class="pagination-align style-1">
-    					<div class="swiper-button-prev swiper-button-prev--1"><i class="fa-solid fa-angle-left"></i></div>
+    			<div class="w-100 d-flex justify-content-end pb-3">
+    				<div class="pagination-align style-1">
+    					<div class="swiper-button-prev swiper-button-prev--1"><i class="fa-solid fa-angle-left"></i>
+    					</div>
     					<div class="swiper-pagination-two"></div>
-    					<div class="swiper-button-next swiper-button-next--2"><i class="fa-solid fa-angle-right"></i></div>
+    					<div class="swiper-button-next swiper-button-next--2"><i class="fa-solid fa-angle-right"></i>
+    					</div>
     				</div>
-				     
-				</div>
+
+    			</div>
     			<!-- Swiper -->
     			<div class="swiper-container books-wrapper-3 swiper-four--double">
     				<?php include 'includes/cards.php' ?>
@@ -94,6 +98,62 @@
     		</div>
     	</section>
 
+    	<!-- cox satilanlar -->
+    	<section class="content-inner-2">
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s"
+    					style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-power icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Quick Delivery</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s"
+    					style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-shield icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Secure Payment</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s"
+    					style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-like icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Best Quality</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s"
+    					style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-star icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Return Guarantee</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</section>
+    	<!-- cox satilanlar end-->
 
     	<!-- Book Sale -->
     	<section class="content-inner-1">
@@ -118,7 +178,7 @@
     		<div class="container">
     			<div class="section-head text-center">
     				<div class="circle style-1"></div>
-    				<h2 class="title">Təkliflərimiz</h2>
+    				<h2 class="title">Tezliklə</h2>
     				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
     					labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
     					laboris </p>
@@ -137,15 +197,17 @@
     								<h2 class="title">Cinayət və Cəza</h2>
     								<ul class="dz-tags">
     									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
-    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
     								</ul>
     								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
-    									xalqın həyatından heyrətamiz hissələr verilir.Cezayir’den kaçarak nasıl Fransa’ya 
-										geldiğini anlatır. Gecenin geri kalanını sohbet ederek, gülerek geçirirler.</p>
+    									xalqın həyatından heyrətamiz hissələr verilir.Cezayir’den kaçarak nasıl
+    									Fransa’ya
+    									geldiğini anlatır. Gecenin geri kalanını sohbet ederek, gülerek geçirirler.</p>
     								<div class="price">
     									<span class="price-num">₼8.00</span>
     									<del>₼10.00</del>
@@ -169,40 +231,9 @@
     								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
     								<h2 class="title">Cinayət və Cəza</h2>
     								<ul class="dz-tags">
-									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
-    								<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
-    								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
-    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
-    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
-    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
-    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
-    									xalqın həyatından heyrətamiz hissələr verilir</p>
-    								<div class="price">
-    									<span class="price-num">₼8.00</span>
-    									<del>₼10.00</del>
-    									<span class="badge">20% ENDİRİM</span>
-    								</div>
-    								<div class="bookcard-footer">
-    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
-    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
-    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
-    										bax</a>
-    								</div>
-    							</div>
-    						</div>
-    					</div>
-    					<div class="swiper-slide">
-    						<div class="books-card style-2">
-    							<div class="dz-media">
-    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
-    							</div>
-    							<div class="dz-content">
-    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
-    								<h2 class="title">Cinayət və Cəza</h2>
-    								<ul class="dz-tags">
-									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
-									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
     								</ul>
     								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
@@ -233,8 +264,42 @@
     								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
     								<h2 class="title">Cinayət və Cəza</h2>
     								<ul class="dz-tags">
-									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
-									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a></li>
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
+    								</ul>
+    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
+    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
+    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
+    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
+    									xalqın həyatından heyrətamiz hissələr verilir</p>
+    								<div class="price">
+    									<span class="price-num">₼8.00</span>
+    									<del>₼10.00</del>
+    									<span class="badge">20% ENDİRİM</span>
+    								</div>
+    								<div class="bookcard-footer">
+    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
+    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
+    										bax</a>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="swiper-slide">
+    						<div class="books-card style-2">
+    							<div class="dz-media">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    							</div>
+    							<div class="dz-content">
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
+    								<ul class="dz-tags">
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
     								</ul>
     								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
@@ -267,6 +332,164 @@
     		</div>
     	</section>
     	<!-- Feature Product End -->
+
+    	<section class="content-inner-1 bg-grey reccomend">
+    		<div class="container">
+    			<div class="section-head text-center">
+    				<div class="circle style-1"></div>
+    				<h2 class="title">Diqqət çəkənlər</h2>
+    				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+    					labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
+    					laboris </p>
+    			</div>
+    		</div>
+    		<div class="container">
+    			<div class="swiper-container books-wrapper-2 swiper-three--double">
+    				<div class="swiper-wrapper">
+    					<div class="swiper-slide">
+    						<div class="books-card style-2">
+    							<div class="dz-media">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    							</div>
+    							<div class="dz-content">
+    								<!-- <h6 class="sub-title">Babil Yanarkən</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
+    								<ul class="dz-tags">
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
+    								</ul>
+    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
+    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
+    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
+    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
+    									xalqın həyatından heyrətamiz hissələr verilir.Cezayir’den kaçarak nasıl
+    									Fransa’ya
+    									geldiğini anlatır. Gecenin geri kalanını sohbet ederek, gülerek geçirirler.</p>
+    								<div class="price">
+    									<span class="price-num">₼8.00</span>
+    									<del>₼10.00</del>
+    									<span class="badge">20% ENDİRİM</span>
+    								</div>
+    								<div class="bookcard-footer">
+    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
+    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
+    										bax</a>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="swiper-slide">
+    						<div class="books-card style-2">
+    							<div class="dz-media">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    							</div>
+    							<div class="dz-content">
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
+    								<ul class="dz-tags">
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
+    								</ul>
+    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
+    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
+    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
+    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
+    									xalqın həyatından heyrətamiz hissələr verilir</p>
+    								<div class="price">
+    									<span class="price-num">₼8.00</span>
+    									<del>₼10.00</del>
+    									<span class="badge">20% ENDİRİM</span>
+    								</div>
+    								<div class="bookcard-footer">
+    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
+    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
+    										bax</a>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="swiper-slide">
+    						<div class="books-card style-2">
+    							<div class="dz-media">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    							</div>
+    							<div class="dz-content">
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
+    								<ul class="dz-tags">
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
+    								</ul>
+    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
+    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
+    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
+    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
+    									xalqın həyatından heyrətamiz hissələr verilir</p>
+    								<div class="price">
+    									<span class="price-num">₼8.00</span>
+    									<del>₼10.00</del>
+    									<span class="badge">20% ENDİRİM</span>
+    								</div>
+    								<div class="bookcard-footer">
+    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
+    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
+    										bax</a>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="swiper-slide">
+    						<div class="books-card style-2">
+    							<div class="dz-media">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    							</div>
+    							<div class="dz-content">
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
+    								<ul class="dz-tags">
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
+    								</ul>
+    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
+    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
+    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
+    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
+    									xalqın həyatından heyrətamiz hissələr verilir</p>
+    								<div class="price">
+    									<span class="price-num">₼8.00</span>
+    									<del>₼10.00</del>
+    									<span class="badge">20% ENDİRİM</span>
+    								</div>
+    								<div class="bookcard-footer">
+    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
+    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
+    										bax</a>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+
+    				</div>
+    				<div class="pagination-align style-2">
+    					<div class="swiper-button-prev"><i class="fa-solid fa-angle-left"></i></div>
+    					<div class="swiper-pagination-three"></div>
+    					<div class="swiper-button-next"><i class="fa-solid fa-angle-right"></i></div>
+    				</div>
+    			</div>
+    		</div>
+    	</section>
 
     	<!-- Special ENDİRİMer-->
     	<section class="content-inner-2">
@@ -439,8 +662,8 @@
     			<div class="testimonial">
     				<div class="section-head book-align">
     					<div>
-    						<h2 class="title mb-0">Rəylər</h2>
-    						<p class="m-b0">Tənqiçinin düşüncələri</p>
+    						<h2 class="title mb-0">#Oxucucandır</h2>
+    						<p class="m-b0">Tənqiçililrin düşüncələri</p>
     					</div>
     					<div class="pagination-align style-1">
     						<div class="testimonial-button-prev swiper-button-prev"><i
@@ -592,10 +815,19 @@
     	<!-- Latest News -->
     	<section class="content-inner-2">
     		<div class="container">
-    			<div class="section-head text-center">
-    				<h2 class="title">Son Xəbərlər</h2>
-    				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-    					labore et dolore magna aliqua</p>
+			<div class="testimonial">
+    				<div class="section-head book-align">
+    					<div>
+    						<h2 class="title mb-0">Son Xəbərlər</h2>
+    						<p class="m-b0">Tənqiçililrin düşüncələri</p>
+    					</div>
+    					<div class="pagination-align style-1">
+    						<div class="breaking-button-prev swiper-button-prev"><i
+    								class="fa-solid fa-angle-left"></i></div>
+    						<div class="breaking-button-next swiper-button-next"><i
+    								class="fa-solid fa-angle-right"></i></div>
+    					</div>
+    				</div>
     			</div>
     			<div class="swiper-container blog-swiper">
     				<div class="swiper-wrapper">

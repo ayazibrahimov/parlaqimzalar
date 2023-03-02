@@ -259,6 +259,7 @@
 							<a href="index.php"><img src="assets/images/booksimage/parlaqLogo.svg" alt="logo"></a>
 						</div>
 
+						
 						<!-- Nav Toggle Button -->
 						<button class="navbar-toggler collapsed navicon justify-content-end" type="button"
 							data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"

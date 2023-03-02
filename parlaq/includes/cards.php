@@ -13,7 +13,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title  mb-0"><a href="books-detail.php">Babil Yanarkən Hesen <br> harada idi </a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -46,7 +46,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -79,7 +79,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -112,7 +112,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -145,7 +145,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -178,7 +178,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -211,7 +211,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -244,7 +244,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -277,7 +277,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">
@@ -310,7 +310,7 @@
 					</div>
 				</div>
 				<div class="dz-content">
-					<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
+					<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanarkən hesen harda idi</a></h5>
 					<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
 								class="autor__first">Can Edip</span></a></p>
 					<div class="mb-4">

@@ -77,7 +77,7 @@ jQuery(window).on('load', function() {
 			  prevEl: ".testimonial-button-prev",
 			},
 			breakpoints: {
-				360: {
+				300: {
 					slidesPerView: 1,
 				},
 				600: {
@@ -106,7 +106,7 @@ jQuery(window).on('load', function() {
 				prevEl: ".book-button-prev",
 			},
 			breakpoints: {
-				360: {
+				300: {
 					slidesPerView: 1,
 				},
 				600: {
@@ -161,6 +161,42 @@ jQuery(window).on('load', function() {
 
 	swiperInfo.el.addEventListener("mouseenter", function( event ) {   
 		swiperInfo.autoplay.stop();
+	}, false);
+
+
+	if(jQuery('.swiper-three--double').length > 0){
+		var swiperInfo1 = new Swiper( '.swiper-three--double', {
+			slidesPerView: 1,
+			centeredSlides: true,
+			spaceBetween: 90,
+			loop: true,
+			pagination: {
+			  el: ".swiper-pagination-three",
+			  clickable: true,
+			},
+			autoplay: {
+				delay: 3000,
+			},
+			navigation: {
+			  nextEl: ".swiper-button-next",
+			  prevEl: ".swiper-button-prev",
+			},
+			breakpoints: {
+				320: {
+					slidesPerView: 1,
+				},
+				1200: {
+					slidesPerView: 1,
+				},
+				1680: {
+					slidesPerView: 1,
+				},
+			}
+		});
+	}
+
+	swiperInfo1.el.addEventListener("mouseenter", function( event ) {   
+		swiperInfo1.autoplay.stop();
 	}, false);
 
 
@@ -303,9 +339,9 @@ jQuery(window).on('load', function() {
 				pagination: {
 				el: ".swiper-pagination-two",
 			},
-			autoplay: {
-				delay: 3500,
-			},
+			// autoplay: {
+			// 	delay: 3500,
+			// },
 			navigation: {
 				prevEl: ".swiper-button-prev--1",
 				nextEl: ".swiper-button-next--2",
@@ -474,6 +510,10 @@ jQuery(window).on('load', function() {
 			autoplay: {
 				delay: 2500,
 			},
+			navigation: {
+				prevEl: ".breaking-button-prev",
+				nextEl: ".breaking-button-next",
+			},	
 			breakpoints: {
 				1200: {
 					slidesPerView: 4,
@@ -516,8 +556,6 @@ var swiperData = new Swiper(".bookSwiper", {
   swiperData.el.addEventListener("mouseenter", function( event ) {   
 	swiperData.autoplay.stop();
 }, false);
-
-
 
 
 /* Document .ready END */
