@@ -4,9 +4,10 @@
     <div class="page-content bg-white">
 
     	<!--Swiper Banner Start -->
-    	<div class="main-slider main-slider--first  style-1">
+    	<div class="main-slider main-slider--first style-1">
     		<div class="swiper mainMenuSwiper">
-    			<div class="swiper-wrapper">
+			           
+			    <div class="swiper-wrapper">
     				<div class="swiper-slide swiper-slide--1">
     					<a href="">
     						<img src="assets/images/booksimage/slide1.png" alt="">
@@ -41,8 +42,10 @@
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage5.webp" alt=""></div>
                     <div class="swiper-slide"><img src="assets/images/booksimage/mainImage6.webp" alt=""></div> -->
     			</div>
-    			<div class="swiper-button-next"></div>
-    			<div class="swiper-button-prev"></div>
+
+				       <div class="swiper-button-next"></div>
+    			       <div class="swiper-button-prev"></div>
+				       <div class="swiper-pagination swiper-pagination-data"></div>
     		</div>
     	</div>
     	<!--Swiper Banner End-->
@@ -53,18 +56,19 @@
     			<!--Client Swiper -->
     			<div class="swiper client-swiper">
     				<div class="swiper-wrapper">
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqIrsad.svg" alt="client">
-    					</div>
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqMono.svg" alt="client"></div>
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqSimurq.svg" alt="client">
-    					</div>
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqLogo.svg" alt="client"></div>
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqIrsad.svg" alt="client">
-    					</div>
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqMono.svg" alt="client"></div>
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqSimurq.svg" alt="client">
-    					</div>
-    					<div class="swiper-slide"><img src="assets/images/booksimage/parlaqLogo.svg" alt="client"></div>
+    					<div class="swiper-slide"><a href="books-list.php"><img
+    								src="assets/images/booksimage/parlaqIrsad.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="books-list.php"><img
+    								src="assets/images/booksimage/parlaqMono.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="books-list.php"><img
+    								src="assets/images/booksimage/parlaqSimurq.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="books-list.php"><img
+    								src="assets/images/booksimage/parlaqIrsad.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="books-list.php"><img
+    								src="assets/images/booksimage/parlaqMono.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="books-list.php"><img
+    								src="assets/images/booksimage/parlaqSimurq.svg" alt="client"></a></div>
+
     				</div>
     			</div>
     		</div>
@@ -99,7 +103,7 @@
     	</section>
 
     	<!-- cox satilanlar -->
-    	<section class="content-inner-2">
+    	<!-- <section class="content-inner-2">
     		<div class="container">
     			<div class="row">
     				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s"
@@ -152,7 +156,7 @@
     				</div>
     			</div>
     		</div>
-    	</section>
+    	</section> -->
     	<!-- cox satilanlar end-->
 
     	<!-- Book Sale -->
@@ -189,7 +193,7 @@
     				<div class="swiper-wrapper">
     					<div class="swiper-slide">
     						<div class="books-card style-2">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media--imaged">
     								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
@@ -200,14 +204,13 @@
     									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
     									</li>
     								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
-    									xalqın həyatından heyrətamiz hissələr verilir.Cezayir’den kaçarak nasıl
-    									Fransa’ya
-    									geldiğini anlatır. Gecenin geri kalanını sohbet ederek, gülerek geçirirler.</p>
+    									xalqın həyatından heyrətamiz hissələr verilir.</p>
     								<div class="price">
     									<span class="price-num">₼8.00</span>
     									<del>₼10.00</del>
@@ -224,7 +227,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="books-card style-2">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media--imaged">
     								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
@@ -235,40 +238,8 @@
     									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
     									</li>
     								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
-    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
-    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
-    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
-    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
-    									xalqın həyatından heyrətamiz hissələr verilir</p>
-    								<div class="price">
-    									<span class="price-num">₼8.00</span>
-    									<del>₼10.00</del>
-    									<span class="badge">20% ENDİRİM</span>
-    								</div>
-    								<div class="bookcard-footer">
-    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
-    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
-    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
-    										bax</a>
-    								</div>
-    							</div>
-    						</div>
-    					</div>
-    					<div class="swiper-slide">
-    						<div class="books-card style-2">
-    							<div class="dz-media">
-    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
-    							</div>
-    							<div class="dz-content">
-    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
-    								<h2 class="title">Cinayət və Cəza</h2>
-    								<ul class="dz-tags">
-    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
-    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
-    									</li>
-    								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
@@ -290,7 +261,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="books-card style-2">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media--imaged">
     								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
@@ -301,7 +272,42 @@
     									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
     									</li>
     								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
+    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
+    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
+    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
+    									xalqın həyatından heyrətamiz hissələr verilir</p>
+    								<div class="price">
+    									<span class="price-num">₼8.00</span>
+    									<del>₼10.00</del>
+    									<span class="badge">20% ENDİRİM</span>
+    								</div>
+    								<div class="bookcard-footer">
+    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
+    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
+    										bax</a>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="swiper-slide">
+    						<div class="books-card style-2">
+    							<div class="dz-media dz-media--imaged">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    							</div>
+    							<div class="dz-content">
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
+    								<ul class="dz-tags">
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
+    								</ul>
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
@@ -348,7 +354,7 @@
     				<div class="swiper-wrapper">
     					<div class="swiper-slide">
     						<div class="books-card style-2">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media--imaged">
     								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
@@ -359,14 +365,13 @@
     									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
     									</li>
     								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
     									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
-    									xalqın həyatından heyrətamiz hissələr verilir.Cezayir’den kaçarak nasıl
-    									Fransa’ya
-    									geldiğini anlatır. Gecenin geri kalanını sohbet ederek, gülerek geçirirler.</p>
+    									xalqın həyatından heyrətamiz hissələr verilir.</p>
     								<div class="price">
     									<span class="price-num">₼8.00</span>
     									<del>₼10.00</del>
@@ -383,7 +388,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="books-card style-2">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media--imaged">
     								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
@@ -394,40 +399,8 @@
     									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
     									</li>
     								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
-    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
-    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
-    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
-    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
-    									xalqın həyatından heyrətamiz hissələr verilir</p>
-    								<div class="price">
-    									<span class="price-num">₼8.00</span>
-    									<del>₼10.00</del>
-    									<span class="badge">20% ENDİRİM</span>
-    								</div>
-    								<div class="bookcard-footer">
-    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
-    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
-    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
-    										bax</a>
-    								</div>
-    							</div>
-    						</div>
-    					</div>
-    					<div class="swiper-slide">
-    						<div class="books-card style-2">
-    							<div class="dz-media">
-    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
-    							</div>
-    							<div class="dz-content">
-    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
-    								<h2 class="title">Cinayət və Cəza</h2>
-    								<ul class="dz-tags">
-    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
-    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
-    									</li>
-    								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
@@ -449,7 +422,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="books-card style-2">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media--imaged">
     								<img src="assets/images/booksimage/c&c.jpg" alt="book">
     							</div>
     							<div class="dz-content">
@@ -460,7 +433,42 @@
     									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
     									</li>
     								</ul>
-    								<p class="text">Bu gün İraqda baş verənlərin düzgün anlaşılması üçün dünən
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
+    									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
+    									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
+    									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
+    									faytonda doğum gününü qeyd edən bir insan və həmin insanın taleyinə hökm etdiyi
+    									xalqın həyatından heyrətamiz hissələr verilir</p>
+    								<div class="price">
+    									<span class="price-num">₼8.00</span>
+    									<del>₼10.00</del>
+    									<span class="badge">20% ENDİRİM</span>
+    								</div>
+    								<div class="bookcard-footer">
+    									<a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2"><i
+    											class="flaticon-shopping-cart-1 me-2"></i>Səbətə at</a>
+    									<a href="books-detail.php" class="btn btn-outline-secondary btnhover">Ətraflı
+    										bax</a>
+    								</div>
+    							</div>
+    						</div>
+    					</div>
+    					<div class="swiper-slide">
+    						<div class="books-card style-2">
+    							<div class="dz-media dz-media--imaged">
+    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    							</div>
+    							<div class="dz-content">
+    								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
+    								<h2 class="title">Cinayət və Cəza</h2>
+    								<ul class="dz-tags">
+    									<li><a href="author__info" href="author.php">Fyodor Dostoyevski</a></li>
+    									<li><a href="author__info" href="books-grid-view-sidebar.php">Dram & Crime</a>
+    									</li>
+    								</ul>
+    								<p class="text text-imaged--info">Bu gün İraqda baş verənlərin düzgün anlaşılması
+    									üçün dünən
     									yaşananlar jurnalist obyektlivliyi ilə “Cinayət və Cəza“nin səhifələrində
     									yazılıb. Bu səhifələrdə ABŞ və İngiltərənin İraq siyasəti, müharibənin
     									dəhşətləri, tətbiq olunan embarqoya görə hər ay 5000 uşaq ölərkən qızıl örtüklü
@@ -815,17 +823,17 @@
     	<!-- Latest News -->
     	<section class="content-inner-2">
     		<div class="container">
-			<div class="testimonial">
+    			<div class="testimonial">
     				<div class="section-head book-align">
     					<div>
     						<h2 class="title mb-0">Son Xəbərlər</h2>
     						<p class="m-b0">Tənqiçililrin düşüncələri</p>
     					</div>
     					<div class="pagination-align style-1">
-    						<div class="breaking-button-prev swiper-button-prev"><i
-    								class="fa-solid fa-angle-left"></i></div>
-    						<div class="breaking-button-next swiper-button-next"><i
-    								class="fa-solid fa-angle-right"></i></div>
+    						<div class="breaking-button-prev swiper-button-prev"><i class="fa-solid fa-angle-left"></i>
+    						</div>
+    						<div class="breaking-button-next swiper-button-next"><i class="fa-solid fa-angle-right"></i>
+    						</div>
     					</div>
     				</div>
     			</div>
@@ -833,7 +841,7 @@
     				<div class="swiper-wrapper">
     					<div class="swiper-slide">
     						<div class="dz-blog style-1 bg-white m-b30 wow fadeInUp" data-wow-delay="0.1s">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media__news">
     								<a href="news-detail.php"><img src="assets/images/booksimage/new3.jpg" alt="/"></a>
     							</div>
     							<div class="dz-info p-3">
@@ -854,7 +862,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="dz-blog style-1 bg-white m-b30 wow fadeInUp" data-wow-delay="0.1s">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media__news">
     								<a href="news-detail.php"><img src="assets/images/booksimage/new3.jpg" alt="/"></a>
     							</div>
     							<div class="dz-info p-3">
@@ -875,7 +883,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="dz-blog style-1 bg-white m-b30 wow fadeInUp" data-wow-delay="0.1s">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media__news">
     								<a href="news-detail.php"><img src="assets/images/booksimage/new3.jpg" alt="/"></a>
     							</div>
     							<div class="dz-info p-3">
@@ -896,7 +904,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="dz-blog style-1 bg-white m-b30 wow fadeInUp" data-wow-delay="0.1s">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media__news">
     								<a href="news-detail.php"><img src="assets/images/booksimage/new3.jpg" alt="/"></a>
     							</div>
     							<div class="dz-info p-3">
@@ -917,7 +925,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="dz-blog style-1 bg-white m-b30 wow fadeInUp" data-wow-delay="0.1s">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media__news">
     								<a href="news-detail.php"><img src="assets/images/booksimage/new3.jpg" alt="/"></a>
     							</div>
     							<div class="dz-info p-3">
@@ -938,7 +946,7 @@
     					</div>
     					<div class="swiper-slide">
     						<div class="dz-blog style-1 bg-white m-b30 wow fadeInUp" data-wow-delay="0.1s">
-    							<div class="dz-media">
+    							<div class="dz-media dz-media__news">
     								<a href="news-detail.php"><img src="assets/images/booksimage/new3.jpg" alt="/"></a>
     							</div>
     							<div class="dz-info p-3">
@@ -1002,7 +1010,76 @@
     	</section>
     	<!-- Newsletter End -->
 
+    	<section class="content-inner-2">
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s"
+    					style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-power icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Quick Delivery</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s"
+    					style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-shield icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Secure Payment</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s"
+    					style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-like icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Best Quality</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s"
+    					style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-star icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Return Guarantee</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</section>
+
     </div>
+
+   
+   <div class="whatsapp-icon">
+    	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+    	</a>
+    </div>
+    <div class="chatbox-icon">
+    	<a href="https://api.whatsapp.com/send?phone=15551234567">
+		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+
+    	</a>
+    </div>
+
 
     <!-- Footer -->
     <?php include 'includes/footer.php' ?>

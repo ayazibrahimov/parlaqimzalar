@@ -688,8 +688,11 @@ var swiper = new Swiper(".mainMenuSwiper", {
 	loop: false,
 
 	preventClicksPropagation: false,
+	pagination: {
+        el: ".swiper-pagination-data",
+      },
 	autoplay: {
-        delay: 2000,
+        delay: 3500,
         // disableOnInteraction: false,
       },
 	  navigation: {

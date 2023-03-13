@@ -96,7 +96,7 @@ jQuery(window).on('load', function() {
 	
 	if(jQuery('.book-swiper').length > 0){
 		var swiperBook = new Swiper('.book-swiper', {
-			slidesPerView: 3,
+			slidesPerView: 2,
 			spaceBetween: 30,
 			autoplay: {
 				delay: 4000,
@@ -106,22 +106,16 @@ jQuery(window).on('load', function() {
 				prevEl: ".book-button-prev",
 			},
 			breakpoints: {
-				300: {
+				320: {
 					slidesPerView: 1,
 				},
-				600: {
-					slidesPerView: 1,
-				},
-				767: {
+				576:{
 					slidesPerView: 2,
 				},
-				991: {
-					slidesPerView: 2,
-				},
-				1200: {
-					slidesPerView: 3,
-				},
-				1680: {
+				// 576:{
+				// 	slidesPerView: 1,
+				// },
+				1500:{
 					slidesPerView: 3,
 				}
 			}
@@ -229,10 +223,10 @@ jQuery(window).on('load', function() {
 			autoplay: {
 				delay: 2000,
 			},
-			pagination: {
-			  el: ".swiper-pagination",
-			  clickable: true,
-			},
+			// pagination: {
+			//   el: ".swiper-pagination",
+			//   clickable: true,
+			// },
 			breakpoints: {
 				1600: {
 					slidesPerView: 5,
@@ -251,6 +245,9 @@ jQuery(window).on('load', function() {
 				},
 				320: {
 					slidesPerView: 2,
+				},
+				250: {
+					slidesPerView: 1,
 				},
 			}
 		});
@@ -311,28 +308,30 @@ jQuery(window).on('load', function() {
 			},	
 			breakpoints: {
 				1200: {
+					slidesPerView: 5,
+				},
+				991: {
 					slidesPerView: 4,
 				},
-				767: {
+				768:{
 					slidesPerView: 3,
 				},
-				591: {
+				576: {
 					slidesPerView: 2,
-					centeredSlides: true,
 				},
-				320: {
-					slidesPerView: 2,
+				220: {
+					slidesPerView: 1,
 					spaceBetween: 15,
-					centeredSlides: true,
+					// centeredSlides: true,
 				},
 			}
 		});
 	}
 	if(jQuery('.swiper-four--double').length > 0){
 		var swiper = new Swiper( '.swiper-four--double', {
-			slidesPerView: 4,
+			slidesPerView: 5,
 			centeredSlides: false,
-			spaceBetween: 30,
+			spaceBetween: 25,
 			slidesPerGroup: 1,
             // loopFillGroupWithBlank: true,
 			loop: false,
@@ -340,7 +339,7 @@ jQuery(window).on('load', function() {
 				el: ".swiper-pagination-two",
 			},
 			// autoplay: {
-			// 	delay: 3500,
+			// 	delay: 2700,
 			// },
 			navigation: {
 				prevEl: ".swiper-button-prev--1",
@@ -348,20 +347,21 @@ jQuery(window).on('load', function() {
 			},	
 			breakpoints: {
 				1200: {
+					slidesPerView: 5,
+				},
+				991: {
 					slidesPerView: 4,
 				},
-	
-				767: {
+				768:{
 					slidesPerView: 3,
 				},
-				591: {
+				576: {
 					slidesPerView: 2,
-					centeredSlides: true,
 				},
-				320: {
-					slidesPerView: 2,
+				220: {
+					slidesPerView: 1,
 					spaceBetween: 15,
-					centeredSlides: true,
+					// centeredSlides: true,
 				},
 			}
 		});
@@ -384,20 +384,21 @@ jQuery(window).on('load', function() {
 			// },	
 			breakpoints: {
 				1200: {
+					slidesPerView: 5,
+				},
+				991: {
 					slidesPerView: 4,
 				},
-	
-				767: {
+				768:{
 					slidesPerView: 3,
 				},
-				591: {
+				576: {
 					slidesPerView: 2,
-					centeredSlides: true,
 				},
-				320: {
-					slidesPerView: 2,
+				220: {
+					slidesPerView: 1,
 					spaceBetween: 15,
-					centeredSlides: true,
+					// centeredSlides: true,
 				},
 			}
 		});
@@ -557,5 +558,87 @@ var swiperData = new Swiper(".bookSwiper", {
 	swiperData.autoplay.stop();
 }, false);
 
+
+
+if(jQuery('.swiper-grid').length > 0){
+	var swiper = new Swiper( '.swiper-grid', {
+		slidesPerView: 5,
+			centeredSlides: false,
+			spaceBetween: 30,
+			slidesPerGroup: 1,
+            // loopFillGroupWithBlank: true,
+			loop: false,
+				pagination: {
+				el: ".swiper-pagination-two",
+			},
+			autoplay: {
+				delay: 3000,
+			},
+			navigation: {
+				nextEl: ".swiper-button-next",
+				prevEl: ".swiper-button-prev",
+			},	
+			breakpoints: {
+				1200: {
+					slidesPerView: 5,
+				},
+				991: {
+					slidesPerView: 4,
+				},
+				768:{
+					slidesPerView: 3,
+				},
+				576: {
+					slidesPerView: 2,
+				},
+				220: {
+					slidesPerView: 1,
+					spaceBetween: 15,
+					// centeredSlides: true,
+				},
+			}
+	
+	});
+}
+if(jQuery('.swiper-author').length > 0){
+	var swiper = new Swiper('.swiper-author', {
+		slidesPerView: 5,
+			centeredSlides: false,
+			spaceBetween: 30,
+			slidesPerGroup: 1,
+            // loopFillGroupWithBlank: true,
+			loop: false,
+				pagination: {
+				el: ".swiper-pagination-two",
+			},
+			autoplay: {
+				delay: 3000,
+			},
+			navigation: {
+				nextEl: ".swiper-button-next",
+				prevEl: ".swiper-button-prev",
+			},	
+			breakpoints: {
+				1200: {
+					slidesPerView: 5,
+				},
+				991: {
+					slidesPerView: 4,
+				},
+				768:{
+					slidesPerView: 3,
+				},
+				576: {
+					slidesPerView: 2,
+				},
+				220: {
+					slidesPerView: 1,
+					spaceBetween: 15,
+					// centeredSlides: true,
+				},
+			}
+	
+	});
+}
 
 /* Document .ready END */

@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="testimonial">
 			<div class="section-head text-center">
-				<h2 class="title">Yazarin adi</h2>
+				<h2 class="title">Müəllif Haqqında</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 					et dolore magna aliqua</p>
 			</div>
@@ -57,7 +57,7 @@
 			<h2 class="title mb-0">Kitabları</h2>
 		</div>
 		<div class="row book-grid-row">
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6  style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -87,7 +87,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6 style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -117,7 +117,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6 style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -147,7 +147,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6 style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -177,7 +177,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6 style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -207,7 +207,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6 style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -237,7 +237,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6 style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -267,7 +267,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
+			<div class="col-md-3 col-sm-6 style-2">
 				<div class="dz-shop-card style-1">
 					<div class="dz-media dz-media--data">
 						<a href="books-detail.php"><img class="dz-media--data---img"
@@ -297,42 +297,12 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-book style-2">
-				<div class="dz-shop-card style-1">
-					<div class="dz-media dz-media--data">
-						<a href="books-detail.php"><img class="dz-media--data---img"
-								src="assets/images/booksimage/c&c.jpg" alt="book"></a>
-					</div>
-					<div class="bookmark-btn style-2">
-						<div class="heart__icon--boxed">
-							<i class="far fa-heart js-heart heart"></i>
-						</div>
-					</div>
-					<div class="dz-content">
-						<h5 class="title"><a href="books-grid-view.html">Babil Yanarkən</a></h5>
-						<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span
-									class="autor__first">Can Edip</span></a></p>
-						<div class="mb-4">
-							<div class="price__data">
-								<span class="price-num">₼9.99</span>
-								<del>₼10.00</del>
-							</div>
-							<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
-						</div>
-
-						<div class="book-footer">
-							<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
-									class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
-						</div>
-					</div>
-				</div>
-			</div>
-
 			<div class="row page mt-0">
 						<!-- <div class="col-md-6">
 								<p class="page-text">Showing 12 from 50 data</p>
 							</div> -->
-						<div class="col-md-8">
+				   <div class="col-md-8">
+
 							<nav aria-label="Blog Pagination">
 								<ul class="pagination style-1 p-t20">
 									<li class="page-item"><a class="page-link prev" href="javascript:void(0);">Geri</a>
@@ -348,9 +318,10 @@
 						</div>
 					</div>
 
-		</div>
+		    </div>
 	</div>
 </section>
 <!-- author books end-->
+
 
 <?php include 'includes/footer.php' ?>

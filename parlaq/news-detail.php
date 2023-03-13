@@ -5,10 +5,10 @@
 	
 	<div class="page-content">
 		<!-- inner page banner -->
-		<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm" style="background-image:url(assets/images/booksimage/bg3.jpg);">
+		<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm blog-height" style="background-image:url(assets/images/booksimage/bg3.jpg);">
 			<div class="container">
 				<div class="dz-bnr-inr-entry">
-					<h1>Xəbər başlığı</h1>
+					<!-- <h1>Xəbər başlığı</h1> -->
 					<nav aria-label="breadcrumb" class="breadcrumb-row">
 						<ul class="breadcrumb">
 							<li class="breadcrumb-item"><a href="index.php">Ana səhifə</a></li>
@@ -27,7 +27,7 @@
 						<!-- blog start -->
 						<div class="dz-blog blog-single style-1">
 							<div class="dz-media rounded-md">
-								<img src="images/booksimage/blog-7.jpg" alt="">
+								<img src="assets/images/booksimage/blog-7.jpg" alt="">
 							</div>
 							<div class="dz-info">
 								<div class="dz-meta  border-0 py-0 mb-2">

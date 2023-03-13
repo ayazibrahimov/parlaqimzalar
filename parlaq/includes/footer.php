@@ -156,6 +156,7 @@
 <script src="assets/js/custom.js"></script><!-- CUSTOM JS -->'
 <script src='assets/js/text.js'></script>
 <script src='assets/js/heart.js'></script>
+<script src='assets/js/scroll.js'></script>
 
 </body>
 </html>
