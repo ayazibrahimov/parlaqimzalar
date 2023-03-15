@@ -84,15 +84,7 @@
 									</ul>
 								</div>
 								<div class="book__detail--text">
-									<p class="text-1">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində (1866)
-										meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai
-										tarixinin mürəkkəb dövrlərindən birini əks etdirir. Bu elə bir dövr idi ki,
-										Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək
-										inkişaf yollarını dəqiq müəyyənləşdirməmişdi. Rusiya hansı yolla gedəcəkdi? O,
-										Avropa kapitalist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrinə
-										əsaslanaraq yeni, Avropa xalqlarından fərqli bir yolla gedəcəkdi?.Rusiya hansı
-										yolla gedəcəkdi? O, Avropa kapitalist inkişaf yolunu seçəcək, yoxsa öz milli
-										ənənələrinə. <a class="read__more"> Ardını oxu...</a>
+									<p class="text-1"> <span class='books__detail-text-1'>Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində (1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai tarixinin mürəkkəb dövrlərindən birini əks etdirir.Bu elə bir dövr idi ki, Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək inkişaf yollrını dəqiq müəyyənləşdirməmişdi. Rusiya hansı yolla gedəcəkdi? O, Avropa kapitlist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrinə əsaslanaraq eni, Avropa xalqlarından fərqli bir yolla gedəcəkdi?.Rusiya hansı yolla gedəcədi? O, Avropa kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrini</span> <span class="text-grayScale"></span> <a class="read__more"> Ardını oxu...</a>
 									</p>
 									<p class="text-2 unShown">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində
 										(1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai
@@ -359,9 +351,7 @@
 												<h5 class="subtitle">Çərpələng uçuran</h5>
 											</a>
 											<ul class="dz-tags">
-												<li>THRILLE,</li>
-												<li>DRAMA,</li>
-												<li>HORROR</li>
+											<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 											</ul>
 											<div class="price">
 												<span class="price-num">₼9.99</span>
@@ -370,8 +360,8 @@
 											<div class="d-flex align-items-center">
 												<a href="shop-cart.php"
 													class="btn btn-outline-primary btn-sm btnhover2">
-													<iclass="flaticon-shopping-cart-1 me-2">
-														</iclass=> Səbətə at
+													<i class="flaticon-shopping-cart-1 me-2">
+														</i> Səbətə at
 												</a>
 												<div class="bookmark-btn style-2">
 													<div class="heart__icon--boxed position-relative ms-3">
@@ -394,9 +384,7 @@
 												<h5 class="subtitle">Min Möhtəşəm Günəş</h5>
 											</a>
 											<ul class="dz-tags">
-												<li>THRILLE,</li>
-												<li>DRAMA,</li>
-												<li>HORROR</li>
+											<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 											</ul>
 											<div class="price">
 												<span class="price-num">₼9.99</span>
@@ -405,8 +393,8 @@
 											<div class="d-flex align-items-center">
 												<a href="shop-cart.php"
 													class="btn btn-outline-primary btn-sm btnhover2">
-													<iclass="flaticon-shopping-cart-1 me-2">
-														</iclass=> Səbətə at
+													<i class="flaticon-shopping-cart-1 me-2">
+														</i> Səbətə at
 												</a>
 												<div class="bookmark-btn style-2">
 													<div class="heart__icon--boxed position-relative ms-3">
@@ -428,9 +416,7 @@
 												<h5 class="subtitle">Səhra Çiçəyi</h5>
 											</a>
 											<ul class="dz-tags">
-												<li>THRILLE,</li>
-												<li>DRAMA,</li>
-												<li>HORROR</li>
+											  <p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 											</ul>
 											<div class="price">
 												<span class="price-num">₼9.99</span>

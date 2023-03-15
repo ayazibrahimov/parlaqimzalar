@@ -81,9 +81,9 @@
     		<div class="container">
     			<div class="section-head text-center">
     				<h2 class="title">Yeni kitablar</h2>
-    				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
+    				<!-- <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
     					labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    					laboris</p>
+    					laboris</p> -->
     			</div>
     			<div class="w-100 d-flex justify-content-end pb-3">
     				<div class="pagination-align style-1">
@@ -1068,17 +1068,7 @@
     </div>
 
    
-   <div class="whatsapp-icon">
-    	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
-    	</a>
-    </div>
-    <div class="chatbox-icon">
-    	<a href="https://api.whatsapp.com/send?phone=15551234567">
-		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
 
-    	</a>
-    </div>
 
 
     <!-- Footer -->

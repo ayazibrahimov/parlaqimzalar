@@ -1,3 +1,18 @@
+
+<!-- Icons -->
+
+<div class="whatsapp-icon">
+    	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+    	</a>
+    </div>
+    <div class="chatbox-icon">
+    	<a href="https://api.whatsapp.com/send?phone=15551234567">
+		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+
+    	</a>
+    </div>
+
 <!-- Footer -->
 <footer class="site-footer style-1">
 		<!-- Footer Category -->
@@ -56,14 +71,14 @@
 								<a href="index.php"><img src="assets/images/booksimage/parlaqLogo.svg" alt=""></a> 
 							</div>
 							<p class="text">Məqsədimiz kitabın bir dəyər olduğunu çatdırmaq, kitabsız bir insanın ruhsuz bədən olduğunu anlatmaq, ölkə kitabçılığına yeni bir nəfəs gətirməkdir.</p>
-							<div class="dz-social-icon style-1">
+							<!-- <div class="dz-social-icon style-1">
 								<ul>
 									<li><a href="https://www.facebook.com/dexignzone" target="_blank" ><i class="fa-brands fa-facebook-f"></i></a></li>
 									<li><a href="https://www.youtube.com/channel/UCGL8V6uxNNMRrk3oZfVct1g" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
 									<li><a href="https://www.linkedin.com/showcase/3686700/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
 									<li><a href="https://www.instagram.com/website_templates__/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
 								</ul>
-							</div>
+							</div> -->
 						</div>
 					</div>
 					<div class="col-xl-3 col-lg-4 col-md-4 col-sm-6 col-6 wow fadeInUp" data-wow-delay="0.2s">
@@ -108,7 +123,16 @@
 									<span>info@parlaqimzalar.az</span>
 								</li>
 							</ul>
+					
 						</div>
+						<!-- <div class="dz-social-icon style-1">
+								<ul>
+									<li><a href="https://www.facebook.com/dexignzone" target="_blank" ><i class="fa-brands fa-facebook-f"></i></a></li>
+									<li><a href="https://www.youtube.com/channel/UCGL8V6uxNNMRrk3oZfVct1g" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
+									<li><a href="https://www.linkedin.com/showcase/3686700/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
+									<li><a href="https://www.instagram.com/website_templates__/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
+								</ul>
+						</div> -->
 					</div>
 				</div>
 			</div>

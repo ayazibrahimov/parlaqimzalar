@@ -1,5 +1,5 @@
-<div class="widget widget-overlfow">
-    <h4 class="widget-title">TƏKLİFLƏRİMİZ</h4>
+<div class="widget widget-border widget-overlfow">
+    <h4 class="widget-title widget-title__border">TƏKLİFLƏRİMİZ</h4>
     <div class="row">
         <div class="col-12">
             <div class="dz-shop-card style-5">
@@ -11,8 +11,7 @@
                         <h5 class="subtitle">Çərpələng uçuran</h5>
                     </a>
                     <ul class="dz-tags">
-                        <li class="dz-tags--data">THRILLE,</li>
-                        <li class="dz-tags--data">DRAMA,</li>
+                    <p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
                     </ul>
                     <div class="price">
                         <span class="price-num">₼9.99</span>

@@ -231,7 +231,7 @@
 											<!-- <li><a href="books-detail.php">SCIENCE,</a></li>
 											<li><a href="books-detail.php">COMEDY</a></li> -->
 										</ul>
-										<h4 class="title mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
+										<h4 class="title title__data-info  mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
 									</div>
 									<div class="price">
 										<span class="price-num text-primary"> ₼10.00</span>
@@ -294,7 +294,7 @@
 											<!-- <li><a href="books-detail.php">SCIENCE,</a></li>
 											<li><a href="books-detail.php">COMEDY</a></li> -->
 										</ul>
-										<h4 class="title mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
+										<h4 class="title title__data-info mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
 									</div>
 									<div class="price">
 										<span class="price-num text-primary"> ₼10.00</span>
@@ -357,7 +357,7 @@
 											<!-- <li><a href="books-detail.php">SCIENCE,</a></li>
 											<li><a href="books-detail.php">COMEDY</a></li> -->
 										</ul>
-										<h4 class="title mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
+										<h4 class="title title__data-info mb-0"><a href="books-detail.php">Çərpələng Uçuran</a></h4>
 									</div>
 									<div class="price">
 										<span class="price-num text-primary"> ₼10.00</span>

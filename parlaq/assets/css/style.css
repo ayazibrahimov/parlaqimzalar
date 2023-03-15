@@ -14838,7 +14838,8 @@ ul.grid-2 {
     z-index: -1;
     -webkit-transition: -webkit-transform .2s,opacity .3s;
     -moz-transition: -moz-transform .2s,opacity .3s;
-    transition: transform .2s,opacity .3s; }
+    transition: transform .2s,opacity .3s;
+   }
   .scroltop:hover:after {
     -webkit-animation: spinAround 9s linear infinite;
     -moz-animation: spinAround 9s linear infinite;
@@ -21249,7 +21250,7 @@ pre {
     .book-grid-row.style-4 .dz-box {
       display: block; } }
   .book-grid-row.style-4 .dz-box .dz-media {
-    width: 150rem; 
+    width: 110rem; 
     height: 30rem;
   }
 
@@ -25237,19 +25238,19 @@ footer {
   height: 2rem;
   background: #EAA451;
   border-radius: 50%;
-  top:92%;
+  top:94%;
   left: 72%;
   
 }
 
 @media (max-width:1200px){
   .swiper-button-prev--book{
-    left: 60%;    
+    left: 68%;    
   }
 }
 @media (max-width:769px){
   .swiper-button-prev--book{
-    left: 76%;    
+    left: 81%;    
   }
 }
 @media (max-width:450px){
@@ -25268,7 +25269,7 @@ footer {
   height: 2rem;
   background: #EAA451;
   border-radius: 50%;
-  top:92%;
+  top:94%;
 }
 
 .swiper-button-prev--book::after,
@@ -25425,12 +25426,12 @@ footer {
 
 .whatsapp-icon, .chatbox-icon {
   opacity: 1;
-  width: 3.5rem;
-  height: 3.5rem;
+  width: 50px;
+  height: 50px;
   position: fixed;
-  bottom: 10%;
-  right: 0;
-  margin: 20px;
+  bottom: 15%;
+  right: 1%;
+  /* margin: 20px; */
   border-radius: 50%;
   background-color: #25d366;
   padding: 10px;
@@ -25442,6 +25443,15 @@ footer {
   transition: all .5s;
 }
 
+
+@media only screen and (max-width: 575px) {
+  .chatbox-icon, .whatsapp-icon {
+    height: 40px;
+    width: 40px;
+    right: 3.7%;
+   } }
+
+
 .whatsapp-icon img, .chatbox-icon img {
   width: 50px;
   height: 50px;
@@ -25449,11 +25459,11 @@ footer {
 }
 
 /* Adjust margin for small screens */
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .whatsapp-icon, .chatbox-icon {
     margin: 10px;
   }
-}
+} */
 
 .whatsapp-icon:hover, .chatbox-icon:hover {
   transform: scale(1.1);
@@ -25467,17 +25477,62 @@ footer {
 }
 
 
+.chatbox-icon::after{
+  border: 1px dashed #25d366;
+  transform: scale(1.2);
+  transition: all .5s;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: inherit;
+  content: '';
+  top: 0;
+  left: 0;
+  padding: 0;
+  z-index: -1;
+  -webkit-transition: -webkit-transform .2s,opacity .3s;
+  -moz-transition: -moz-transform .2s,opacity .3s;
+  transition: transform .2s,opacity .3s;
+}
 
 
 
 
+.chatbox-icon:hover:after {
+  -webkit-animation: spinAround 9s linear infinite;
+  -moz-animation: spinAround 9s linear infinite;
+  animation: spinAround 9s linear infinite; }
 
 
+.grayscale--text{
+  background-image: linear-gradient(to bottom, rgb(130 118 118) 0%, rgb(97 95 95 / 0%) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
 
 
+.title__data-info{
+  font-size: 24px !important;
+  width: 100% !important;
+}
 
+.widget-border{
+  /* border: 1px solid var(--primary); */
+  padding: 5px;
+  border-radius: 10px;
+  padding-left: 10px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.4);
+}
 
-
+.widget-title__border::before{
+  content: none !important;
+}
+.widget-title__border{
+  padding-left: 0px !important;
+  margin-top: 15px;
+  margin-bottom: 15px !important;
+}
 
 
 

@@ -292,7 +292,7 @@ jQuery(window).on('load', function() {
 		var swiper = new Swiper( '.swiper-four', {
 			slidesPerView: 5,
 			centeredSlides: false,
-			spaceBetween: 30,
+			spaceBetween: 25,
 			slidesPerGroup: 1,
             // loopFillGroupWithBlank: true,
 			loop: false,
@@ -338,9 +338,9 @@ jQuery(window).on('load', function() {
 				pagination: {
 				el: ".swiper-pagination-two",
 			},
-			// autoplay: {
-			// 	delay: 2700,
-			// },
+			autoplay: {
+				delay: 2700,
+			},
 			navigation: {
 				prevEl: ".swiper-button-prev--1",
 				nextEl: ".swiper-button-next--2",
