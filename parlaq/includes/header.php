@@ -25,6 +25,7 @@
 
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<script src='assets/js/text-hider.js' defer ></script>
 
 	<!-- STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap-select/dist/css/bootstrap-select.min.css">

@@ -20,7 +20,7 @@
 		</div>
 		<!-- inner page banner End-->
 		<!-- Blog Large -->
-		<section class="content-inner-1 bg-img-fix">
+		<section class="content-inner-1 bg-img-fix mt-4">
 			<div class="container">
 				<div class="row">
 					<div class="col-xl-8 col-lg-8">
@@ -220,15 +220,10 @@
 								</div>
 							</div>
 							<div class="widget widget_categories">
-								<h4 class="widget-title">KATEQORİYALAR</h4>
-								<ul>
-									<li class="cat-item cat-item-26"><a href="blog-list-sidebar.php">Audio</a> (3)</li>                                         
-									<li class="cat-item cat-item-36"><a href="blog-list-sidebar.php">Beauty</a> (4)</li>                                         
-									<li class="cat-item cat-item-43"><a href="blog-list-sidebar.php">Fashion</a> (3)</li>                                         
-									<li class="cat-item cat-item-27"><a href="blog-list-sidebar.php">Images</a> (1)</li>                                         
-									<li class="cat-item cat-item-40"><a href="blog-list-sidebar.php">Lifestyle</a> (3)</li> 
-								</ul>
-							</div>
+							  <div class="widget">
+							    <?php include 'includes/proposal.php' ?>
+							  </div>
+						    </div>
 							<div class="widget recent-posts-entry">
 								<h4 class="widget-title">CARİ BLOQLAR</h4>
 								<div class="widget-post-bx">

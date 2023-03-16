@@ -160,32 +160,41 @@ jQuery(window).on('load', function() {
 
 	if(jQuery('.swiper-three--double').length > 0){
 		var swiperInfo1 = new Swiper( '.swiper-three--double', {
-			slidesPerView: 1,
-			centeredSlides: true,
-			spaceBetween: 90,
+			slidesPerView: 5,
+			centeredSlides: false,
+			spaceBetween: 15,
+			slidesPerGroup: 1,
+            // loopFillGroupWithBlank: true,
 			loop: true,
-			pagination: {
-			  el: ".swiper-pagination-three",
-			  clickable: true,
+				pagination: {
+				el: ".swiper-pagination-five",
 			},
 			autoplay: {
-				delay: 3000,
+				delay: 2700,
 			},
 			navigation: {
 			  nextEl: ".swiper-button-next",
 			  prevEl: ".swiper-button-prev",
 			},
-			breakpoints: {
-				320: {
-					slidesPerView: 1,
-				},
-				1200: {
-					slidesPerView: 1,
-				},
-				1680: {
-					slidesPerView: 1,
-				},
-			}
+				breakpoints: {
+					1200: {
+						slidesPerView: 5,
+					},
+					991: {
+						slidesPerView: 4,
+					},
+					768:{
+						slidesPerView: 3,
+					},
+					576: {
+						slidesPerView: 2,
+					},
+					220: {
+						slidesPerView: 1,
+						spaceBetween: 15,
+						// centeredSlides: true,
+					},
+				}
 		});
 	}
 
@@ -292,16 +301,16 @@ jQuery(window).on('load', function() {
 		var swiper = new Swiper( '.swiper-four', {
 			slidesPerView: 5,
 			centeredSlides: false,
-			spaceBetween: 25,
+			spaceBetween: 15,
 			slidesPerGroup: 1,
             // loopFillGroupWithBlank: true,
 			loop: false,
 				pagination: {
 				el: ".swiper-pagination-two",
 			},
-			autoplay: {
-				delay: 3000,
-			},
+			// autoplay: {
+			// 	delay: 3000,
+			// },
 			navigation: {
 				nextEl: ".swiper-button-next",
 				prevEl: ".swiper-button-prev",
@@ -331,16 +340,16 @@ jQuery(window).on('load', function() {
 		var swiper = new Swiper( '.swiper-four--double', {
 			slidesPerView: 5,
 			centeredSlides: false,
-			spaceBetween: 25,
+			spaceBetween: 15,
 			slidesPerGroup: 1,
             // loopFillGroupWithBlank: true,
 			loop: false,
 				pagination: {
 				el: ".swiper-pagination-two",
 			},
-			autoplay: {
-				delay: 2700,
-			},
+			// autoplay: {
+			// 	delay: 2700,
+			// },
 			navigation: {
 				prevEl: ".swiper-button-prev--1",
 				nextEl: ".swiper-button-next--2",
@@ -564,7 +573,7 @@ if(jQuery('.swiper-grid').length > 0){
 	var swiper = new Swiper( '.swiper-grid', {
 		slidesPerView: 5,
 			centeredSlides: false,
-			spaceBetween: 30,
+			spaceBetween: 15,
 			slidesPerGroup: 1,
             // loopFillGroupWithBlank: true,
 			loop: false,

@@ -1,4 +1,4 @@
-<div class="widget widget-border widget-overlfow">
+<div class="widget widget-border widget-overlfow widget--data">
     <h4 class="widget-title widget-title__border">TƏKLİFLƏRİMİZ</h4>
     <div class="row">
         <div class="col-12">
@@ -8,7 +8,7 @@
                 </div>
                 <div class="dz-content">
                     <a href="books-detail.php">
-                        <h5 class="subtitle">Çərpələng uçuran</h5>
+                        <h5 class="subtitle subtitle--info">Çərpələng uçuran bizim dostumuzdur </h5>
                     </a>
                     <ul class="dz-tags">
                     <p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>

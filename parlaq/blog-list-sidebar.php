@@ -21,13 +21,13 @@
 	<!-- inner page banner End-->
 
 	<!-- Blog Large -->
-	<section class="content-inner-1 bg-img-fix">
+	<section class="content-inner-1 bg-img-fix mt-4">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-8 col-lg-8">
 					<div class="dz-blog style-1 bg-white m-b30 blog-half">
 						<div class="dz-media dz-img-effect zoom">
-							<img src="assets/images/booksimage//new-4.jpg" alt="">
+						<a href="news-detail.php"><img src="assets/images/booksimage//new-4.jpg" alt=""></a>
 						</div>
 						<div class="dz-info">
 							<h4 class="dz-title">
@@ -48,7 +48,7 @@
 					</div>
 					<div class="dz-blog style-1 bg-white m-b30 blog-half">
 						<div class="dz-media dz-img-effect zoom">
-							<img src="assets/images/booksimage//new-4.jpg" alt="">
+						<a href="news-detail.php"><img src="assets/images/booksimage//new-4.jpg" alt=""></a>
 						</div>
 						<div class="dz-info">
 							<h4 class="dz-title">

@@ -1,7 +1,7 @@
 
 <!-- Icons -->
 
-<div class="whatsapp-icon">
+<!-- <div class="whatsapp-icon">
     	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
 		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
     	</a>
@@ -11,7 +11,7 @@
 		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
 
     	</a>
-    </div>
+    </div> -->
 
 <!-- Footer -->
 <footer class="site-footer style-1">
@@ -86,10 +86,12 @@
 							<h5 class="footer-title">Linklər</h5>
 							<ul>
 								<li><a href="index.php">Ana Səhifə</a></li>
-								<li><a href="books-grid-view-sidebar.php">Kitablar</a></li>
-								<li><a href="books-list.php">Best Sellers</a></li>
-								<li><a href="blog-large-sidebar.php">Bloqlar</a></li>
+								<li><a href="about-us.php">Haqqımızda</a></li>
 								<li><a href="blog-list-sidebar.php">Xəbərlər</a></li>
+								<li><a href="blog-large-sidebar.php">Bloq</a></li>
+								<li><a href="privacy-policy.php">Gizlilik siyasəti</a></li>
+								<li><a href="help-desk.php">Nəşriyyat</a></li>
+								<li><a href="contact-us.php">Bizimlə Əlaqə</a></li>
 							</ul>
 						</div>
 					</div>
@@ -97,10 +99,13 @@
 						<div class="widget widget_services">
 							<h5 class="footer-title">Biz kimik</h5>
 							<ul>
-								<li><a href="about-us.php">Haqqımızda</a></li>
-								<li><a href="help-desk.php">Nəşriyyat</a></li>
-								<li><a href="privacy-policy.php">Gizlilik siyasəti</a></li>
-								<li><a href="contact-us.php">Bizimlə Əlaqə</a></li>
+								<li><a href="books-grid-view-sidebar.php">Kitablar</a></li>
+								<li><a href="books-grid-view-sidebar.php">Seriyalar</a></li>
+								<li><a href="books-grid-view-sidebar.php">Bestseller</a></li>
+								<li><a href="books-list.php">Endirim</a></li>
+								<li><a href="#">Müəllif</a></li>
+								<li><a href="brands.php">Markalar</a></li>
+								<!-- <li><a href="contact-us.php">Xəbərlər</a></li> -->
 							</ul>   
 						</div>
 					</div>
@@ -125,14 +130,14 @@
 							</ul>
 					
 						</div>
-						<!-- <div class="dz-social-icon style-1">
+						<div class="dz-social-icon style-1">
 								<ul>
 									<li><a href="https://www.facebook.com/dexignzone" target="_blank" ><i class="fa-brands fa-facebook-f"></i></a></li>
 									<li><a href="https://www.youtube.com/channel/UCGL8V6uxNNMRrk3oZfVct1g" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
 									<li><a href="https://www.linkedin.com/showcase/3686700/admin/" target="_blank"><i class="fa-brands fa-linkedin"></i></a></li>
 									<li><a href="https://www.instagram.com/website_templates__/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
 								</ul>
-						</div> -->
+						</div>
 					</div>
 				</div>
 			</div>
@@ -161,6 +166,17 @@
 </div>
 
 	
+<div class="whatsapp-icon">
+    	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+    	</a>
+    </div>
+    <div class="chatbox-icon">
+    	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
+		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+
+    	</a>
+    </div>
 
 
 <!-- JAVASCRIPT FILES ========================================= -->

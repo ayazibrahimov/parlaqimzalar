@@ -687,9 +687,10 @@ var swiper = new Swiper(".mainMenuSwiper", {
 	// spaceBetween: 50,
 	loop: false,
 
-	preventClicksPropagation: false,
+	preventClicksPropagation: true,
 	pagination: {
         el: ".swiper-pagination-data",
+		clickable: true,
       },
 	autoplay: {
         delay: 3500,

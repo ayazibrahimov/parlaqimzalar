@@ -86,7 +86,7 @@
 								<div class="book__detail--text">
 									<p class="text-1"> <span class='books__detail-text-1'>Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində (1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai tarixinin mürəkkəb dövrlərindən birini əks etdirir.Bu elə bir dövr idi ki, Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək inkişaf yollrını dəqiq müəyyənləşdirməmişdi. Rusiya hansı yolla gedəcəkdi? O, Avropa kapitlist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrinə əsaslanaraq eni, Avropa xalqlarından fərqli bir yolla gedəcəkdi?.Rusiya hansı yolla gedəcədi? O, Avropa kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrini</span> <span class="text-grayScale"></span> <a class="read__more"> Ardını oxu...</a>
 									</p>
-									<p class="text-2 unShown">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində
+									<p class="text-2" style="display:none;">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində
 										(1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai
 										tarixinin mürəkkəb dövrlərindən birini əks etdirir. Bu elə bir dövr idi ki,
 										Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək
@@ -130,6 +130,7 @@
 							<ul class="nav nav-tabs">
 								<li><a data-bs-toggle="tab" href="#graphic-design-1" class="active">Məlumatlar</a></li>
 								<li><a data-bs-toggle="tab" href="#developement-1">Oxucu rəyləri</a></li>
+								<li><a href="author.php">Müəllif haqqında</a></li>
 							</ul>
 							<div class="tab-content">
 								<div id="graphic-design-1" class="tab-pane show active">

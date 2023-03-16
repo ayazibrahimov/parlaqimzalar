@@ -26,7 +26,7 @@
 					<div class="col-12">
 					<h2 class="title">Parlaq İmzalar</h2>
 					</div>
-					<div class="col-lg-9 col-sm-8  align-self-center mb-4">
+					<div class="col-lg-9 col-sm-8 col-12  align-self-center mb-4">
 						<div class="faq-content-box">
 							<div class="section-head">
 								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus necessitatibus voluptate eaque, quos quidem quod itaque, aperiam nulla iusto autem ad maxime perferendis sed iste ullam vero doloremque, ipsum hic animi? Soluta, officia harum nesciunt sapiente tempore assumenda, reiciendis ipsam ipsum voluptatibus voluptas animi exercitationem. Molestias eius quia non laborum?</p>
@@ -34,7 +34,7 @@
 						
 						</div>
 					</div>
-					<div class="col-lg-3 col-sm-4  mb-4">
+					<div class="col-lg-3 col-sm-4 logo__img--disabled mb-4">
 						<div class="faq-img-box wow left-animation rounded-md" data-wow-delay="0.2s">
 							<img src="assets/images/booksimage/parlaqLogo.svg" alt="FAQ Image">
 						</div>
@@ -49,12 +49,12 @@
 				<div class="col-12">
 					<h2 class="title">Simurq</h2>
 					</div>
-					<div class="col-lg-3 col-sm-4 mb-4">
+					<div class="col-lg-3 col-sm-4 logo__img--disabled mb-4">
 						<div class="faq-img-box rounded-md">
 							<img src="assets/images/booksimage/parlaqSimurq.svg" alt="FAQ Image">
 						</div>
 					</div>
-					<div class="col-lg-9 col-sm-8 align-self-center mb-4">
+					<div class="col-lg-9 col-sm-8 col-12 align-self-center mb-4">
 						<div class="faq-content-box">
 							<div class="section-head">
 								<!-- <h2 class="title">Simurq</h2> -->
@@ -74,7 +74,7 @@
 					<div class="col-12">
 					<h2 class="title">Parlaq İmzalar</h2>
 					</div>
-					<div class="col-lg-9 col-sm-8 align-self-center mb-4">
+					<div class="col-lg-9 col-sm-8 col-12 align-self-center mb-4">
 						<div class="faq-content-box">
 							<div class="section-head">
 								<!-- <h2 class="title">İrşad</h2> -->
@@ -83,7 +83,7 @@
 						
 						</div>
 					</div>
-					<div class="col-lg-3 col-sm-4 order-lg-2 order-1 mb-4">
+					<div class="col-lg-3 col-sm-4 order-lg-2 logo__img--disabled order-1 mb-4">
 						<div class="faq-img-box wow left-animation rounded-md" data-wow-delay="0.2s">
 							<img src="assets/images/booksimage/parlaqIrsad.svg" alt="FAQ Image">
 						</div>

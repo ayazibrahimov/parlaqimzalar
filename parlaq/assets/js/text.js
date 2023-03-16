@@ -9,36 +9,34 @@ let textGrayScale = document.querySelector('.text-grayScale')
 document.addEventListener('DOMContentLoaded',getAllDatas)
 
 
-
-
 function getAllDatas(){
 
    let text = booksDetailText.textContent.replace( /\s/g, ' ').split(' ')
 
    let cutted = text.splice(-5).join(' ')
-
+   
    let textInfo = text.join(' ')
    
    booksDetailText.textContent = textInfo
    textGrayScale.textContent = cutted
-
+   
    textGrayScale.classList.add('grayscale--text')
- 
+   
 }
 
-
-readMore.addEventListener('click',function(e){
-
-   e.target.classList.add('unShown')
-   text_2.classList.remove('unShown')
-   textGrayScale.classList.remove('grayscale--text')
-})
-
-closeTxt.addEventListener('click',function(){
-   readMore.classList.remove('unShown')
-   text_2.classList.add('unShown')
-   textGrayScale.classList.add('grayscale--text')
-})
+   
+   // readMore.addEventListener('click',function(e){
+      
+      //    e.target.classList.add('unShown')
+      //    text_2.classList.remove('unShown')
+      //    textGrayScale.classList.remove('grayscale--text')
+      // })
+      
+// closeTxt.addEventListener('click',function(){
+//    readMore.classList.remove('unShown')
+//    text_2.classList.add('unShown')
+//    textGrayScale.classList.add('grayscale--text')
+// })
 
 
 
