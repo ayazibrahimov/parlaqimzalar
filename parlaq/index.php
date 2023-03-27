@@ -35,12 +35,6 @@
     						</div> -->
     					</a>
     				</div>
-
-    				<!-- <div class="swiper-slide"><img src="assets/images/booksimage/mainImage2.webp" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage3.webp" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage4.webp" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage5.webp" alt=""></div>
-                    <div class="swiper-slide"><img src="assets/images/booksimage/mainImage6.webp" alt=""></div> -->
     			</div>
 
 				       <div class="swiper-button-next"></div>

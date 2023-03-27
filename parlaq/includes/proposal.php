@@ -2,7 +2,7 @@
     <h4 class="widget-title widget-title__border">TƏKLİFLƏRİMİZ</h4>
     <div class="row">
         <div class="col-12">
-            <div class="dz-shop-card style-5">
+            <div class="dz-shop-card dz-shop-card--major style-5">
                 <div class="dz-media">
                     <a href="books-detail.php"><img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt=""></a>
                 </div>
@@ -19,8 +19,8 @@
                     </div>
                     <div class="d-flex align-items-center">
                         <a href="shop-cart.php" class="btn btn-outline-primary btn-sm btnhover2">
-                            <iclass="flaticon-shopping-cart-1 me-2">
-                                </iclass=> Səbətə at
+                            <i class="flaticon-shopping-cart-1 me-2">
+                                </i> Səbətə at
                         </a>
                         <div class="bookmark-btn style-2">
                             <div class="heart__icon--boxed position-relative ms-3">

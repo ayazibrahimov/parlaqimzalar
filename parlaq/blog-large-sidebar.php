@@ -3,7 +3,7 @@
 
 <div class="page-content">
 	<!-- inner page banner -->
-	<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm blog-height"
+	<!-- <div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm blog-height"
 		style="background-image:url(assets/images/booksimage/bg3.jpg);">
 		<div class="container">
 			<div class="dz-bnr-inr-entry">
@@ -16,11 +16,11 @@
 				</nav>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- inner page banner End-->
 
 	<!-- Blog Large -->
-	<section class="content-inner-1 bg-img-fix">
+	<section class="content-inner-1 bg-img-fix mt-4">
 		<div class="container">
 			<div class="row">
 				<div class="col-xl-8 col-lg-8">
@@ -131,7 +131,7 @@
 					</nav>
 				</div>
 				<div class="col-xl-4 col-lg-4">
-					<aside class="side-bar sticky-top mt-lg-0 mt-md-5">
+					<aside class="side-bar side-bar__margin--top sticky-top mt-lg-0 mt-md-5">
 						<div class="widget">
 							<div class="search-bx">
 								<form role="search" method="post">

@@ -4,11 +4,11 @@
 
 <div class="page-content">
 	<!-- inner page banner -->
-	<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm blog-height"
+	<!-- <div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm blog-height"
 		style="background-image:url(assets/images/booksimage/bg3.jpg);">
 		<div class="container">
 			<div class="dz-bnr-inr-entry">
-				<!-- <h1>Xəbərlər</h1> -->
+			
 				<nav aria-label="breadcrumb" class="breadcrumb-row">
 					<ul class="breadcrumb">
 						<li class="breadcrumb-item"><a href="index.php">ANA SƏHİFƏ</a></li>
@@ -17,7 +17,7 @@
 				</nav>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- inner page banner End-->
 
 	<!-- Blog Large -->
@@ -33,13 +33,11 @@
 							<h4 class="dz-title">
 								<a href="news-detail.php">Rəsulzadə haqqında yeni kitab nəşr olundu</a>
 							</h4>
-							<p class="m-b0">“I Beynәlxalq Rәsulzadә Qiraәtlәri. Mәhәmmәd Əmin Rәsulzadәnin irsi
-								Müstәqilik, Demokratiya vә Dövlәtçilik dәyәrlәri sistemindә” kitabının tәqdimat mәrasimi
-								keçirilib.</p>
+							<p class="m-b0">Beynәlxalq Rәsulzadә iraәtlәri. Mәhәmmәd Əmin Rәsulzadәnin irsi müstәqilik, demokratiya vә dövlәtçilik dәyәrlәri sistemindә kitabının tәqdimat mәrasimi keçirilib.</p>
 							<div class="dz-meta meta-bottom">
 								<ul class="border-0 pt-0">
 									<li class="post-date"><i class="far fa-calendar fa-fw m-r10"></i>7 Mart, 2022</li>
-									<li class="post-author"><i class="far fa-user fa-fw m-r10"></i>By <a
+									<li class="post-author"><i class="far fa-user fa-fw m-r10"></i> <a
 											href="javascript:void(0);"> Ferid Abdinov</a></li>
 									<!-- <li class="post-comment"><a href="javascript:void(0);"><i class="far fa-comment-alt fa-fw"></i><span>15</span></a></li> -->
 								</ul>
@@ -54,13 +52,11 @@
 							<h4 class="dz-title">
 								<a href="news-detail.php">Rəsulzadə haqqında yeni kitab nəşr olundu</a>
 							</h4>
-							<p class="m-b0">“I Beynәlxalq Rәsulzadә Qiraәtlәri. Mәhәmmәd Əmin Rәsulzadәnin irsi
-								Müstәqilik, Demokratiya vә Dövlәtçilik dәyәrlәri sistemindә” kitabının tәqdimat mәrasimi
-								keçirilib.</p>
+							<p class="m-b0">Beynәlxalq Rәsulzadә qiraәtlәri. Mәhәmmәd Əmin Rәsulzadәnin irsi müstәqilik, demokratiya vә dövlәtçilik dәyәrlәri sistemindә” kitabının tәqdimat mәrasimi keçirilib.</p>
 							<div class="dz-meta meta-bottom">
 								<ul class="border-0 pt-0">
 									<li class="post-date"><i class="far fa-calendar fa-fw m-r10"></i>7 Mart, 2022</li>
-									<li class="post-author"><i class="far fa-user fa-fw m-r10"></i>By <a
+									<li class="post-author"><i class="far fa-user fa-fw m-r10"></i> <a
 											href="javascript:void(0);"> Ferid Abdinov</a></li>
 									<!-- <li class="post-comment"><a href="javascript:void(0);"><i class="far fa-comment-alt fa-fw"></i><span>15</span></a></li> -->
 								</ul>
@@ -77,15 +73,13 @@
 						</div>
 						<div class="dz-info">
 							<h4 class="dz-title">
-								<a href="news-detail.php">2022-ci il “Şirməmməd Hüseynov mükafatı”nın qalibi artıq
-									məlumdur...</a>
+								<a href="news-detail.php">2022-ci il “Şirməmməd Hüseynov mükafatı”nın qalibi artıq məlumdur...</a>
 							</h4>
-							<p class="m-b0">Modern.az xəbər verir ki, bu barədə “Şirməmməd Hüseynov mükafatı”nın Ekspert
-								Komissiyasının sədri Alim Hüseynli bildirib.</p>
+							<p class="m-b0">Modern.az xəbər verir ki, bu barədə “Şirməmməd Hüseynov mükafatı”nın Ekspert Komissiyasının sədri Alim Hüseynli bildirib.</p>
 							<div class="dz-meta meta-bottom">
 								<ul class="border-0 pt-0">
 									<li class="post-date"><i class="far fa-calendar fa-fw m-r10"></i>7 Mart, 2022</li>
-									<li class="post-author"><i class="far fa-user fa-fw m-r10"></i>By <a
+									<li class="post-author"><i class="far fa-user fa-fw m-r10"></i> <a
 											href="javascript:void(0);"> Fuad Abdinov</a></li>
 									<!-- <li class="post-comment"><a href="javascript:void(0);"><i class="far fa-comment-alt fa-fw"></i><span>15</span></a></li> -->
 								</ul>
@@ -123,7 +117,7 @@
 					</nav>
 				</div>
 				<div class="col-xl-4 col-lg-4">
-					<aside class="side-bar sticky-top mt-lg-0 mt-md-5">
+					<aside class="side-bar side-bar__margin--top sticky-top mt-lg-0 mt-md-5">
 						<div class="widget">
 							<div class="search-bx">
 								<form role="search" method="post">

@@ -5,10 +5,10 @@
 	
 	<div class="page-content">
 		<!-- inner page banner -->
-		<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm blog-height" style="background-image:url(assets/images/booksimage/bg3.jpg);">
+		<!-- <div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm blog-height" style="background-image:url(assets/images/booksimage/bg3.jpg);">
 			<div class="container">
 				<div class="dz-bnr-inr-entry">
-					<!-- <h1>Bloq Məlumatları</h1> -->
+					<h1>Bloq Məlumatları</h1>
 					<nav aria-label="breadcrumb" class="breadcrumb-row">
 						<ul class="breadcrumb">
 							<li class="breadcrumb-item"><a href="index.php"> Ana Səhifə</a></li>
@@ -17,7 +17,7 @@
 					</nav>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		<!-- inner page banner End-->
 		<!-- Blog Large -->
 		<section class="content-inner-1 bg-img-fix mt-4">

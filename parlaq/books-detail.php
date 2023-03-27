@@ -11,15 +11,21 @@
 						<div class="dz-media">
 							<div class="swiper bookSwiper">
 								<div class="swiper-wrapper">
-									<div class="swiper-slide"><a data-fancybox="gallery"
-											href="assets/images/booksimage/c&c.jpg"><img
-												src="assets/images/booksimage/c&c.jpg" alt=""></a></div>
-									<div class="swiper-slide"><a data-fancybox="gallery"
-											href="assets/images/booksimage/c&c-back.jpg"><img
-												src="assets/images/booksimage/c&c-back.jpg" alt=""></a></div>
-									<div class="swiper-slide"><a data-fancybox="gallery"
-											href="assets/images/booksimage/c&c-link.jpg"><img
-												src="assets/images/booksimage/c&c-link.jpg" alt=""></a></div>
+									<div class="swiper-slide swiper-slide--back"><a data-fancybox="gallery"
+											href="assets/images/booksimage/test1.jpg"><img
+												src="assets/images/booksimage/test1.jpg" alt=""></a></div>
+									<div class="swiper-slide swiper-slide--back"><a data-fancybox="gallery"
+											href="assets/images/booksimage/test2.jpg"><img
+												src="assets/images/booksimage/test2.jpg" alt=""></a></div>
+									<div class="swiper-slide swiper-slide--back"><a data-fancybox="gallery"
+											href="assets/images/booksimage/test3.jpg"><img
+												src="assets/images/booksimage/test3.jpg" alt=""></a></div>
+									<div class="swiper-slide swiper-slide--back"><a data-fancybox="gallery"
+											href="assets/images/booksimage/test4.jpg"><img
+												src="assets/images/booksimage/test4.jpg" alt=""></a></div>
+									<div class="swiper-slide swiper-slide--back"><a data-fancybox="gallery"
+											href="assets/images/booksimage/test5.jpg"><img
+												src="assets/images/booksimage/test5.jpg" alt=""></a></div>
 
 								</div>
 								<!-- <div class="swiper-button-next"></div>
@@ -27,12 +33,16 @@
 								<div class="swiper-pagination"></div> -->
 							</div>
 
-							<div class="mt-3">
+							<div class="book__button_pad books__button_pad--mt">
 								</i><a class="book__pdf" target="_blank"
 									href="assets/images/pdf/xaricetehsilsened.pdf"><img
 										src="assets/images/booksimage/Filesdocument.svg" alt="">Bir hissə oxu</a>
-								<div class="swiper-button-next swiper-button-next--book"></div>
-								<div class="swiper-button-prev swiper-button-prev--book"></div>
+								<div class="swiper-button-next swiper-button-next--book">
+								<i class="fa-solid fa-angle-right"></i>
+								</div>
+								<div class="swiper-button-prev swiper-button-prev--book">
+								   <i class="fa-solid fa-angle-left"></i>
+								</div>
 								<div class="swiper-pagination"></div>
 							</div>
 						</div>
@@ -84,9 +94,10 @@
 									</ul>
 								</div>
 								<div class="book__detail--text">
-									<p class="text-1"> <span class='books__detail-text-1'>Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində (1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai tarixinin mürəkkəb dövrlərindən birini əks etdirir.Bu elə bir dövr idi ki, Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək inkişaf yollrını dəqiq müəyyənləşdirməmişdi. Rusiya hansı yolla gedəcəkdi? O, Avropa kapitlist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrinə əsaslanaraq eni, Avropa xalqlarından fərqli bir yolla gedəcəkdi?.Rusiya hansı yolla gedəcədi? O, Avropa kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrini</span> <span class="text-grayScale"></span> <a class="read__more"> Ardını oxu...</a>
+									<p class="text-1 text-ind"><span class='books__detail-text-1'>Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində (1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai tarixinin mürəkkəb dövrlərindən birini əks etdirir.Bu elə  gedəcəkdi? O, Avropa kapitlist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrin.Rusiya hansı yolla gedəcədi? O, Avropa kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrinə köklənəcək</span> <span class="text-grayScale"></span>
+									<span class="read__more--parent"><a class="read__more"> Ardını oxu</a></span>
 									</p>
-									<p class="text-2" style="display:none;">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində
+									<p class="text-2 text-ind" style="display:none;">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində
 										(1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai
 										tarixinin mürəkkəb dövrlərindən birini əks etdirir. Bu elə bir dövr idi ki,
 										Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək
@@ -94,7 +105,8 @@
 										Avropa kapitalist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrinə
 										əsaslanaraq yeni, Avropa xalqlarından fərqli bir yolla gedəcəkdi?.Rusiya hansı
 										yolla gedəcəkdi? O, Avropa kapitalist inkişaf yolunu seçəcək, yoxsa öz milli
-										ənənələrinə. <a class="close__text"> Qısalt</a>
+										ənənələrinə köklənəcək 
+										<span class="read__more--parent"><a class="close__text"> Qısalt</a></span>
 									</p>
 									<!-- <a class="read__more">Ardını oxu</a> -->
 
@@ -129,8 +141,8 @@
 						<div class="product-description tabs-site-button">
 							<ul class="nav nav-tabs">
 								<li><a data-bs-toggle="tab" href="#graphic-design-1" class="active">Məlumatlar</a></li>
+								<li><a data-bs-toggle="tab" href="#development-2">Müəllif haqqında</a></li>
 								<li><a data-bs-toggle="tab" href="#developement-1">Oxucu rəyləri</a></li>
-								<li><a href="author.php">Müəllif haqqında</a></li>
 							</ul>
 							<div class="tab-content">
 								<div id="graphic-design-1" class="tab-pane show active">
@@ -180,6 +192,33 @@
 											</td>
 										</tr>
 									</table>
+								</div>
+								<div id="development-2" class="tab-pane tab-plane__author">
+								<div class="clearfix">
+						          <h5 class="testimonial-name testimonial-name--tab m-t10 m-b5">Fyodor Dostoyevski</h5>
+						          <!-- <span class="testimonial-position">faculty of Economics 2022</span> -->
+					            </div>
+								  <p class="testimonial-text testimonial-text__author-1 text-ind">
+					                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
+					              </p>
+								  <p class="testimonial-text text-ind">
+								  <img src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt="Pineapple">
+					                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+					                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+					                  dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+					                  sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+					                  est, qui dolorem ipsum quia dolor sit amet, consectetur
+					                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+					                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+					                  dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+					                  sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+					                  est, qui dolorem ipsum quia dolor sit amet, consectetur
+					                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+					                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
+					                  dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+					                  sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
+					                  est, qui dolorem ipsum quia dolor sit amet, consectetur
+				                  </p>
 								</div>
 								<div id="developement-1" class="tab-pane">
 									<div class="clear" id="comment-list">
@@ -333,6 +372,7 @@
 									</div>
 
 								</div>
+
 							</div>
 						</div>
 					
@@ -409,15 +449,15 @@
 								<div class="col-xl-12 col-lg-6">
 									<div class="dz-shop-card style-5">
 										<div class="dz-media">
-											<a href="books-detail.php"> <img
-													src="assets/images/booksimage/sehra-ciceyi.jpg" alt=""> </a>
+											<a href="books-detail.php"><img
+													src="assets/images/booksimage/sehra-ciceyi.jpg" alt=""></a>
 										</div>
 										<div class="dz-content">
 											<a href="books-detail.php">
-												<h5 class="subtitle">Səhra Çiçəyi</h5>
+												<h5 class="subtitle">Səhra çiçəyi</h5>
 											</a>
 											<ul class="dz-tags">
-											  <p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
+											<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
 											</ul>
 											<div class="price">
 												<span class="price-num">₼9.99</span>
@@ -426,8 +466,8 @@
 											<div class="d-flex align-items-center">
 												<a href="shop-cart.php"
 													class="btn btn-outline-primary btn-sm btnhover2">
-													<iclass="flaticon-shopping-cart-1 me-2">
-														</iclass=> Səbətə at
+													<i class="flaticon-shopping-cart-1 me-2">
+														</i> Səbətə at
 												</a>
 												<div class="bookmark-btn style-2">
 													<div class="heart__icon--boxed position-relative ms-3">
@@ -438,6 +478,7 @@
 										</div>
 									</div>
 								</div>
+								
 							</div>
 						</div>
 					</div>

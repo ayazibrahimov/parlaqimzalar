@@ -392,7 +392,7 @@
 								</ul> -->
 								</li>
 								<!-- <li><a href="index.php"><span>Ana Səhifə</span></a></li> -->
-								<li class="sub-menu-down"><a href="brands.php"><span>Markalar</span></a>
+								<li class="sub-menu-down"><a><span>Markalar</span></a>
 									<ul class="sub-menu">
 										<li><a href="brands.php">Parlaq İmzalar</a></li>
 										<li><a href="brands.php">Simurq</a></li>
@@ -418,8 +418,7 @@
 									<li><a href="shop-registration.html">Registration</a></li>
 								</ul> -->
 								</li>
-								<li class="sub-menu-down"><a
-										href="books-grid-view-sidebar.php"><span>Seriyalar</span></a>
+								<li class="sub-menu-down"><a><span>Seriyalar</span></a>
 									<ul class="sub-menu">
 										<li><a href="books-grid-view-sidebar.php">Klassika</a></li>
 										<li><a href="books-grid-view-sidebar.php">Yoldaş</a></li>
@@ -432,7 +431,7 @@
 								</li>
 								<li class="sub-menu-down"><a href="books-list.php"><span>Endirim</span></a>
 								</li>
-								<li class="sub-menu-down"><a href=""><span>Müəllif</span></a>
+								<li class="sub-menu-down"><a><span>Müəllif</span></a>
 									<ul class="sub-menu">
 										<li><a href="">Yerli</a></li>
 										<li><a href="">Xarici</a></li>

@@ -13,7 +13,7 @@ function getAllDatas(){
 
    let text = booksDetailText.textContent.replace( /\s/g, ' ').split(' ')
 
-   let cutted = text.splice(-5).join(' ')
+   let cutted = text.splice(-12).join(' ')
    
    let textInfo = text.join(' ')
    
