@@ -5,7 +5,7 @@
 	
 	<div class="page-content bg-white">
 		<!--banner-->
-		<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm" style="background-image:url(assets/images/booksimage/bg3.jpg);">
+		<!-- <div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm" style="background-image:url(assets/images/booksimage/bg3.jpg);">
 			<div class="container">
 				<div class="dz-bnr-inr-entry">
 					<h1>Haqqımızda</h1>
@@ -17,7 +17,7 @@
 					</nav>
 				</div>
 			</div>
-		</div>
+		</div> -->
 		
 		<!--Our Mission Section-->
 		<section class="content-inner overlay-white-middle">

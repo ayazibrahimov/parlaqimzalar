@@ -5,7 +5,7 @@
 			
 		<div class="page-content">
 			<!-- inner page banner -->
-			<div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm" style="background-image:url(assets/images/booksimage/bg3.jpg);">
+			<!-- <div class="dz-bnr-inr overlay-secondary-dark dz-bnr-inr-sm" style="background-image:url(assets/images/booksimage/bg3.jpg);">
 				<div class="container">
 					<div class="dz-bnr-inr-entry">
 						<h1>Neşriyyat haqqinda</h1>
@@ -17,7 +17,7 @@
 						</nav>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<!-- inner page banner End-->
 			<!-- Help Desk -->
 			<div class="section-full content-inner-1 bg-white">

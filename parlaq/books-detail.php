@@ -38,10 +38,10 @@
 									href="assets/images/pdf/xaricetehsilsened.pdf"><img
 										src="assets/images/booksimage/Filesdocument.svg" alt="">Bir hissə oxu</a>
 								<div class="swiper-button-next swiper-button-next--book">
-								<i class="fa-solid fa-angle-right"></i>
+									<i class="fa-solid fa-angle-right"></i>
 								</div>
 								<div class="swiper-button-prev swiper-button-prev--book">
-								   <i class="fa-solid fa-angle-left"></i>
+									<i class="fa-solid fa-angle-left"></i>
 								</div>
 								<div class="swiper-pagination"></div>
 							</div>
@@ -94,10 +94,17 @@
 									</ul>
 								</div>
 								<div class="book__detail--text">
-									<p class="text-1 text-ind"><span class='books__detail-text-1'>Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində (1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai tarixinin mürəkkəb dövrlərindən birini əks etdirir.Bu elə  gedəcəkdi? O, Avropa kapitlist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrin.Rusiya hansı yolla gedəcədi? O, Avropa kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrinə köklənəcək</span> <span class="text-grayScale"></span>
-									<span class="read__more--parent"><a class="read__more"> Ardını oxu</a></span>
+									<p class="text-1 grayscale--text">Fyodor Mixayloviç
+											Dostoyevskinin XIX əsrin 60-cı illərində (1866) meydana gələn "Cinayət və
+											cəza" romanı rus milli, mədəni, ictimai tarixinin mürəkkəb dövrlərindən
+											birini əks etdirir.Bu elə gedəcəkdi? O, Avropa kapitlist inkişaf yolunu
+											seçəcək, yoxsa öz milli ənənələrin.Rusiya hansı yolla gedəcədi? O, Avropa
+											kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrinə
+											köklənəcək
+										<span class="read__more--parent"><a class="read__more"> Ardını oxu</a></span>
 									</p>
-									<p class="text-2 text-ind" style="display:none;">Fyodor Mixayloviç Dostoyevskinin XIX əsrin 60-cı illərində
+									<p class="text-2" style="display:none;">Fyodor Mixayloviç Dostoyevskinin
+										XIX əsrin 60-cı illərində
 										(1866) meydana gələn "Cinayət və cəza" romanı rus milli, mədəni, ictimai
 										tarixinin mürəkkəb dövrlərindən birini əks etdirir. Bu elə bir dövr idi ki,
 										Rusiya təhkimçilik hüququndan təzəcə azad olmuş və hələ özünün gələcək
@@ -105,7 +112,7 @@
 										Avropa kapitalist inkişaf yolunu seçəcək, yoxsa öz milli ənənələrinə
 										əsaslanaraq yeni, Avropa xalqlarından fərqli bir yolla gedəcəkdi?.Rusiya hansı
 										yolla gedəcəkdi? O, Avropa kapitalist inkişaf yolunu seçəcək, yoxsa öz milli
-										ənənələrinə köklənəcək 
+										ənənələrinə köklənəcək
 										<span class="read__more--parent"><a class="close__text"> Qısalt</a></span>
 									</p>
 									<!-- <a class="read__more">Ardını oxu</a> -->
@@ -194,43 +201,59 @@
 									</table>
 								</div>
 								<div id="development-2" class="tab-pane tab-plane__author">
-								<div class="clearfix">
-						          <h5 class="testimonial-name testimonial-name--tab m-t10 m-b5">Fyodor Dostoyevski</h5>
-						          <!-- <span class="testimonial-position">faculty of Economics 2022</span> -->
-					            </div>
-								  <p class="testimonial-text testimonial-text__author-1 text-ind">
-					                Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium
-					              </p>
-								  <p class="testimonial-text text-ind">
-								  <img src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt="Pineapple">
-					                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-					                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-					                  dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-					                  sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
-					                  est, qui dolorem ipsum quia dolor sit amet, consectetur
-					                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-					                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-					                  dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-					                  sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
-					                  est, qui dolorem ipsum quia dolor sit amet, consectetur
-					                  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
-					                  totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-					                  dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
-					                  sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam
-					                  est, qui dolorem ipsum quia dolor sit amet, consectetur
-				                  </p>
+									<div class="clearfix d-flex align-items-center">
+
+										<picture class="author__major--pic"> <img
+												src="assets/images/booksimage/fyodordostoyevskyNew.webp"
+												alt="Pineapple"></picture>
+
+										<h5 class="testimonial-name testimonial-name--tab m-t10 m-b5">Fyodor Dostoyevski
+										</h5>
+										<!-- <span class="testimonial-position">faculty of Economics 2022</span> -->
+									</div>
+
+									<p class="testimonial-text text-ind t-justify">
+
+										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+										doloremque laudantium,
+										totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+										architecto beatae vitae
+										dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+										aut odit aut fugit,
+										sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+										Neque porro quisquam
+										est, qui dolorem ipsum quia dolor sit amet, consectetur
+										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+										doloremque laudantium,
+										totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+										architecto beatae vitae
+										dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+										aut odit aut fugit,
+										sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+										Neque porro quisquam
+										est, qui dolorem ipsum quia dolor sit amet, consectetur
+										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+										doloremque laudantium,
+										totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+										architecto beatae vitae
+										dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+										aut odit aut fugit,
+										sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+										Neque porro quisquam
+										est, qui dolorem ipsum quia dolor sit amet, consectetur
+									</p>
 								</div>
 								<div id="developement-1" class="tab-pane">
 									<div class="clear" id="comment-list">
 										<div class="post-comments comments-area style-1 clearfix">
-											<h4 class="comments-title">4 COMMENTS</h4>
+											<h4 class="comments-title">3 COMMENTS</h4>
 											<div id="comment">
 												<ol class="comment-list">
 													<li class="comment even thread-even depth-1 comment" id="comment-2">
 														<div class="comment-body">
 															<div class="comment-author vcard">
-																<img src="assets/images/profile4.jpg" alt=""
-																	class="avatar" />
+																<img src="assets/images/booksimage/ion-avatar.jpg"
+																	alt="" class="avatar" />
 																<cite class="fn">Michel Poe</cite> <span
 																	class="says">says:</span>
 																<div class="comment-meta">
@@ -245,50 +268,16 @@
 																	mauris in leo venenatis varius. Aliquam nunc enim,
 																	egestas ac dui in, aliquam vulputate erat.</p>
 															</div>
-															<div class="reply">
-																<a rel="nofollow" class="comment-reply-link"
-																	href="javascript:void(0);"><i
-																		class="fa fa-reply"></i>
-																	Reply</a>
-															</div>
+															
 														</div>
-														<ol class="children">
-															<li class="comment byuser comment-author-w3itexpertsuser bypostauthor odd alt depth-2 comment"
-																id="comment-3">
-																<div class="comment-body" id="div-comment-3">
-																	<div class="comment-author vcard">
-																		<img src="assets/images/profile3.jpg" alt=""
-																			class="avatar" />
-																		<cite class="fn">Celesto Anderson</cite> <span
-																			class="says">says:</span>
-																		<div class="comment-meta">
-																			<a href="javascript:void(0);">December 28,
-																				2022
-																				at 6:14 am</a>
-																		</div>
-																	</div>
-																	<div class="comment-content dlab-page-text">
-																		<p>Donec suscipit porta lorem eget condimentum.
-																			Morbi vitae mauris in leo venenatis varius.
-																			Aliquam nunc enim, egestas ac dui in,
-																			aliquam
-																			vulputate erat.</p>
-																	</div>
-																	<div class="reply">
-																		<a class="comment-reply-link"
-																			href="javascript:void(0);"><i
-																				class="fa fa-reply"></i> Reply</a>
-																	</div>
-																</div>
-															</li>
-														</ol>
+														
 													</li>
 													<li class="comment even thread-odd thread-alt depth-1 comment"
 														id="comment-4">
 														<div class="comment-body" id="div-comment-4">
 															<div class="comment-author vcard">
-																<img src="assets/images/profile2.jpg" alt=""
-																	class="avatar" />
+																<img src="assets/images/booksimage/ion-avatar.jpg"
+																	alt="" class="avatar" />
 																<cite class="fn">Ryan</cite> <span
 																	class="says">says:</span>
 																<div class="comment-meta">
@@ -303,19 +292,15 @@
 																	mauris in leo venenatis varius. Aliquam nunc enim,
 																	egestas ac dui in, aliquam vulputate erat.</p>
 															</div>
-															<div class="reply">
-																<a class="comment-reply-link"
-																	href="javascript:void(0);"><i
-																		class="fa fa-reply"></i> Reply</a>
-															</div>
+															
 														</div>
 													</li>
 													<li class="comment odd alt thread-even depth-1 comment"
 														id="comment-5">
 														<div class="comment-body" id="div-comment-5">
 															<div class="comment-author vcard">
-																<img src="assets/images/profile1.jpg" alt=""
-																	class="avatar" />
+																<img src="assets/images/booksimage/ion-avatar.jpg"
+																	alt="" class="avatar" />
 																<cite class="fn">Stuart</cite> <span
 																	class="says">says:</span>
 																<div class="comment-meta">
@@ -330,12 +315,7 @@
 																	mauris in leo venenatis varius. Aliquam nunc enim,
 																	egestas ac dui in, aliquam vulputate erat.</p>
 															</div>
-															<div class="reply">
-																<a rel="nofollow" class="comment-reply-link"
-																	href="javascript:void(0);"><i
-																		class="fa fa-reply"></i>
-																	Reply</a>
-															</div>
+															
 														</div>
 													</li>
 												</ol>
@@ -375,7 +355,7 @@
 
 							</div>
 						</div>
-					
+
 					</div>
 					<div class="col-xl-4 mt-5 mt-xl-0">
 						<div class="widget">
@@ -392,7 +372,9 @@
 												<h5 class="subtitle">Çərpələng uçuran</h5>
 											</a>
 											<ul class="dz-tags">
-											<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
 											</ul>
 											<div class="price">
 												<span class="price-num">₼9.99</span>
@@ -402,7 +384,7 @@
 												<a href="shop-cart.php"
 													class="btn btn-outline-primary btn-sm btnhover2">
 													<i class="flaticon-shopping-cart-1 me-2">
-														</i> Səbətə at
+													</i> Səbətə at
 												</a>
 												<div class="bookmark-btn style-2">
 													<div class="heart__icon--boxed position-relative ms-3">
@@ -425,7 +407,9 @@
 												<h5 class="subtitle">Min Möhtəşəm Günəş</h5>
 											</a>
 											<ul class="dz-tags">
-											<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
 											</ul>
 											<div class="price">
 												<span class="price-num">₼9.99</span>
@@ -435,7 +419,7 @@
 												<a href="shop-cart.php"
 													class="btn btn-outline-primary btn-sm btnhover2">
 													<i class="flaticon-shopping-cart-1 me-2">
-														</i> Səbətə at
+													</i> Səbətə at
 												</a>
 												<div class="bookmark-btn style-2">
 													<div class="heart__icon--boxed position-relative ms-3">
@@ -457,7 +441,9 @@
 												<h5 class="subtitle">Səhra çiçəyi</h5>
 											</a>
 											<ul class="dz-tags">
-											<p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
 											</ul>
 											<div class="price">
 												<span class="price-num">₼9.99</span>
@@ -467,7 +453,7 @@
 												<a href="shop-cart.php"
 													class="btn btn-outline-primary btn-sm btnhover2">
 													<i class="flaticon-shopping-cart-1 me-2">
-														</i> Səbətə at
+													</i> Səbətə at
 												</a>
 												<div class="bookmark-btn style-2">
 													<div class="heart__icon--boxed position-relative ms-3">
@@ -478,38 +464,30 @@
 										</div>
 									</div>
 								</div>
-								
+
 							</div>
 						</div>
 					</div>
 
-				
-
 				</div>
 
-
-					 
-               
 			</div>
 
-
-			   <div class="row">
-				   <div class="col-12">
-					   <div class="section-head book-align">
-    				<h2 class="title mb-0">Çox satılanlar</h2>
-    				<div class="pagination-align style-1">
-    					<div class="swiper-button-prev"><i class="fa-solid fa-angle-left"></i></div>
-    					<div class="swiper-pagination-two"></div>
-    					<div class="swiper-button-next"><i class="fa-solid fa-angle-right"></i></div>
-    				</div>
-    			</div>
-					  <div class="swiper-container books-wrapper-3 swiper-grid">
-    				     <?php include 'includes/cards.php' ?>
-    			      </div>
+			<div class="row">
+				<div class="col-12">
+					<div class="section-head book-align">
+						<h2 class="title mb-0">Oxşar Kitablar</h2>
+						<div class="pagination-align style-1">
+							<div class="swiper-button-prev"><i class="fa-solid fa-angle-left"></i></div>
+							<div class="swiper-pagination-two"></div>
+							<div class="swiper-button-next"><i class="fa-solid fa-angle-right"></i></div>
+						</div>
+					</div>
+					<div class="swiper-container books-wrapper-3 swiper-grid">
+						<?php include 'includes/cards.php' ?>
 					</div>
 				</div>
-
-
+			</div>
 
 	</section>
 

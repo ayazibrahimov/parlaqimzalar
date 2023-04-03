@@ -121,6 +121,37 @@ jQuery(window).on('load', function() {
 			}
 		});
 	}
+	if(jQuery('.authorSpecial').length > 0){
+		var swiperBook = new Swiper('.authorSpecial', {
+			slidesPerView: 4,
+			spaceBetween: 30,
+			autoplay: {
+				delay: 4000,
+			  },
+			navigation: {
+				nextEl: ".book-button-next",
+				prevEl: ".book-button-prev",
+			},
+			breakpoints: {
+				320: {
+					slidesPerView: 1,
+				},
+				576:{
+					slidesPerView: 2,
+				},
+				768:{
+					slidesPerView: 3,
+				},
+				1200:{
+					slidesPerView: 4,
+				},
+				1500:{
+					slidesPerView: 5,
+				},
+
+			}
+		});
+	}
 	
 	if(jQuery('.swiper-three').length > 0){
 		var swiperInfo = new Swiper( '.swiper-three', {
@@ -173,8 +204,8 @@ jQuery(window).on('load', function() {
 				delay: 2700,
 			},
 			navigation: {
-			  nextEl: ".swiper-button-next",
-			  prevEl: ".swiper-button-prev",
+			  nextEl: ".swiper-button--attract-next_1",
+			  prevEl: ".swiper-button--attract-prev_1",
 			},
 				breakpoints: {
 					1200: {
@@ -228,7 +259,7 @@ jQuery(window).on('load', function() {
 	
 	if(jQuery('.client-swiper').length > 0){
 		var swiper = new Swiper(".client-swiper", {
-			slidesPerView: 5,
+			slidesPerView: 4,
 			autoplay: {
 				delay: 2000,
 			},
@@ -238,13 +269,13 @@ jQuery(window).on('load', function() {
 			// },
 			breakpoints: {
 				1600: {
-					slidesPerView: 5,
+					slidesPerView: 4,
 				},
 				1400: {
 					slidesPerView: 4,
 				},
 				1200: {
-					slidesPerView: 3,
+					slidesPerView: 4,
 				},
 				991: {
 					slidesPerView: 3,
@@ -312,8 +343,8 @@ jQuery(window).on('load', function() {
 			// 	delay: 3000,
 			// },
 			navigation: {
-				nextEl: ".swiper-button-next",
-				prevEl: ".swiper-button-prev",
+				nextEl: ".swiper-button-next--best_1",
+				prevEl: ".swiper-button-next--prev_2",
 			},	
 			breakpoints: {
 				1200: {

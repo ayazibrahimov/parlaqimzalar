@@ -168,12 +168,12 @@
 	
 <div class="whatsapp-icon">
     	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+		<img src="assets/images/booksimage/whatsapp1.svg" alt="WhatsApp Icon">
     	</a>
     </div>
     <div class="chatbox-icon">
     	<a href="https://api.whatsapp.com/send?phone=15551234567" target="_blank">
-		<img src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/whatsapp.svg" alt="WhatsApp Icon">
+		<img src="assets/images/booksimage/whatsapp1.svg" alt="WhatsApp Icon">
 
     	</a>
     </div>

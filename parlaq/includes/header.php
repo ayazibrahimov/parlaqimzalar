@@ -392,11 +392,12 @@
 								</ul> -->
 								</li>
 								<!-- <li><a href="index.php"><span>Ana Səhifə</span></a></li> -->
-								<li class="sub-menu-down"><a><span>Markalar</span></a>
+								<li class="sub-menu-down"><a href="brands.php"><span>Markalar</span></a>
 									<ul class="sub-menu">
-										<li><a href="brands.php">Parlaq İmzalar</a></li>
-										<li><a href="brands.php">Simurq</a></li>
-										<li><a href="brands.php">İrşad</a></li>
+									
+										<li><a href="markaSimurq.php">Simurq</a></li>
+										<li><a href="markaİrsad.php">İrşad</a></li>
+										<li><a href="markaNon.php">Non-Fikşn</a></li>
 
 									</ul>
 								</li>
@@ -419,10 +420,22 @@
 								</ul> -->
 								</li>
 								<li class="sub-menu-down"><a><span>Seriyalar</span></a>
-									<ul class="sub-menu">
-										<li><a href="books-grid-view-sidebar.php">Klassika</a></li>
-										<li><a href="books-grid-view-sidebar.php">Yoldaş</a></li>
-										<li><a href="books-grid-view-sidebar.php">Azərbaycan klassikası</a></li>
+									<ul class="sub-menu ">
+										<div class='row'>
+										<div class="col-4">
+										  <li><a href="books-grid-view-sidebar.php">Klassika</a></li>
+										  <li><a href="books-grid-view-sidebar.php">Yoldaş</a></li>
+										  <li><a href="books-grid-view-sidebar.php">Azərbaycan klassikası</a></li>
+										
+										 </div>
+										 <div class="col-4">
+										
+										 
+										 </div>
+										 <div class="col-4">
+									
+										 </div>
+										</div>
 									</ul>
 								</li>
 								<li class="sub-menu-down"><a href="books-grid-view-sidebar.php"><span>Best
@@ -431,12 +444,11 @@
 								</li>
 								<li class="sub-menu-down"><a href="books-list.php"><span>Endirim</span></a>
 								</li>
-								<li class="sub-menu-down"><a><span>Müəllif</span></a>
+								<li class="sub-menu-down"><a href='authorPage.php'><span>Müəllif</span></a>
 									<ul class="sub-menu">
 										<li><a href="">Yerli</a></li>
 										<li><a href="">Xarici</a></li>
 										<li><a href="">Bir də təqdimat günləri</a></li>
-
 									</ul>
 								</li>
 								<li><a href="blog-list-sidebar.php"><span>Xəbərlər</span></a></li>

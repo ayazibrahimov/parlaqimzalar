@@ -7,9 +7,9 @@
                     <a href="books-detail.php"><img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt=""></a>
                 </div>
                 <div class="dz-content">
-                    <a href="books-detail.php">
-                        <h5 class="subtitle subtitle--info">Çərpələng uçuran bizim dostumuzdur </h5>
-                    </a>
+                    
+                        <h5 class="subtitle subtitle--info"> <a href="books-detail.php">Çərpələng uçuran bizim dostumuzdur </a></h5>
+                    
                     <ul class="dz-tags">
                     <p class="title__author"><span class="autor__second">Yazar:</span><a href="author.php"><span class="autor__first">Can Edip</span></a></p>
                     </ul>

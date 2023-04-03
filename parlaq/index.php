@@ -50,18 +50,22 @@
     			<!--Client Swiper -->
     			<div class="swiper client-swiper">
     				<div class="swiper-wrapper">
-    					<div class="swiper-slide"><a href="books-list.php"><img
+    					<div class="swiper-slide"><a href="markaİrsad.php"><img
     								src="assets/images/booksimage/parlaqIrsad.svg" alt="client"></a></div>
-    					<div class="swiper-slide"><a href="books-list.php"><img
+    					<div class="swiper-slide"><a href="markaNon.php"><img
     								src="assets/images/booksimage/parlaqMono.svg" alt="client"></a></div>
-    					<div class="swiper-slide"><a href="books-list.php"><img
+    					<div class="swiper-slide"><a href="markaSimurq.php"><img
+    								src="assets/images/booksimage/parlaqSimurq.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="books-grid-view-sidebar.php"><img
+    								src="assets/images/booksimage/parlaqLogo.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="markaİrsad.php"><img
+    								src="assets/images/booksimage/parlaqIrsad.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="markaNon.php"><img
+    								src="assets/images/booksimage/parlaqMono.svg" alt="client"></a></div>
+    					<div class="swiper-slide"><a href="markaSimurq.php"><img
     								src="assets/images/booksimage/parlaqSimurq.svg" alt="client"></a></div>
     					<div class="swiper-slide"><a href="books-list.php"><img
-    								src="assets/images/booksimage/parlaqIrsad.svg" alt="client"></a></div>
-    					<div class="swiper-slide"><a href="books-list.php"><img
-    								src="assets/images/booksimage/parlaqMono.svg" alt="client"></a></div>
-    					<div class="swiper-slide"><a href="books-list.php"><img
-    								src="assets/images/booksimage/parlaqSimurq.svg" alt="client"></a></div>
+    								src="assets/images/booksimage/parlaqLogo.svg" alt="client"></a></div>
 
     				</div>
     			</div>
@@ -83,7 +87,7 @@
     				<div class="pagination-align style-1">
     					<div class="swiper-button-prev swiper-button-prev--1"><i class="fa-solid fa-angle-left"></i>
     					</div>
-    					<div class="swiper-pagination-two"></div>
+    					<!-- <div class="swiper-pagination-two"></div> -->
     					<div class="swiper-button-next swiper-button-next--2"><i class="fa-solid fa-angle-right"></i>
     					</div>
     				</div>
@@ -92,6 +96,14 @@
     			<div class="swiper-container books-wrapper-3 swiper-four--double">
     				<?php include 'includes/cards.php' ?>
     			</div>
+
+				<div class="col-12">
+				 <div class="extra-nav d-flex justify-content-center">
+					<div class="extra-cell">
+						<a href="books-grid-view-sidebar.php" class="btn btn-primary btnhover">Kitablara Bax</a>	
+					</div>
+				 </div>
+				</div>
     		</div>
     	</section>
 
@@ -157,15 +169,22 @@
     		<div class="container">
     			<div class="section-head book-align">
     				<h2 class="title mb-0">Çox satılanlar</h2>
-    				<div class="pagination-align style-1">
-    					<div class="swiper-button-prev"><i class="fa-solid fa-angle-left"></i></div>
-    					<div class="swiper-pagination-two"></div>
-    					<div class="swiper-button-next"><i class="fa-solid fa-angle-right"></i></div>
-    				</div>
+    				<div class="extra-cell">
+					<div class="pagination-align style-1">
+    					<div class="swiper-button-prev swiper-button-next--prev_2"><i class="fa-solid fa-angle-left"></i></div>
+    					<!-- <div class="swiper-pagination-two"></div> -->
+    					<div class="swiper-button-next swiper-button-next--best_1"><i class="fa-solid fa-angle-right"></i></div>
+    				</div>	
+					</div>
     			</div>
     			<div class="swiper-container books-wrapper-3 swiper-four">
     				<?php include 'includes/cards.php' ?>
     			</div>
+				<div class="col-12">
+				 <div class="extra-nav d-flex justify-content-center">
+				  <a href="books-grid-view-sidebar.php" class="btn btn-primary btnhover">Kitablara Bax</a>				
+				 </div>
+				</div>
     		</div>
     	</section>
     	<!-- Book Sale End -->
@@ -187,7 +206,7 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media dz-media--imaged">
-    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+    								<a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/c&c.jpg" alt="book"></a>
     							</div>
     							<div class="dz-content">
     								<!-- <h6 class="sub-title">Babil Yanarkən</h6> -->
@@ -221,7 +240,7 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media dz-media--imaged">
-    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+								<a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/c&c.jpg" alt="book"></a>
     							</div>
     							<div class="dz-content">
     								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
@@ -255,7 +274,7 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media dz-media--imaged">
-    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+								  <a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/c&c.jpg" alt="book"></a>
     							</div>
     							<div class="dz-content">
     								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
@@ -289,7 +308,7 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media dz-media--imaged">
-    								<img src="assets/images/booksimage/c&c.jpg" alt="book">
+							    	<a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/c&c.jpg" alt="book"></a>
     							</div>
     							<div class="dz-content">
     								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
@@ -337,9 +356,9 @@
 			    <div class="section-head book-align">
     				<h2 class="title mb-0">Diqqət çəkənlər</h2>
     				<div class="pagination-align style-1">
-    					<div class="swiper-button-prev"><i class="fa-solid fa-angle-left"></i></div>
+    					<div class="swiper-button-prev swiper-button--attract-prev_1"><i class="fa-solid fa-angle-left"></i></div>
     					<div class="swiper-pagination-five"></div>
-    					<div class="swiper-button-next"><i class="fa-solid fa-angle-right"></i></div>
+    					<div class="swiper-button-next swiper-button--attract-next_1"><i class="fa-solid fa-angle-right"></i></div>
     				</div>
     			</div>
     		
@@ -347,6 +366,11 @@
     			<div class="swiper-container books-wrapper-3 swiper-three--double">
 				    <?php include 'includes/cards.php' ?>
     			</div>
+				<div class="col-12">
+				 <div class="extra-nav d-flex justify-content-center">
+				  <a href="books-grid-view-sidebar.php" class="btn btn-primary btnhover">Kitablara Bax</a>				
+				 </div>
+				</div>
 			</div>
     	</section>
 
@@ -822,7 +846,6 @@
     		</div>
     	</section>
     	<!-- Latest News End -->
-
     	<!-- Newsletter -->
     	<section class="py-5 newsletter-wrapper"
     		style="background-image: url('assets/images/booksimage/bg1.jpg'); background-size: cover;">
@@ -860,7 +883,6 @@
     		</div>
     	</section>
     	<!-- Newsletter End -->
-
     	<section class="content-inner-2">
     		<div class="container">
     			<div class="row">
