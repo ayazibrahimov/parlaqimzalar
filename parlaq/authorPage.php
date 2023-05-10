@@ -78,7 +78,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -88,7 +88,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -98,7 +98,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -108,7 +108,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -118,7 +118,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -128,7 +128,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -138,7 +138,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -148,7 +148,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -168,15 +168,16 @@
       <div class="authors-alphabet__container">
       <div class="row">
           <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                     <div class="authorSpecial__container">
+                     <div class="authorSpecial__container non__scale--box">
                         <div class="letter-card__char">А</div>
+                        <p>186 Yazıçı</p>
                      </div> 
          </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -186,7 +187,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -196,7 +197,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -206,7 +207,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -216,7 +217,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -226,7 +227,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -236,7 +237,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -251,16 +252,17 @@
       </div>
       <div class="authors-alphabet__container">
       <div class="row">
-          <div class="col-lg-3 col-md-4 col-sm-6 col-12">
-                     <div class="authorSpecial__container">
+      <div class="col-lg-3 col-md-4 col-sm-6 col-12">
+                     <div class="authorSpecial__container non__scale--box">
                         <div class="letter-card__char">B</div>
+                        <p>186 Yazıçı</p>
                      </div> 
          </div>
           <div class="col-lg-3 col-md-4 col-sm-6 col-12">
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -270,7 +272,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -280,7 +282,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -290,7 +292,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -300,7 +302,7 @@
                     <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -310,7 +312,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>
@@ -320,7 +322,7 @@
                    <a href="author.php">
                         <div class="authorSpecial__container">
                             <div class="authorSpecial__container--img"><img
-                                    src="assets/images/booksimage/fyodordostoyevskyNew.webp" alt=""></div>
+                                    src="assets/images/booksimage/352x352.jfif" alt=""></div>
                             <p class="authorSpecial__container--name">Fyodor Dostoyevski</p>
                             <span>5 Kitab</span>
                         </div>

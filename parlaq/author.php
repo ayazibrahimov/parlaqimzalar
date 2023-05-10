@@ -5,7 +5,7 @@
 	<div class="container">
 		<div class="testimonial">
 			<div class="section-head text-center">
-				<h2 class="title author__title">Müəllif Haqqında</h2>
+				<h2 class="title author__title">Fyodor Dostoyevski</h2>
 				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
 					et dolore magna aliqua</p>
 			</div>
@@ -501,10 +501,7 @@
 						</div> -->
 					</div>
 				</div>
-			</div>
-			
-			
-			
+			</div>	
 		</div>
 	</div>
 </section>

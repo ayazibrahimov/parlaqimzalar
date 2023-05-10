@@ -98,11 +98,9 @@
     			</div>
 
 				<div class="col-12">
-				 <div class="extra-nav d-flex justify-content-center">
-					<div class="extra-cell">
-						<a href="books-grid-view-sidebar.php" class="btn btn-primary btnhover">Kitablara Bax</a>	
-					</div>
-				 </div>
+				<div class="d-flex justify-content-center">
+    					<a href="books-grid-view-sidebar.php" class="btn btn-outline-primary btn-sm btnhover2">Kitablara Bax</a>
+    			</div>
 				</div>
     		</div>
     	</section>
@@ -181,9 +179,9 @@
     				<?php include 'includes/cards.php' ?>
     			</div>
 				<div class="col-12">
-				 <div class="extra-nav d-flex justify-content-center">
-				  <a href="books-grid-view-sidebar.php" class="btn btn-primary btnhover">Kitablara Bax</a>				
-				 </div>
+				<div class="d-flex justify-content-center">
+    					<a href="books-grid-view-sidebar.php" class="btn btn-outline-primary btn-sm btnhover2">Kitablara Bax</a>
+    			</div>
 				</div>
     		</div>
     	</section>
@@ -206,7 +204,7 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media dz-media--imaged">
-    								<a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/c&c.jpg" alt="book"></a>
+    								<a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/Babil-yanarkən.png" alt="book"></a>
     							</div>
     							<div class="dz-content">
     								<!-- <h6 class="sub-title">Babil Yanarkən</h6> -->
@@ -240,7 +238,7 @@
     					<div class="swiper-slide">
     						<div class="books-card style-2">
     							<div class="dz-media dz-media--imaged">
-								<a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/c&c.jpg" alt="book"></a>
+								<a href="books-grid-view-sidebar.php"><img src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>
     							</div>
     							<div class="dz-content">
     								<!-- <h6 class="sub-title">Cinayət və Cəza</h6> -->
@@ -367,9 +365,9 @@
 				    <?php include 'includes/cards.php' ?>
     			</div>
 				<div class="col-12">
-				 <div class="extra-nav d-flex justify-content-center">
-				  <a href="books-grid-view-sidebar.php" class="btn btn-primary btnhover">Kitablara Bax</a>				
-				 </div>
+				<div class="d-flex justify-content-center">
+    					<a href="books-grid-view-sidebar.php" class="btn btn-outline-primary btn-sm btnhover2">Kitablara Bax</a>
+    			</div>
 				</div>
 			</div>
     	</section>
@@ -883,60 +881,6 @@
     		</div>
     	</section>
     	<!-- Newsletter End -->
-    	<section class="content-inner-2">
-    		<div class="container">
-    			<div class="row">
-    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s"
-    					style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-    					<div class="icon-bx-wraper style-1 m-b20 text-center">
-    						<div class="icon-bx-sm m-b10">
-    							<i class="flaticon-power icon-cell"></i>
-    						</div>
-    						<div class="icon-content">
-    							<h5 class="dz-title m-b10">Quick Delivery</h5>
-    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s"
-    					style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-    					<div class="icon-bx-wraper style-1 m-b20 text-center">
-    						<div class="icon-bx-sm m-b10">
-    							<i class="flaticon-shield icon-cell"></i>
-    						</div>
-    						<div class="icon-content">
-    							<h5 class="dz-title m-b10">Secure Payment</h5>
-    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s"
-    					style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-    					<div class="icon-bx-wraper style-1 m-b20 text-center">
-    						<div class="icon-bx-sm m-b10">
-    							<i class="flaticon-like icon-cell"></i>
-    						</div>
-    						<div class="icon-content">
-    							<h5 class="dz-title m-b10">Best Quality</h5>
-    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
-    						</div>
-    					</div>
-    				</div>
-    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s"
-    					style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
-    					<div class="icon-bx-wraper style-1 m-b20 text-center">
-    						<div class="icon-bx-sm m-b10">
-    							<i class="flaticon-star icon-cell"></i>
-    						</div>
-    						<div class="icon-content">
-    							<h5 class="dz-title m-b10">Return Guarantee</h5>
-    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
-    						</div>
-    					</div>
-    				</div>
-    			</div>
-    		</div>
-    	</section>
 
     </div>
 

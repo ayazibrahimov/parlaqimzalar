@@ -5,7 +5,14 @@
 <section class="content-inner-1">
      <div class="container">
 				<div class="row">
-					<div class="col-8">
+                     
+				    <div class="col-12">
+						<div class="boxed__logo py-4">
+							<img src="assets/images/booksimage/parlaqSimurq.svg" alt="">
+						</div>
+					</div>
+
+					<div class="col-12">
 					  <div>
 					   <h2 class="title">Simurq haqqında</h2>
 					  </div>
@@ -29,7 +36,7 @@
 </section>
 
 
-<section content-inner-1>
+<section>
 	<div class="container">
 		<div class="section-head book-align">
 			<h2 class="title mb-0">Nəşirləri</h2>

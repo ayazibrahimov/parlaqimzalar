@@ -5,6 +5,11 @@
 <section class="content-inner-1">
      <div class="container">
 				<div class="row">
+				<div class="col-12">
+						<div class="boxed__logo py-4">
+							<img src="assets/images/booksimage/parlaqIrsad.svg" alt="">
+						</div>
+					</div>
 					<div class="col-8">
 					  <div>
 					   <h2 class="title">İrşad haqqında</h2>

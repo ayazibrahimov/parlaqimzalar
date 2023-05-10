@@ -13,8 +13,122 @@
     	</a>
     </div> -->
 
+
+	<!-- <section class="content-inner-2">
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s"
+    					style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-power icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Quick Delivery</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s"
+    					style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-shield icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Secure Payment</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s"
+    					style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-like icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Best Quality</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s"
+    					style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-star icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Return Guarantee</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</section> -->
+
+
+
 <!-- Footer -->
 <footer class="site-footer style-1">
+        
+<section class="content-inner-2">
+    		<div class="container">
+    			<div class="row">
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.1s"
+    					style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-power icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Quick Delivery</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.2s"
+    					style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-shield icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Secure Payment</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.3s"
+    					style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-like icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Best Quality</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    				<div class="col-lg-3 col-sm-6 wow fadeInUp" data-wow-delay="0.4s"
+    					style="visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;">
+    					<div class="icon-bx-wraper style-1 m-b20 text-center">
+    						<div class="icon-bx-sm m-b10">
+    							<i class="flaticon-star icon-cell"></i>
+    						</div>
+    						<div class="icon-content">
+    							<h5 class="dz-title m-b10">Return Guarantee</h5>
+    							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
+    						</div>
+    					</div>
+    				</div>
+    			</div>
+    		</div>
+    	</section>
+  
 		<!-- Footer Category -->
 		<div class="footer-category">
 			<div class="container">

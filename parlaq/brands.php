@@ -2,6 +2,45 @@
 	<!-- Header -->
      <?php include 'includes/header.php' ?>
 	<!-- Header End -->
+
+	<div class="main-slider main-slider--first style-1">
+    		<div class="swiper mainMenuSwiper">
+			           
+			    <div class="swiper-wrapper">
+    				<div class="swiper-slide swiper-slide--1">
+    					<a href="">
+    						<img src="assets/images/booksimage/slide1.png" alt="">
+    						<!-- <div class="swiper-slide--major">
+    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
+    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
+    						</div> -->
+    					</a>
+    				</div>
+    				<div class="swiper-slide swiper-slide--1">
+    					<a href="">
+    						<img src="assets/images/booksimage/slide1.png" alt="">
+    						<!-- <div class="swiper-slide--major">
+    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
+    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
+    						</div> -->
+    					</a>
+    				</div>
+    				<div class="swiper-slide swiper-slide--1">
+    					<a href="">
+    						<img src="assets/images/booksimage/slide1.png" alt="">
+    						<!-- <div class="swiper-slide--major">
+    							<p>Can Çocuk <br> "canyayinlari.com.'da!"</p>
+    							<span>Tüm Can Çocuk kitaplarına websitemizden ulaşabilirsiniz.</span>
+    						</div> -->
+    					</a>
+    				</div>
+    			</div>
+
+				       <div class="swiper-button-next"></div>
+    			       <div class="swiper-button-prev"></div>
+				       <div class="swiper-pagination swiper-pagination-data"></div>
+    		</div>
+    	</div>
 	
 	<div class="page-content">
 		<!-- inner page banner -->

@@ -158,7 +158,7 @@
 									aria-controls="collapseTwo">
 									Yazı Janrı
 								</button>
-								<div id="collapseTwo" class="accordion-collapse collapse accordion-body"
+								<div id="collapseTwo" class="accordion-collapse show collapse accordion-body"
 									aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
 									<div class="widget dz-widget_services">
 										<div class="form-check search-content">
@@ -219,7 +219,7 @@
 									aria-controls="collapseThree">
 									İl
 								</button>
-								<div id="collapseThree" class="accordion-collapse collapse accordion-body"
+								<div id="collapseThree" class="accordion-collapse show collapse accordion-body"
 									aria-labelledby="headingThree" data-bs-parent="#accordionExample">
 									<div class="widget dz-widget_services col d-flex justify-content-between">
 										<div class="">
@@ -406,7 +406,7 @@
 										aria-expanded="false" aria-controls="collapseTwo_inner">
 										Ən çox şərh edilənlər (21)
 									</button>
-									<div id="collapseTwo_inner" class="accordion-collapse collapse accordion-body"
+									<div id="collapseTwo_inner" class="accordion-collapse show collapse accordion-body"
 										aria-labelledby="headingTwo_inner" data-bs-parent="#filter-inner">
 										<ul>
 											<li><a href="javascript:void(0);">Alone Here</a></li>
@@ -423,7 +423,7 @@
 										aria-expanded="false" aria-controls="collapseThree_inner">
 										Ən Yeni Kitablar (32)
 									</button>
-									<div id="collapseThree_inner" class="accordion-collapse collapse accordion-body"
+									<div id="collapseThree_inner" class="accordion-collapse show collapse accordion-body"
 										aria-labelledby="headingThree_inner" data-bs-parent="#filter-inner">
 										<ul>
 											<li><a href="javascript:void(0);">Alone Here</a></li>
@@ -441,7 +441,7 @@
 										aria-expanded="false" aria-controls="collapseSix_inner">
 										Ən yaxşı kitablar (44)
 									</button>
-									<div id="collapseSix_inner" class="accordion-collapse collapse accordion-body"
+									<div id="collapseSix_inner" class="accordion-collapse show collapse accordion-body"
 										aria-labelledby="headingSix_inner" data-bs-parent="#filter-inner">
 										<ul>
 											<li><a href="javascript:void(0);">Alone Here</a></li>
