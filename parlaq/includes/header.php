@@ -18,14 +18,14 @@
 		integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 
 	<!-- FAVICONS ICON -->
-	<link rel="icon" type="assets/image/x-icon" href="assets/images/favicon.png" />
+	<link rel="icon" type="assets/image/x-icon" href="assets/images/booksimage/parlaqWhite1.svg" />
 
 	<!-- PAGE TITLE HERE -->
 	<title>Parlaq İmzalar</title>
 
 	<!-- MOBILE SPECIFIC -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<script src='assets/js/text-hider.js' defer ></script>
+	<script src='assets/js/text-hider.js' defer></script>
 
 	<!-- STYLESHEETS -->
 	<link rel="stylesheet" type="text/css" href="assets/vendor/bootstrap-select/dist/css/bootstrap-select.min.css">
@@ -261,7 +261,7 @@
 
 						<!-- Nav Toggle Button -->
 						<div class="d-flex justify-content-end align-items-center">
-						<div class="extra-nav extra-nav--responsive---data">
+							<div class="extra-nav extra-nav--responsive---data">
 								<div class="extra-cell">
 									<ul class="navbar-nav header-right">
 										<li class="nav-item">
@@ -382,30 +382,123 @@
 								</div>
 							</div>
 							<ul class="nav navbar-nav">
-							<li class="sub-menu-down main__menu--mobile"><a href="index.php"><span>Ana Səhifə</span></a></li>
+								<li class="sub-menu-down main__menu--mobile"><a href="index.php"><span>Ana
+											Səhifə</span></a></li>
 								<li class="sub-menu-down main__page--logo unShown"><a class="main__page--logo---style"
 										href="index.php"><span class="main__page--box"><img
 												src="assets/images/booksimage/parlaqWhite1.svg" alt=""></span></a>
 									<!-- <ul class="sub-menu">
 									<li><a href="index.html">Home 1</a></li>
 									<li><a href="index-2.html">Home 2</a></li>
-								</ul> -->
+								         </ul> -->
 								</li>
 								<!-- <li><a href="index.php"><span>Ana Səhifə</span></a></li> -->
+								<li class="sub-menu-down"><a
+										href="books-grid-view-sidebar.php"><span>Kitablar</span></a>
+									<ul class="sub-menu">
+
+										<div class="row">
+											<div class="col-md-4 col-12">
+												<li class="books-grid--text">
+													<a href=""><img src="assets/images/booksimage/ion_book-sharp.svg"
+															alt=""><span class="ms-2">Yeni nəşrlər</span></a>
+													<a href=""><img
+															src="assets/images/booksimage/icomoon-free_price-tag.svg"
+															alt=""> <span class="ms-2">Çox satılanlar</span></a>
+													<a href=""> <img
+															src="assets/images/booksimage/emojione-monotone_soon-arrow.svg"
+															alt=""> <span class="ms-2">Tezliklə</span></a>
+													<a href=""> <img
+															src="assets/images/booksimage/iconamoon_attention-circle-fill.svg"
+															alt=""><span class="ms-2">Diqqət çəkənlər</span></a>
+													<a href=""><img
+															src="assets/images/booksimage/mdi_discount-circle.svg"
+															alt=""><span class="ms-2">Endirim</span></a>
+													<a href=""><img src="assets/images/booksimage/mdi_present.svg"
+															alt=""><span class="ms-2">Hədiyyəlik</span></a>
+												</li>
+												<li class="books-grid--text"><a href="index.html"><span>Avtoqraf
+															art</span></a>
+													<ul>
+														<li><a href="">Fincan</a></li>
+														<li><a href="">Çanta</a></li>
+														<li><a href="">Əlfəcin</a></li>
+														<li><a href="">Qeyd dəftəri</a></li>
+														<li><a href="">Qələm</a></li>
+													</ul>
+												</li>
+												
+											</div>
+											<div class="col-md-4 col-12">
+												<li class="books-grid--text"><a
+														href="index.html"><span>BƏDİİ ƏDƏBİYYAT</span></a>
+													<ul>
+														<li><a href="">Klassiklər</a></li>
+														<li><a href="">Modern </a></li>
+														<li><a href="">Müasir</a></li>
+														<li><a href="">Detektiv</a></li>
+														<li><a href="">Tarixi romanlar</a></li>
+														<li><a href="">Sevgi romanları</a></li>
+														<li><a href="">Bioqrafiya</a></li>
+														<li><a href="">Şeir</a></li>
+														<li><a href="">Uşaq&Gənc</a></li>
+													</ul>
+												</li>
+												
+											</div>
+											<div class="col-md-4 col-12">
+												<li class="books-grid--text"><a
+														href="index.html"><span>Non-fikşn</span></a>
+													<ul>
+														<li><a href="">Biznes</a></li>
+														<li><a href="">Özünüinkişaf</a></li>
+														<li><a href="">Marketinq&Satış</a></li>
+														<li><a href="">Psixologiya</a></li>
+														<li><a href="">Uşaq tərbiyəsi</a></li>
+														<li><a href="">Ailə və münasibətlər</a></li>
+														<li><a href="">Elmi-populyar</a></li>
+														<li><a href="">Din</a></li>
+														<li><a href="">Fəlsəfə</a></li>
+													</ul>
+												</li>
+											</div>
+											<div class="col-md-4 col-12">
+												<li class="books-grid--text"><a
+														href="index.html"><span>Uşaq&Gənc</span></a>
+													<ul>
+														<li><a href="">Uşaq klassikləri</a></li>
+														<li><a href="">Müasir uşaq ədəbiyyatı</a></li>
+														<li><a href="">Özünüinkişaf</a></li>
+														<li><a href="">Elmi-pupulyar</a></li>
+													</ul>
+												</li>
+											</div>
+			
+											
+										</div>
+										 
+
+									    
+									    
+									      
+									     
+									    
+								         </ul>
+									</li>
 								<li class="sub-menu-down"><a href="brands.php"><span>Markalar</span></a>
 									<ul class="sub-menu">
-									
-										<li><a href="markaSimurq.php">Simurq</a></li>
-										<li><a href="markaİrsad.php">İrşad</a></li>
-										<li><a href="markaNon.php">Non-Fikşn</a></li>
-
+									  <div class='row'>
+										<div class="col-12">
+										  <li><a href="markaSimurq.php">Simurq</a></li>
+										  <li><a href="markaİrsad.php">İrşad</a></li>
+										  <li><a href="markaNon.php">Non-Fikşn</a></li>
+										</div> 
+									  </div>
 									</ul>
 								</li>
 								<!-- <li class="sub-menu-down"><a href="help-desk.php"><span>Nəşriyyat Haqqında</span></a></li> -->
-								<li class="sub-menu-down"><a
-										href="books-grid-view-sidebar.php"><span>Kitablar</span></a>
 								<li class="sub-menu-down"><a href="books-grid-view-sidebar.php"><span>Yeni
-											Kitablar</span></a>
+											Nəşrlər</span></a>
 									<!-- <ul class="sub-menu">
 									<li><a href="books-grid-view.html">Shop Grid</a></li>
 									<li><a href="books-grid-view-sidebar.html">Shop Grid Sidebar</a></li>
@@ -419,40 +512,29 @@
 									<li><a href="shop-registration.html">Registration</a></li>
 								</ul> -->
 								</li>
+								<li class="sub-menu-down"><a href="books-grid-view-sidebar.php"><span>Çox
+											Satılanlar</span></a>
+
+								</li>
 								<li class="sub-menu-down"><a><span>Seriyalar</span></a>
 									<ul class="sub-menu ">
-										<div class='row'>
-										<div class="col-4">
+									  <div class='row'>
+										<div class="col-12">
 										  <li><a href="books-grid-view-sidebar.php">Klassika</a></li>
 										  <li><a href="books-grid-view-sidebar.php">Yoldaş</a></li>
 										  <li><a href="books-grid-view-sidebar.php">Azərbaycan klassikası</a></li>
-										
-										 </div>
-										 <div class="col-4">
-										
-										 
-										 </div>
-										 <div class="col-4">
-									
-										 </div>
-										</div>
+										</div> 
+									  </div>
 									</ul>
 								</li>
-								<li class="sub-menu-down"><a href="books-grid-view-sidebar.php"><span>Best
-											Seller</span></a>
-
-								</li>
+								
 								<li class="sub-menu-down"><a href="books-list.php"><span>Endirim</span></a>
 								</li>
-								<li class="sub-menu-down"><a href='authorPage.php'><span>Müəllif</span></a>
-									<ul class="sub-menu">
-										<li><a href="">Yerli</a></li>
-										<li><a href="">Xarici</a></li>
-										<li><a href="">Bir də təqdimat günləri</a></li>
-									</ul>
+								<li class="sub-menu-down"><a href="books-list.php"><span>Hədiyyəlik</span></a>
 								</li>
+								<li class="sub-menu-down"><a href='authorPage.php'><span>Müəllif</span></a></li>
 								<li><a href="blog-list-sidebar.php"><span>Xəbərlər</span></a></li>
-								<li class="sub-menu-down"><a href="blog-large-sidebar.php"><span>Bloqlar</span></a>
+								<li class="sub-menu-down"><a href="blog-large-sidebar.php"><span>Avtoqraf</span></a>
 									<!-- <ul class="sub-menu">
 									<li><a href="blog-grid.html">Blog Grid</a></li>
 									<li><a href="blog-large-sidebar.html">Blog Large Sidebar</a></li>

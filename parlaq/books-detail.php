@@ -100,6 +100,8 @@
 											birini əks etdirir.Bu elə gedəcəkdi? O, Avropa kapitlist inkişaf yolunu
 											seçəcək, yoxsa öz milli ənənələrin.Rusiya hansı yolla gedəcədi? O, Avropa
 											kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrinə
+											köklənəcək, yoxsa öz milli ənənələrin.Rusiya hansı yolla gedəcədi? O, Avropa
+											kapitalist inkişaf yolunu seçəcək yoxsa öz milli ənənələrinə
 											köklənəcək
 										<span class="read__more--parent"><a class="read__more"> Ardını oxu</a></span>
 									</p>
@@ -150,6 +152,7 @@
 								<li><a data-bs-toggle="tab" href="#graphic-design-1" class="active">Məlumatlar</a></li>
 								<li><a data-bs-toggle="tab" href="#development-2">Müəllif haqqında</a></li>
 								<li><a data-bs-toggle="tab" href="#developement-1">Oxucu rəyləri</a></li>
+								<li><a data-bs-toggle="tab" href="#developement-3">Müəllif haqqında</a></li>
 							</ul>
 							<div class="tab-content">
 								<div id="graphic-design-1" class="tab-pane show active">
@@ -352,6 +355,40 @@
 									</div>
 
 								</div>
+								<div id="developement-3" class="tab-pane tab-plane__author">
+									
+
+									<p class="testimonial-text text-ind t-justify">
+
+										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+										doloremque laudantium,
+										totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+										architecto beatae vitae
+										dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+										aut odit aut fugit,
+										sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+										Neque porro quisquam
+										est, qui dolorem ipsum quia dolor sit amet, consectetur
+										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+										doloremque laudantium,
+										totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+										architecto beatae vitae
+										dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+										aut odit aut fugit,
+										sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+										Neque porro quisquam
+										est, qui dolorem ipsum quia dolor sit amet, consectetur
+										Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+										doloremque laudantium,
+										totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+										architecto beatae vitae
+										dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur
+										aut odit aut fugit,
+										sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.
+										Neque porro quisquam
+										est, qui dolorem ipsum quia dolor sit amet, consectetur
+									</p>
+								</div>
 
 							</div>
 						</div>
@@ -488,7 +525,8 @@
 					</div>
 				</div>
 			</div>
-
+			
+       </div>	
 	</section>
 
 	<!-- Client Start-->

@@ -109,7 +109,7 @@
 								</div>
 							</div>
 						</div>
-						 <div class="clear" id="comment-list">
+						 <!-- <div class="clear" id="comment-list">
 							<div class="post-comments comments-area style-1 clearfix">
 								<h4 class="comments-title">4 COMMENTS</h4>
 								<div id="comment">
@@ -202,7 +202,7 @@
 								 </div>
 							  </div>
 						   </div>
-						</div>
+						</div> -->
 						<!-- blog END -->
 					</div>
 					<div class="col-xl-4 col-lg-4">
@@ -219,11 +219,7 @@
 									</form>
 								</div>
 							</div>
-							<div class="widget widget_categories">
-							  <div class="widget">
-							    <?php include 'includes/proposal.php' ?>
-							  </div>
-						    </div>
+							
 							<div class="widget recent-posts-entry">
 								<h4 class="widget-title">CARİ BLOQLAR</h4>
 								<div class="widget-post-bx">

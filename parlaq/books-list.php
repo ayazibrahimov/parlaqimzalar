@@ -217,328 +217,400 @@
 				</div>
 			</div>
 
-			<div class="book_discount">
-				<div class="book_discount--box">
-					<div class="dz-shop-card style-2">
-						<div class="dz-media dz-media--height">
-							<a href="books-detail.php"><img src="assets/images/booksimage/Cərpələng-ucuran.jpg"
-									alt="book"></a>
-						</div>
-						<div class="dz-content">
-							<div class="dz-header position-relative">
-								<div>
-									<div class="d-flex justify-content-between">
-									 <ul class="d-block w-100 dz-tags ">
-										<li><a href="books-detail.php">Dram</a></li>
-									 </ul>
-									 <div>
-										<!-- <span class="badge">Bu gün üçün 10% endirim</span> -->
-										<span class="badge position-absolute end-0">50% endirim</span>
-									 </div>
-									</div>
-									<h4 class="title title__data-info  mb-0"><a href="books-detail.php">Çərpələng
-											Uçuran</a></h4>
-								</div>
-								
+			<section class="content-inner-2 bg-grey">
+				<div class="container">
+					<div class="section-head book-align">
+						<h2 class="title mb-0"></h2>
+						<div class="pagination-align style-1">
+							<div class="book-button-prev swiper-button-prev"><i class="fa-solid fa-angle-left"></i>
 							</div>
+							<div class="book-button-next swiper-button-next"><i class="fa-solid fa-angle-right"></i>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-container news-book--swiper">
+						<div class="swiper-wrapper">
 
-							<div class="dz-body">
-								<div class="dz-rating-box">
-									<div>
-										<p class="dz-para mb-0">
-											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni
-											müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə,
-										 </p>		
-										
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/c&c.jpg" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanark
+													Hesen harada idi. </a>
+											</h5>
 
-									</div>
-									
-								</div>
-								<div class="rate">
-									<ul class="book-info">
-										<li><span>Müəllif</span><a href="author.php" class="author__info">Xaliq
-												Hüseyn</a></li>
-										<li><span>Çap</span>Parlaq İmzalar</li>
-										<!-- <li><span>İl</span>2020</li> -->
-									</ul>
-									<div class="d-flex align-items-center mt-2">
-										<div class="price">
-								     	  <span class="price-num price-num--list text-primary"> ₼10.00</span>
-									      <del class="price-num--del"> ₼15.00</del>
-								       </div>
-									</div>
-									<div class="d-flex justify-content-between mt-2">
-										
-									<div class="d-flex align-items-center">
-										<a class="btn btn-secondary btnhover2 me-2"><i
-												class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
-										<div class="heart__icon--boxed position-relative pos__bottom ms-3">
-											<i class="far fa-heart js-heart heart"></i>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<span class="badge">50% endirim</span>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
 										</div>
 									</div>
+								</div>
+							</div>
 
-				                    <div>
-										 <div class="review-num">
-										<h4 class="review-num--para">4.0</h4>
-										<ul class="dz-rating d-flex">
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-muted"></i></li>
-										</ul>
-										<!-- <span><a href="javascript:void(0);"> 235 Baxış</a></span> -->
-									  </div>
-									</div>
-								 
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil Yanark
+													Hesen harada idi.</a>
+											</h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
 
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
 									</div>
 								</div>
 							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/Babil-yanarkən.png" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/Babil-yanarkən.png" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/qumarbaz.jpg" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/min-möhtəşəm-günəş.jpg"
+													alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/Cərpələng-ucuran.jpg" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/min-möhtəşəm-günəş.jpg"
+													alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="col-book style-2">
+									<div class="dz-shop-card style-1">
+										<div class="dz-media dz-media--data">
+											<a href="books-detail.php"><img class="dz-media--data---img"
+													src="assets/images/booksimage/sehra-ciceyi.jpg" alt="book"></a>
+										</div>
+										<div class="bookmark-btn style-2">
+											<div class="heart__icon--boxed">
+												<i class="far fa-heart js-heart heart"></i>
+											</div>
+										</div>
+										<div class="dz-content dz-content--height">
+											<h5 class="title title__width mb-0"><a href="books-detail.php">Babil
+													Yanark</a></h5>
+											<div class="div-pos">
+												<p class="title__author"><span class="autor__second">Yazar:</span><a
+														href="author.php"><span class="autor__first">Can Edip</span></a>
+												</p>
+												<div class="mb-4">
+													<div class="price__data">
+														<span class="price-num">₼9.99</span>
+														<del>₼10.00</del>
+													</div>
+													<!-- <a class="btn btn-secondary box-btn btnhover2"><i class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a> -->
+												</div>
+											</div>
+
+											<div class="book-footer">
+												<a class="btn btn-secondary box-btn btnhover2 ms-2"><i
+														class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+
 						</div>
 					</div>
 				</div>
-				<div class="book_discount--box">
-					<div class="dz-shop-card style-2">
-						<div class="dz-media dz-media--height">
-							<a href="books-detail.php"><img src="assets/images/booksimage/sehra-ciceyi.jpg"
-									alt="book"></a>
-						</div>
-						<div class="dz-content">
-							<div class="dz-header position-relative">
-								<div>
-									<div class="d-flex justify-content-between">
-									 <ul class="d-block w-100 dz-tags ">
-										<li><a href="books-detail.php">Dram</a></li>
-									 </ul>
-									 <div>
-										<!-- <span class="badge">Bu gün üçün 10% endirim</span> -->
-										<span class="badge position-absolute end-0">50% endirim</span>
-									 </div>
-									</div>
-									<h4 class="title title__data-info  mb-0"><a href="books-detail.php">Çərpələng
-											Uçuran</a></h4>
-								</div>
-								
-							</div>
-
-							<div class="dz-body">
-								<div class="dz-rating-box">
-									<div>
-										<p class="dz-para mb-0">
-											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni
-											müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə,
-										 </p>		
-										
-
-									</div>
-									
-								</div>
-								<div class="rate">
-									<ul class="book-info">
-										<li><span>Müəllif</span><a href="author.php" class="author__info">Xaliq
-												Hüseyn</a></li>
-										<li><span>Çap</span>Parlaq İmzalar</li>
-										<!-- <li><span>İl</span>2020</li> -->
-									</ul>
-									<div class="d-flex align-items-center mt-2">
-										<div class="price">
-								     	  <span class="price-num price-num--list text-primary"> ₼10.00</span>
-									      <del class="price-num--del"> ₼15.00</del>
-								       </div>
-									</div>
-									<div class="d-flex justify-content-between mt-2">
-										
-									<div class="d-flex align-items-center">
-										<a class="btn btn-secondary btnhover2 me-2"><i
-												class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
-										<div class="heart__icon--boxed position-relative pos__bottom ms-3">
-											<i class="far fa-heart js-heart heart"></i>
-										</div>
-									</div>
-
-				                    <div>
-										 <div class="review-num">
-										<h4 class="review-num--para">4.0</h4>
-										<ul class="dz-rating d-flex">
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-muted"></i></li>
-										</ul>
-										<!-- <span><a href="javascript:void(0);"> 235 Baxış</a></span> -->
-									  </div>
-									</div>
-								 
-
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="book_discount--box">
-					<div class="dz-shop-card style-2">
-						<div class="dz-media dz-media--height">
-							<a href="books-detail.php"><img src="assets/images/booksimage/c&c.jpg"
-									alt="book"></a>
-						</div>
-						<div class="dz-content">
-							<div class="dz-header position-relative">
-								<div>
-									<div class="d-flex justify-content-between">
-									 <ul class="d-block w-100 dz-tags ">
-										<li><a href="books-detail.php">Dram</a></li>
-									 </ul>
-									 <div>
-										<!-- <span class="badge">Bu gün üçün 10% endirim</span> -->
-										<span class="badge position-absolute end-0">50% endirim</span>
-									 </div>
-									</div>
-									<h4 class="title title__data-info  mb-0"><a href="books-detail.php">Çərpələng
-											Uçuran</a></h4>
-								</div>
-								
-							</div>
-
-							<div class="dz-body">
-								<div class="dz-rating-box">
-									<div>
-										<p class="dz-para mb-0">
-											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni
-											müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə,
-										 </p>		
-										
-
-									</div>
-									
-								</div>
-								<div class="rate">
-									<ul class="book-info">
-										<li><span>Müəllif</span><a href="author.php" class="author__info">Xaliq
-												Hüseyn</a></li>
-										<li><span>Çap</span>Parlaq İmzalar</li>
-										<!-- <li><span>İl</span>2020</li> -->
-									</ul>
-									<div class="d-flex align-items-center mt-2">
-										<div class="price">
-								     	  <span class="price-num price-num--list text-primary"> ₼10.00</span>
-									      <del class="price-num--del"> ₼15.00</del>
-								       </div>
-									</div>
-									<div class="d-flex justify-content-between mt-2">
-										
-									<div class="d-flex align-items-center">
-										<a class="btn btn-secondary btnhover2 me-2"><i
-												class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
-										<div class="heart__icon--boxed position-relative pos__bottom ms-3">
-											<i class="far fa-heart js-heart heart"></i>
-										</div>
-									</div>
-
-				                    <div>
-										 <div class="review-num">
-										<h4 class="review-num--para">4.0</h4>
-										<ul class="dz-rating d-flex">
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-muted"></i></li>
-										</ul>
-										<!-- <span><a href="javascript:void(0);"> 235 Baxış</a></span> -->
-									  </div>
-									</div>
-								 
-
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-				<div class="book_discount--box">
-					<div class="dz-shop-card style-2">
-						<div class="dz-media dz-media--height">
-							<a href="books-detail.php"><img src="assets/images/booksimage/Babil-yanarkən.png"
-									alt="book"></a>
-						</div>
-						<div class="dz-content">
-							<div class="dz-header position-relative">
-								<div>
-									<div class="d-flex justify-content-between">
-									 <ul class="d-block w-100 dz-tags ">
-										<li><a href="books-detail.php">Dram</a></li>
-									 </ul>
-									 <div>
-										<!-- <span class="badge">Bu gün üçün 10% endirim</span> -->
-										<span class="badge position-absolute end-0">50% endirim</span>
-									 </div>
-									</div>
-									<h4 class="title title__data-info  mb-0"><a href="books-detail.php">Çərpələng
-											Uçuran</a></h4>
-								</div>
-								
-							</div>
-
-							<div class="dz-body">
-								<div class="dz-rating-box">
-									<div>
-										<p class="dz-para mb-0">
-											“Çərpələng uçuran” bu an yaşanan müstəmləkəçilik sonrası yeni
-											müstəmləkəçilik (neokolonial), qloballaşma, mədəniyyətlərarası müharibə,
-										 </p>		
-										
-
-									</div>
-									
-								</div>
-								<div class="rate">
-									<ul class="book-info">
-										<li><span>Müəllif</span><a href="author.php" class="author__info">Xaliq
-												Hüseyn</a></li>
-										<li><span>Çap</span>Parlaq İmzalar</li>
-										<!-- <li><span>İl</span>2020</li> -->
-									</ul>
-									<div class="d-flex align-items-center mt-2">
-										<div class="price">
-								     	  <span class="price-num price-num--list text-primary"> ₼10.00</span>
-									      <del class="price-num--del"> ₼15.00</del>
-								       </div>
-									</div>
-									<div class="d-flex justify-content-between mt-2">
-										
-									<div class="d-flex align-items-center">
-										<a class="btn btn-secondary btnhover2 me-2"><i
-												class="flaticon-shopping-cart-1 m-r10"></i> Səbətə at</a>
-										<div class="heart__icon--boxed position-relative pos__bottom ms-3">
-											<i class="far fa-heart js-heart heart"></i>
-										</div>
-									</div>
-
-				                    <div>
-										 <div class="review-num">
-										<h4 class="review-num--para">4.0</h4>
-										<ul class="dz-rating d-flex">
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-yellow"></i></li>
-											<li><i class="flaticon-star text-muted"></i></li>
-										</ul>
-										<!-- <span><a href="javascript:void(0);"> 235 Baxış</a></span> -->
-									  </div>
-									</div>
-								 
-
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>	
-			</div>
+			</section>
 
 			<div class="row page mt-0">
 				<div class="col-md-12">

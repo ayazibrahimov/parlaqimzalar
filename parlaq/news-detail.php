@@ -89,7 +89,7 @@
 						</div>
 					</div>
 
-					<div class="clear" id="comment-list">
+					<!-- <div class="clear" id="comment-list">
 						<div class="post-comments comments-area style-1 clearfix">
 							<h4 class="comments-title">4 COMMENTS</h4>
 							<div id="comment">
@@ -204,7 +204,7 @@
 								</div>
 							</div>
 						</div>
-					</div>
+					</div> -->
 					<!-- blog END -->
 				</div>
 				<div class="col-xl-4 col-lg-4">
